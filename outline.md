@@ -26,3 +26,10 @@
 
 Appendix 1: The Pharaoh's procession to the temple
 Appendix 2: The Pharaoh's ascent at the temple
+
+---
+
+- Don't forget humor
+
+- Remember to defend. It is through defending others that you establish authority and invite others to submit to virtue.
+
