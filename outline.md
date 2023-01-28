@@ -6,18 +6,19 @@
     - on why it is the first
     - on why it is the only
     - basic ritual
-2. On the value of prayer
-    - when not sure what to do next
-    - when feeling unable to do anything
-    - on expectation and reward
-3. On  cycles
-    - frequencies
-    - coincidences
-4. On daily rituals
+2. On daily rituals
     - morning ritual
     - afternoon ritual
     - evening ritual
     - reasoning for rituals
+3. On the value of prayer
+    - when not sure what to do next
+    - when feeling unable to do anything
+    - on expectation and reward
+4. On  cycles
+    - frequencies
+    - coincidences
+
 5. On descriptions
     - on why not prescriptions
     - on individuality
