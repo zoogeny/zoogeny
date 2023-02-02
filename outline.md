@@ -16,9 +16,9 @@
     - when feeling unable to do anything
     - on expectation and reward
 4. On  cycles
+    - pattern for a wave
     - frequencies
     - coincidences
-
 5. On descriptions
     - on why not prescriptions
     - on individuality
