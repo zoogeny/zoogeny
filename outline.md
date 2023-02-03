@@ -15,7 +15,7 @@
     - when not sure what to do next
     - when feeling unable to do anything
     - on expectation and reward
-4. On  cycles
+4. On cycles
     - pattern for a wave
     - frequencies
     - coincidences
