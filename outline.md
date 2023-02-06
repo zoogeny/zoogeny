@@ -26,11 +26,52 @@
 7. On domination and submission
 
 Appendix 1: The Pharaoh's procession to the temple
+    - consider iconic positions
+        - High priest
+        - Chief councilor /advisor / administrator
+        - General of armies
+        - Chief architect / masons
+        - Chief of agriculture
+        - Chief artisan
 Appendix 2: The Pharaoh's ascent at the temple
+
+---
+
+TODO:
+- rewrite: On Love of Life
+- draft: On Domination
+- outline: On The One
+- outline: Appendix 1
+- outline: Appendix 2
+- rewrite: On daily rituals (new ritual routine)
+- finalize: chapter order
+- edit: edit edit edit (all chapters numerous times)
+- outline: preface
+- outline: introduction
+- outline: afterword
+- outline: acknowledgements
+- outline: dedication
+- outline: table of contents
 
 ---
 
 - Don't forget humor
 
 - Remember to defend. It is through defending others that you establish authority and invite others to submit to virtue.
+
+---
+
+Consider the order:
+
+* On rising at dawn
+* On daily rituals
+
+* Value of submission
+* Value of cycles
+
+* Value of love
+* Value of prayer
+
+* On descriptions
+* On "The One"
 
