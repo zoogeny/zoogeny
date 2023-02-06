@@ -38,7 +38,6 @@ Appendix 2: The Pharaoh's ascent at the temple
 ---
 
 TODO:
-- rewrite: On Love of Life
 - draft: On Domination
 - outline: On The One
 - outline: Appendix 1
