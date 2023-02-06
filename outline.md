@@ -1,7 +1,9 @@
 
 0. On "The One"
+    - related spiritual traditions
     - the separation
     - the returning
+    - simultaneity
 1. On rising at dawn
     - on why it is the first
     - on why it is the only
@@ -38,11 +40,11 @@ Appendix 2: The Pharaoh's ascent at the temple
 ---
 
 TODO:
+- rewrite: On daily rituals (new ritual routine)
 - draft: On Domination
-- outline: On The One
+- draft: On The One
 - outline: Appendix 1
 - outline: Appendix 2
-- rewrite: On daily rituals (new ritual routine)
 - finalize: chapter order
 - edit: edit edit edit (all chapters numerous times)
 - outline: preface
