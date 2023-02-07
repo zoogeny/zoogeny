@@ -40,7 +40,6 @@ Appendix 2: The Pharaoh's ascent at the temple
 ---
 
 TODO:
-- rewrite: On daily rituals (new ritual routine)
 - draft: On Domination
 - draft: On The One
 - outline: Appendix 1
