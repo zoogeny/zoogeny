@@ -25,7 +25,7 @@
     - on why not prescriptions
     - on individuality
 6. On love of life
-7. On domination and submission
+7. On dominance and submission
 
 Appendix 1: The Pharaoh's procession to the temple
     - consider iconic positions
@@ -40,8 +40,8 @@ Appendix 2: The Pharaoh's ascent at the temple
 ---
 
 TODO:
-- draft: On Domination
 - draft: On The One
+- rewrite: On Dominance
 - outline: Appendix 1
 - outline: Appendix 2
 - finalize: chapter order
