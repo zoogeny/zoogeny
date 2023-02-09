@@ -37,6 +37,9 @@ Appendix 1: The Pharaoh's procession to the temple
         - Chief artisan
 Appendix 2: The Pharaoh's ascent at the temple
 
+Afterword
+    - Collection of various sources for further study
+
 ---
 
 TODO:
@@ -45,10 +48,10 @@ TODO:
 - outline: Appendix 1
 - outline: Appendix 2
 - finalize: chapter order
+- draft: afterword
 - edit: edit edit edit (all chapters numerous times)
 - outline: preface
 - outline: introduction
-- outline: afterword
 - outline: acknowledgements
 - outline: dedication
 - outline: table of contents
