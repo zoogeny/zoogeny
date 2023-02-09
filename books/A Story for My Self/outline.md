@@ -40,8 +40,8 @@ Appendix 2: The Pharaoh's ascent at the temple
 ---
 
 TODO:
-- draft: On The One
 - rewrite: On Dominance
+- rewrite: On The One
 - outline: Appendix 1
 - outline: Appendix 2
 - finalize: chapter order
