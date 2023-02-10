@@ -45,8 +45,8 @@ Afterword
 TODO:
 - rewrite: On Dominance
 - rewrite: On The One
-- outline: Appendix 1
-- outline: Appendix 2
+- draft: Appendix 1
+- draft: Appendix 2
 - finalize: chapter order
 - draft: afterword
 - edit: edit edit edit (all chapters numerous times)
