@@ -1,4 +1,4 @@
-## On love of life
+## Value of Love
 
 ### Definition of Love
   - two conscious entities working together on a goal external to one or more entities

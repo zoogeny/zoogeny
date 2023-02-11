@@ -1,4 +1,4 @@
-## On daily rituals
+## On Daily Rituals
 
 My rituals are not laws. I try not to be overly strict about them. Failing to adhere to a ritual does not imply a need for judgement, punishment or feelings of guilt.
 

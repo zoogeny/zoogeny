@@ -1,4 +1,4 @@
-## On Dominance and Submission
+## Value of Submission
 
 ### Dominance
 

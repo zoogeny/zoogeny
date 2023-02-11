@@ -1,4 +1,4 @@
-## On  cycles
+## Value of Cycles
 
 My preference is for my philosophy to be rooted in my own experience. I experience cyclic patterns in nature.
 

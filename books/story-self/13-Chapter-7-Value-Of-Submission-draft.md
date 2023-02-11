@@ -1,4 +1,4 @@
-## On Dominance and Submission
+## Value of Submission
 
 When I write on dominance and submission I am considering social hierarchy and not sexual role play.
 

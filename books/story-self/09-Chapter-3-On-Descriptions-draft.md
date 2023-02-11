@@ -1,4 +1,4 @@
-## On descriptions
+## On Descriptions
 
 I wrote this book to remind myself the important points for building my life. I wrote this book to communicate to others what I am trying to do and why I am trying to do it.
 

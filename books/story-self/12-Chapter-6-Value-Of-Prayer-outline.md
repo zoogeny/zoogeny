@@ -1,4 +1,4 @@
-## On the value of prayer
+## Value of Prayer
 
 - Definition of prayer
     - express thanks / gratitude

@@ -1,4 +1,4 @@
-## On daily rituals
+## On Daily Rituals
 
 - flexible 
     - be open to changes
