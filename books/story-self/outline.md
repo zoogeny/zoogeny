@@ -50,7 +50,6 @@ Publisher info
 ---
 
 TODO:
-- rewrite: On The One
 - draft: Appendix 1
 - draft: Appendix 2
 - finalize: chapter order
