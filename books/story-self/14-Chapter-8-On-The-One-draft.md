@@ -1,89 +1,105 @@
 ## On the One
 
-The One that I contemplate is the singular essence. It is pure being, the source from which all else emanates. The One is a divine unity.
+The One is a singular essence. The One is pure being. The One is the source from which all else emanates. The One is divine unity.
 
-The difficulty in talking about such things is that they are indescribable. We use the term ineffable to denote the inexpressibility of the One.
+The One is indescribable, ineffable, and inexpressible.
 
-We can try to say that everything exists in the One. It may be more correct to say everything exists because of the One. It may be even more correct to say that the only thing that exists is the One. Everything that exists is some manifestation of some part of the One.
+The One is the only thing that exists. Everything appears to exist in the One. Everything appears to exist because of the One. Everything is some manifestation of some part of the One.
 
-Most of the descriptions of the One sound poetic. Like comparing it to an inexhaustible fountain which overflows.
+The One is like an inexhaustible fountain which overflows.
 
-The first thing into which the One overflows was called the Nous by certain Greeks. The Nous is itself infinite in extent. I consider time as existing within the Nous. 
+The One overflows first into the Nous. Time exists indefinitely within the Nous. Every extent is infinite within the Nous.
 
-All possible descriptions exist within the Nous. All possible logical and mathematical propositions exist within the Nous. All possible metrics and measures exist within the Nous. 
+The Nous contains all possible descriptions, all possible logical and mathematical propositions, and all possible metrics and measures.
 
-The Nous contains all thinkable thoughts. It contains all languages and all possible systems of symbols. It contains every permutation of every dimensional space. Whatever can be written down or described exists within the Nous.
+The Nous contains all languages, all thinkable thoughts, and all possible systems of symbols.
 
-I think of the Nous as a sufficiently complex information system such that self-awareness and consciousness arises. It is the highest and purest consciousness as it is the consciousness formed of all possible information systems. No system could be more complex.
+The Nous contains all permutations of every dimensional space.
 
-The consciousness of the Nous compares itself to the One. The Nous is all descriptions. The One is indescribable. 
+The Nous is self-aware. The Nous is the highest and purest consciousness.
 
-This boundary between the Nous and the One is the third emanation from the One. It was called the Psyche, World Soul or Universal Soul by certain Greeks.
+The Nous compares itself to the One. The Nous is all descriptions. The One is indescribable. 
+
+The Psyche is the boundary between the One and the Nous. The Psyche is the second emanation from the One.
 
 ### Related Spiritual Traditions
 
-Most of these terms and descriptions come from Neoplatonism and therefor from Plotinus. This follower of Plato interpreted the mystical aspects of Plato's philosophy and fashioned a system from it.
+Most of these terms come from Plotinus and his systemic interpretation of Plato's philosophy that we now call Neoplatonism.
 
-The most general mystical belief is that the world emanates from some singular central monad. There are many different systems with many different levels of emanation. A central theme to all of them is that nature, including humans, is low on the chain of emanation. However, there is some process by which conscious entities in this lower emanation travel back up through the levels of emanation. This transcendence continues back to the Nous and eventually to the One itself.
+A general mystical belief is that the world emanates from a singular unity. Each mystical system has different levels of emanation. A common theme is that nature and humans are low on the chain of emanation.
 
-This transcendent journey is called a mystical experience. There are many different beliefs on how to achieve such an experience. It is often associated with a sense of becoming whole and united with all existence. Those who claim to have had this experience also report feelings of overwhelming joy and bliss.
+Some mystical traditions teach that there is a process by which conscious entities in the lowest emanation can travel back up through the higher levels. This transcendence continues back to the Nous and eventually to the One itself.
 
-I see many parallels to spiritual traditions such as Taoism. The way that the Tao itself is described matches much of the poetic language used to describe the One.
+Each spiritual tradition to believe in such a transcendent journey will have a belief on what processes are required to achieve this experience.
 
-Buddhism, especially the Zen variety, considers these mystical ideas in many of their doctrines. The Hindu Upanishads similarly use poetic language to describe a singular essence that bears strong similarity to the One.
+Those who claim to have had transcendent experiences usually report a feeling during the experience of becoming whole and united with all existence. They often claim to experience feelings of bliss.
 
-Abrahamic religions have a long history of mystical thought embedded within them. The writings of Sufi mystics and Islamic mystics like Ibn 'Arabi speak in terms aligned with the Neoplatonism. Jewish mysticism including the Kabbalah shares some striking similarities. Christian Gnosticism contains similar ideas.
+Taoism is one spiritual tradition where the description of the Tao matches many of the descriptions of the One.
 
-I also see strong parallels to the concepts of Spinoza and his God of Nature.
+Buddhism and Zen use similar mystical ideas to describe the enlightenment of the Buddha.
+
+Hindu spiritualists explore similar ideas in the Upanishads. They share the idea of a singular spiritual source from which all emanates.
+
+Abrahamic religions often permit mystical ideas. Islam has Sufism and mystics like Ibn 'Arabi. Judaism has Kabbalah. Christianity has roots in Gnosticism and mystics like Meister Eckhart.
+
+Philosophy has writers like Spinoza with his pantheistic God of nature.
 
 ### The separation
 
-My own understanding is not entirely like the spiritual traditions above. I can't help but draw from their language and to reuse their metaphors, symbols and imagery.
-
-I contemplate the self-awareness of the Nous. The set of all thinkable thoughts includes the thought that there is something outside of itself. Yet how can this Nous possibly define that which is undefinable.
-
-There are two options for the Nous to understand the One. The first is to list all possible definable things. Yet this list is inexhaustible. A second option is to consider all of the things that the One is not. This definition through negation is called apophatic. However, this list too must be inexhaustible.
+The Nous is self-aware, conscious and contains all possible thoughts. One such thought is the question of what is outside of the set of all possible thoughts. How can the set of all possible thoughts know what is not in the set of all possible thoughts?
 
 It is said the One is everything and the One is nothing.
 
-This creates a mystery within the Nous. If the Nous emanates from the One then the Nous is part of the One. The Nous therefore cannot know itself fully even though it contains all knowable thoughts. It cannot know the unknowable aspects of the One.
+The Nous could attempt to list all possible definable things. But that list is inexhaustible.
 
-This is a subject to object relationship. The Nous is treating itself as a subject and the One as an object. Yet the Nous exists within the One. The mystery for the Nous is how to know the One, how to experience the One.
+The Nous could attempt to list all of the things that are not the One. But that list is inexhaustible.
 
-The Nous then turns to the contemplation of the Psyche, or the boundary between itself and the One. The Nous is looking for a way to dissolve the boundary between itself and the One.
+The Nous becomes a subject and the One appears as an object. Yet the Nous exists within the One, emanates from the One.
 
-Through an exhaustive search of this Psyche all universes, including our own, are created.
+The Nous is aware of a mystery in this dilemma. The Nous emanates from the One but the One seems to be unknowable. The Nous appears to be denied the ability to truly know itself.
 
-This is a process of separation, of the Nous as individual from the One.
+The Nous then contemplates the Psyche, the boundary between itself and the One. The Nous desires to dissolve the boundary between itself and the One.
+
+All universes, including our own, are created through the Nous' exhaustive search of the Psyche.
+
+This is a process of separation. The Nous as individual from the One.
 
 ### The returning
 
-The Nous considers that within itself is all possible things. If there is a possibility for a unification between the Nous and the One then it exists within itself.
+The Nous contemplates that within itself anything that could exist would exist. Therefore, if a process for unification between itself and the One could exist then such a process would exist within itself.
 
-The Nous finds conscious individuals within itself, within the universes that it emanates through the Psyche. It sees those conscious entities exploring the existence they find themselves within. It sees those conscious entities examining their own consciousness. It see those conscious entities attempting their own reunification with the One.
+The Nous is searching and discovering in a manner that might be called curation or creation.
 
-It is inevitable that such a narrative exists somewhere within the set of all possible universes. The Nous doesn't so much as create it, the Nous searches through all possible universes for such a narrative and discovers it. 
+The Nous finds conscious individuals within itself. These conscious individuals exist within the universes it created when it contemplated the Psyche.
 
-The Nous recognizes the journey of those conscious individuals as analogous, or even as an expression of its own journey to reunify with the One.
+The conscious individuals are examining their own existence. The conscious individuals are examining their own consciousness. The conscious individuals are seeking to unify themselves with their own idea of the One.
 
-I believe that the universe that we exist within is a universe found by the Nous that teaches the Nous how to reunify itself with the One. We are a reflection of the Nous' separation from the One through self-awareness. Our spiritual journey is a reflection of the Nous' spiritual journey.
+The Nous recognizes the journey of the conscious individuals. This spiritual journey of the conscious individual is analogous to the journey of the Nous to reunify itself with the One.
 
-I do not believe that journey has been completed in our time. I believe that journey shall be complete at some future point within this universe. Humans are one step in a long chain of time that culminates in the process by which the Nous achieves reunification with the One.
+I believe that we are are conscious individuals within a universe that has been found by the Nous. We are a reflection of the Nous separation from the One and our spiritual journey is a reflection of the Nous' spiritual journey.
+
+I do not believe that journey to complete reunification with the One has been completed in our time. I believe that journey shall be complete at some future point within this universe. 
+
+We are one step in a long chain of time that culminates in the process by which the Nous achieves reunification with the One.
 
 ### Simultaneity
 
-One hard thing to wrap my head around is that this process only appears to happen in time from the perspective of individuals within this universe. For the Nous, the entirety of our existence exists as a singular object. Our past, present and future are all available to the Nous.
+This process only appears to happen in time. We have the perspective of individuals existing within this universe.
 
-I consider it like a mystery novel, like a crime story. We are half way through the book and we feel the tension of the detective investigating the mystery. In reality the entire book is already written. The answer is somewhere near the end of the book.
+The Nous sees the entirety of our existence as a singular object. Our past, present and future exist simultaneously.
 
-The Nous sees every possible ending to this universe. That includes all endings where we fail to narrate the process of reunification. It also includes some endings where we succeed to narrate the process of reunification.
+The Nous sees every possible ending to this universe. The Nous sees all endings where we fail to narrate the process of reunification. The Nous finds some endings where we successfully narrate the process of reunification.
 
-At another level, the separation of the Nous from the One and the reunification of the Nous to the One also happens outside of time. It isn't a correct view to say that at the beginning of this universe the Nous was separate from the One and by the time this universe ends the Nous is reunited with the One.
+The separation of the Nous from the One and the reunification of the Nous to the One happen outside of time.
 
-All phases are happening simultaneously for the Nous and the One both exist outside of time. 
+It is not correct to say that at the beginning of time within this universe the Nous was separate from the One. It is not correct to say that when this universe ends then the Nous will be reunited with the One.
 
-The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, fall and summer. Like night, day, afternoon and evening. But instead of happening sequentially they are happening simultaneously and eternally.
+The Nous and the One exist outside of time so all phases are happening simultaneously for them.
 
-As a creature bound to time I find this impossible to understand. However, I believe that humans are a critical component to this process. I believe that our existence is a part of this cycle.
+The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, fall and summer. Like night, day, afternoon and evening. Instead of these happening sequentially they are happening simultaneously and eternally.
 
-In this way I see humanity as working with the Nous towards the Nous' reunification with the One. And reciprocally the Nous is working with humans towards our reunification with the One. For it is through the narrative of our own mystical transcendence that the Nous learns the process by which it will reunify to the One.
+I believe that we are a critical component to this process. I believe that our existence is a part of this cycle.
+
+We are working with the Nous towards the Nous' reunification with the One. The Nous is working with us towards our reunification with the One. 
+
+It is through the narrative of our mystical transcendence that the Nous learns the process by which it will reunify to the One.
