@@ -1,4 +1,4 @@
-## On descriptions
+## On Descriptions
 
 - is / ought fallacy
 - let people know what I am doing

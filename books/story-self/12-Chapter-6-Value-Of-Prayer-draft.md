@@ -1,4 +1,4 @@
-## On the value of prayer
+## Value of Prayer
 
 I think of prayer as directed contemplation. I do not think of any religious or spiritual traditions.
 

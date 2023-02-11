@@ -1,4 +1,4 @@
-## On  cycles
+## Value of Cycles
 
 - Nature is full of cycles
     - day cycle

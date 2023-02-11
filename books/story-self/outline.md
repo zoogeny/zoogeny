@@ -1,31 +1,32 @@
 
-0. On "The One"
-    - related spiritual traditions
-    - the separation
-    - the returning
-    - simultaneity
-1. On rising at dawn
+
+1. On Rising at Dawn
     - on why it is the first
     - on why it is the only
     - basic ritual
-2. On daily rituals
+2. On Daily Rituals
     - morning ritual
     - afternoon ritual
     - evening ritual
     - reasoning for rituals
-3. On the value of prayer
-    - when not sure what to do next
-    - when feeling unable to do anything
-    - on expectation and reward
-4. On cycles
+3. On Descriptions
+    - on why not prescriptions
+    - on individuality
+4. Value of cycles
     - pattern for a wave
     - frequencies
     - coincidences
-5. On descriptions
-    - on why not prescriptions
-    - on individuality
-6. On love of life
-7. On dominance and submission
+5. Value of Love
+6. Value of Prayer
+    - when not sure what to do next
+    - when feeling unable to do anything
+    - on expectation and reward
+7. Value of Submission
+8. On the One
+    - related spiritual traditions
+    - the separation
+    - the returning
+    - simultaneity
 
 Appendix 1: The Pharaoh's procession to the temple
     - consider iconic positions
@@ -40,21 +41,26 @@ Appendix 2: The Pharaoh's ascent at the temple
 Afterword
     - Collection of various sources for further study
 
+Publisher info
+    - copyright
+    - Edition
+    - Legal statement
+    - Library of Congress registration
+
 ---
 
 TODO:
-- rewrite: On Dominance
 - rewrite: On The One
 - draft: Appendix 1
 - draft: Appendix 2
 - finalize: chapter order
 - draft: afterword
 - edit: edit edit edit (all chapters numerous times)
-- outline: preface
 - outline: introduction
 - outline: acknowledgements
 - outline: dedication
 - outline: table of contents
+- outline: publisher info
 
 ---
 
@@ -66,15 +72,25 @@ TODO:
 
 Consider the order:
 
-* On rising at dawn
-* On daily rituals
+01. Title page
+02. Publisher info
+03. Dedication
+04. Acknowledgements
+05. Table of contents
+06. Introduction
 
-* Value of submission
-* Value of cycles
+07. Chapter 1 - On rising at dawn
+08. Chapter 2 - On daily rituals
+09. Chapter 3 - On descriptions
 
-* Value of love
-* Value of prayer
+10. Chapter 4 - Value of cycles
+11. Chapter 5 - Value of love
+12. Chapter 6 - Value of prayer
+13. Chapter 7 - Value of submission
 
-* On descriptions
-* On "The One"
+14. Chapter 8 - On "The One"
 
+15. Appendix 1 - Pharaohs Procession
+16. Appendix 2 - Pharaohs Ascent
+
+17. Afterword
