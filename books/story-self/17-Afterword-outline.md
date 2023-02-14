@@ -1,5 +1,7 @@
 ## Afterword
 
+- Areas for further study to provide material for future revisions to the book
+
 - Neoplatonism
     - Enneads and other works by Plotinus
     - A selection of neoplatonic work from other prominent philosophers and students of Plotinus
@@ -8,6 +10,8 @@
     - Phaedrus
     - Timaeus
     - Parmenides
+- Aristotle
+    - Nicomachean ethics
 - Kabbalah (Jewish mysticism)
     - The Zohar
     - The Sefer Yetzirah the book of creation
@@ -64,5 +68,9 @@
     - Richard Rorty - Contingency, Irony and Solidarity
     - Spinoza - Ethics
     - Kierkegaard - Fear and Loathing, Either/Or
+    - Nietzsche - Genealogy of Morals
 - Esotericism / Occultism
+    - Hermeticism
+    - Theosophy
+    - Thelema
 - New thought
