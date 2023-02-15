@@ -10,14 +10,14 @@
 - He begins to walk forward and steps down a step of the dais
     - He walks slowly and methodically
     - He doesn't turn his head; he keeps his eyes looking forward
-- As he passes his high priests they bow
+- He passes his councilors and they bow low
+    - His chief councilor bows because he admires the well run
+      civilization that continues prosperously under the Pharaoh's leadership
+    - They begin to follow him in the procession
+- He takes another step down and passes his high priests who bow low
     - His high priest bows because he loves him. 
       He held him and blessed him when he was an infant. 
       He was close to his parents.
-    - They begin to follow him in the procession
-- He steps down another level and passes his councilors and they bow
-    - His chief councilor bows because he admires the well run
-      civilization that continues prosperously under the Pharaoh's leadership
     - They begin to follow him in the procession
 - He steps down another level and passes his generals and they bow
     - His General of Armies bows because he respects the military
@@ -65,3 +65,23 @@
 - A key to unlock the story's meaning is that the Pharaoh doesn't care, or even really
   consider, for what reason each person is bowing.
     - He is content that they are bowing but doesn't question why they do so
+
+---
+
+- still not certain on the order of the councilors and the priests. They should come first but I don't know exactly which is first and which is second
+
+- I don't like the reasons the people bow in most cases. But given that the meaning is that the Pharaoh doesn't care - maybe I should not care myself? Maybe I should not state their reason for bowing so authoritatively?
+
+- I'm not sure the set of characters is final or requires additions  
+- I am not sure the order is correct
+  - Councilors
+  - Priests
+  - Generals
+  - Guards / Soldiers 
+  --- enters litter
+  - architects / masons
+  - artisans / craftsmen
+  - scribes
+  - farmers
+  - laborers
+  - poor / disadvantaged
