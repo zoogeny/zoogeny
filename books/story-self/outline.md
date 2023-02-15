@@ -50,8 +50,8 @@ Publisher info
 ---
 
 TODO:
-- draft: Appendix 1
-- draft: Appendix 2
+- rewrite: Appendix 1
+- rewrite: Appendix 2
 - finalize: chapter order
 - draft: afterword
 - edit: edit edit edit (all chapters numerous times)
