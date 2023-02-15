@@ -1,5 +1,4 @@
 
-
 1. On Rising at Dawn
     - on why it is the first
     - on why it is the only
@@ -41,7 +40,7 @@ Appendix 2: The Pharaoh's ascent at the temple
 Afterword
     - Collection of various sources for further study
 
-Publisher info
+Copyright
     - copyright
     - Edition
     - Legal statement
@@ -52,14 +51,25 @@ Publisher info
 TODO:
 - rewrite: Appendix 1
 - rewrite: Appendix 2
-- finalize: chapter order
+- draft: copyright
+- draft: dedication
+- draft: acknowledgements
+- draft: introduction
 - draft: afterword
-- edit: edit edit edit (all chapters numerous times)
-- outline: introduction
-- outline: acknowledgements
-- outline: dedication
+- finalize: chapter order
 - outline: table of contents
-- outline: publisher info
+- edit: edit edit edit (all chapters numerous times)
+
+- publish eBook version of the book
+    - investigate Kindle Direct Publishing (KDP): https://kdp.amazon.com/en_US
+    - investigate EPUB vs. Kindle Package Format: https://kdp.amazon.com/en_US/help/topic/G200634390
+    - investigate Cover Creator for the book cover: https://kdp.amazon.com/en_US/help/topic/G201113520
+    - Investigate book ordering:
+        - Front matter, body matter, back matter : https://kdp.amazon.com/en_US/help/topic/GDDYZG2C7RVF5N9J
+
+
+- publish Amazon print to order paperback
+    - investigate Kindle Create for paperback format: https://www.amazon.com/Kindle-Create/b?ie=UTF8&node=18292298011
 
 ---
 
@@ -72,7 +82,7 @@ TODO:
 Consider the order:
 
 01. Title page
-02. Publisher info
+02. Copyright
 03. Dedication
 04. Acknowledgements
 05. Table of contents
