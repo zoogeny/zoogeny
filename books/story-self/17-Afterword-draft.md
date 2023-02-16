@@ -1,0 +1,27 @@
+## Afterword
+
+There is a lot for me to learn. This section is meant to provide me a rough guide on areas for further study. My hope is to continue to revise this book and release new editions as I investigate these topics more deeply.
+
+Considering that I am relying on neoplatonic ideas that originate with Plotinus, I am compelled to read the Enneads at some point. I would also like to read some of the works of his students such as Porphyry.
+
+No education in Western Philosophy would be complete without Plato and Aristotle. My own interests lead me to consider the Phaedo, Phaedrus, Timaeus and Parmenides of Plato. From Aristotle I would at least like to finish his Nicomachean Ethics.
+
+There is no doubt that Jewish theology and Kabbala are an important contribution to Western spiritual tradition. I frequently come across the claim that our modern though is some synthesis of "Athens and Jerusalem". The five books of Moses, also known as the pentateuch in Christianity or the Torah feel like required reading. Some selection of the prophets in the Nevi'im and some writings from the Ketuvim seem appropriate. I would also like to explore more deeply the ideas of Maimonides, specifically his Mishneh Torah and the Guide for the Perplexed. I believe there to be value in the writings contained in the Mishna and Gemara of the Talmud. From the mystical Judaism and Kabbala I would be interested in the Zohar and the Sefer Yetzirah.
+
+From Christian theology there is much to explore but I would focus first on the Gospels. A selection of the books from the New Testament would follow. Of the great Christian minds I would consider Thomas Aquinas important as he attempted a similar combination of Aristotle and Christianity that Maimonides had attempted with Judaism. From the mystical side I would be interested in the writings of Meister Eckhart. From contemporary writers I would consider Mere Christianity by C.S. Lewis. I am also intrigued by The Kingdom of God Is Within You by Leo Tolstoy.
+
+I have long loved the ideas of Taoism and have read some popular modern interpretations. I would like to take a deep look at the original Tao Te Ching followed by a look at the Zhuangzi attributed to Zhuang Zhou.
+
+Alongside Taoism I am attracted to the philosophy of Zen or Chan Buddhism. This blend of taoism and buddhism feels strongly aligned to my own thoughts. It is difficult for me to select a representative selection of Zen texts since they seem to range through Buddhist classics. Some selections I identified during a brief investigation include several Buddhist sutras such as the Lankavatara Sutra, the Diamond Sutra, the Vimalakirti Sutra, the Avatamsaka Sutra, the Buddhavatamsaka Sutra, the Platform Sutra. I am partial to Zen koans and so would like to read the collections Gateless Gate and Blue Cliff Record. Other titles that appeal to me are the Kana Shōbōgenzō by Eihei Dōgen, the sayings of Linji Yixuan, and The Four Texts of the Zen Sect known as the Zenshū Shiburoku.
+
+Buddhism is such a deep topic with so much written that it is difficult to know even where to start. There appear to be two Tripitaka in the Pali Canon and the Sutta Pitaka. There is also important Mahayana Sutras in the form of the Ajitasena Sutra and the Saddharma-pundarika-sutra (True Dharma White Lotus Sutra) or (Threefold Lotus Sutra). I am quite interested in finding the writings closest to the words of the original Buddha.
+
+Hinduism is another deep topic with centuries of material to draw from. I need to reread the Upanishads and would like to read the Bhagavad Gita. There are also the four vedas: the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda
+
+Confucianism is probably the largest philosophical system that I have almost no direct knowledge of. It appears the main text are the "Four books" of Great Learning, Doctrine of the Mean, Analects and Mencius. Then there are the "Five classics" of Classic of Poetry, Book of Documents, Book of Rites, I Ching, and Spring and Autumn Annals.
+
+I also need to consider the treasures in Western philosophy. I have a strong interest in phenomenology so would like to tackle Being and Time by Martin Heidegger. Ludwig Wittgenstein is a character who greatly interests me and I feel drawn to read his Philosophical Investigations. I have had The Varieties of Religious Experience by William James on my bookshelf sitting unread for far too long. The same is true for Baruch Spinoza's Ethics.  I have a deep appreciation for the works of Kierkegaard that I have already read and it seems only right to include Either/Or in that list. I have a collected work of Nietzsche on my bookshelf and I want to read his On the Genealogy of Morality. Bertrand Russel is a towering figure in modern philosophy and he wrote Mysticism and Logic and Other Essays which feels directly related to the subjects of my interest.
+
+There are many other spiritual traditions I would like to investigate. Hermeticism, Theosophy and Thelema are all interesting esoteric and occult spiritual traditions. There are many paganisms worth exploring. Zoroastrianism contributed many ideas to modern spiritual traditions. I also believe that some new thought movement ideas are worth serious attention. 
+
+This is more content than I can reasonably get through but I believe it sketches out a general direction for further study on these topics. I know I am missing entire universes of thought and I hope to become aware of them so I can attempt to incorporate them into my own thinking.

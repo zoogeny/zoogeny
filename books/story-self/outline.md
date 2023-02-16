@@ -53,7 +53,7 @@ TODO:
 - rewrite: dedication
 - rewrite: acknowledgements
 - rewrite: introduction
-- draft: afterword
+- rewrite: afterword
 - finalize: chapter order
 - outline: table of contents
 - edit: edit edit edit (all chapters numerous times)
