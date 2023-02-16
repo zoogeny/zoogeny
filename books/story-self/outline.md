@@ -27,7 +27,7 @@
     - the returning
     - simultaneity
 
-Appendix 1: The Pharaoh's procession to the temple
+Appendix 1: The Pharaoh's procession to his temple
     - consider iconic positions
         - High priest
         - Chief councilor /advisor / administrator
@@ -35,7 +35,7 @@ Appendix 1: The Pharaoh's procession to the temple
         - Chief architect / masons
         - Chief of agriculture
         - Chief artisan
-Appendix 2: The Pharaoh's ascent at the temple
+Appendix 2: The Pharaoh's ascent at his temple
 
 Afterword
     - Collection of various sources for further study
@@ -49,8 +49,6 @@ Copyright
 ---
 
 TODO:
-- rewrite: Appendix 1
-- rewrite: Appendix 2
 - draft: copyright
 - draft: dedication
 - draft: acknowledgements
