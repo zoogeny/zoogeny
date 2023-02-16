@@ -49,10 +49,10 @@ Copyright
 ---
 
 TODO:
-- draft: copyright
-- draft: dedication
-- draft: acknowledgements
-- draft: introduction
+- rewrite: copyright
+- rewrite: dedication
+- rewrite: acknowledgements
+- rewrite: introduction
 - draft: afterword
 - finalize: chapter order
 - outline: table of contents
