@@ -23,6 +23,8 @@
 - Christian Theology
     - New testament
         - Special attention to Gospels
+    - Thomas Aquinas
+    - St. Augustine
 - Taoism
     - Tao Te Ching
     - Zhuangzi
@@ -69,6 +71,7 @@
     - Spinoza - Ethics
     - Kierkegaard - Fear and Loathing, Either/Or
     - Nietzsche - Genealogy of Morals
+    - Camus - Nuptials
 - Esotericism / Occultism
     - Hermeticism
     - Theosophy
