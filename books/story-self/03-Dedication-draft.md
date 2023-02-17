@@ -2,4 +2,4 @@
 
 To my mother, Judith
 
-You taught me many things including "better late than never"
+You taught me many beautiful ideas including "better late than never"

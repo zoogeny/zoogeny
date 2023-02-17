@@ -49,10 +49,6 @@ Copyright
 ---
 
 TODO:
-- rewrite: copyright
-- rewrite: dedication
-- rewrite: acknowledgements
-- rewrite: introduction
 - rewrite: afterword
 - finalize: chapter order
 - outline: table of contents
