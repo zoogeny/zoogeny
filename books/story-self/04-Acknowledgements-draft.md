@@ -10,7 +10,7 @@ I spent a lot of time watching YouTube videos on spirituality. Two channels stan
 
 One of the most profound ideas to affect me was contained in the "The Library of Babel" by Jorge Luis Borges. The Argentinian writer is a master of the short story and he weaves spiritual ideas into his prose with beauty and a deceptive ease.
 
-Plotinus must be mentioned, although I confess I haven't read his work in original form. I have long held vague ideas that are expressed clearly in his Neoplatonic terminology. It is a surprise and a pleasure to come across my own ideas expressed more clearly and thoroughly by a man who lived over a thousand years ago. I am indebted to him for the terminology but I must caution that my usage and interpretation of these words is unlikely to completely match his own.
+Plotinus must be mentioned, although I confess I have not read his work in original form. I have long held vague ideas that are expressed clearly in his Neoplatonic terminology. It is a surprise and a pleasure to come across my own ideas expressed more clearly and thoroughly by a man who lived over a thousand years ago. I am indebted to him for the terminology but I must caution that my usage and interpretation of these words is unlikely to completely match his own.
 
 Friedrich Nietzsche was the first philosopher that really engaged my mind. I remember the feeling of awe I had while I followed along his exposition of ideas. He deconstructed the foundations of morality before my eyes in a way that I could not argue against.
 

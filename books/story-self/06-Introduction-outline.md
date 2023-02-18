@@ -10,8 +10,8 @@
 - the value in sticking to one virtue
 - the value of anchoring that virtue in spirituality and philosophy
     - embracing spiritual ideas despite/alongside living rationally
-    - don't allow spiritual ideas to override your rational mind
-    - don't allow rational ideas to override your spirit and intuition
+    - do not allow spiritual ideas to override your rational mind
+    - do not allow rational ideas to override your spirit and intuition
 
 ---
 

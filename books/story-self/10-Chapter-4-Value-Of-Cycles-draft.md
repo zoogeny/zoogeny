@@ -44,4 +44,4 @@ Social cycle theory seems to have a long history of speculation from great think
 
 Another popular modern conception is the Strauss–Howe generational theory, also known as the Fourth Turning Theory. Another is the Kondratiev wave in economics, similar to the Long Cycle Theory. Ray Dalio tackles similar topics in his work on the debt cycle.
 
-There may be cycles that happen long outside of human record keeping. We can find some cycles in geological records but we don't have similar accurate records of aspects of society and civilization. I contemplate what kinds of cycles happen at frequencies on the order of magnitude of 10 years, 100 years, 1000 years, 10,000 years, and beyond.
+There may be cycles that happen long outside of human record keeping. We can find some cycles in geological records but we do not have similar accurate records of aspects of society and civilization. I contemplate what kinds of cycles happen at frequencies on the order of magnitude of 10 years, 100 years, 1000 years, 10,000 years, and beyond.

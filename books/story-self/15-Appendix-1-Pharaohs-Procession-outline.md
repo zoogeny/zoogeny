@@ -9,7 +9,7 @@
     - He stands tall with his head facing forward
 - He begins to walk forward and steps down a step of the dais
     - He walks slowly and methodically
-    - He doesn't turn his head; he keeps his eyes looking forward
+    - He does not turn his head; he keeps his eyes looking forward
 - He passes his councilors and they bow low
     - His chief councilor bows because he admires the well run
       civilization that continues prosperously under the Pharaoh's leadership
@@ -62,15 +62,15 @@
     - A poor old woman falls to her knees and bows before the Pharaoh. She bows because
       she knows that the Pharaoh is truly God.
 
-- A key to unlock the story's meaning is that the Pharaoh doesn't care, or even really
+- A key to unlock the story's meaning is that the Pharaoh does not care, or even really
   consider, for what reason each person is bowing.
-    - He is content that they are bowing but doesn't question why they do so
+    - He is content that they are bowing but does not question why they do so
 
 ---
 
-- still not certain on the order of the councilors and the priests. They should come first but I don't know exactly which is first and which is second
+- still not certain on the order of the councilors and the priests. They should come first but I do not know exactly which is first and which is second
 
-- I don't like the reasons the people bow in most cases. But given that the meaning is that the Pharaoh doesn't care - maybe I should not care myself? Maybe I should not state their reason for bowing so authoritatively?
+- I do not like the reasons the people bow in most cases. But given that the meaning is that the Pharaoh does not care - maybe I should not care myself? Maybe I should not state their reason for bowing so authoritatively?
 
 - I'm not sure the set of characters is final or requires additions  
 - I am not sure the order is correct

@@ -65,11 +65,15 @@ TODO:
 
 ---
 
-- Don't forget humor
+- Do not forget humor
 
 - Remember to defend. It is through defending others that you establish authority and invite others to submit to virtue.
 
 - Maybe find somewhere to describe the absurdity of our relationship with the Nous. Perhaps in the On the One chapter I could explicitly deny revelation and inspiration and comment on the fact that our being aligned with the Nous is a coincidence (one that it specifically sought out) and not a coordination. However, since revelation is not a tenable thing then this relationship is an absurdity.
+
+- Worth mentioning that nothing other than my mood changed. It was not like I won the lottery or suddenly became super popular with women. I still have bills to pay and all of the problems I had before the mood change.
+
+- Standardize the capitalization of headers within all chapters
 
 ---
 

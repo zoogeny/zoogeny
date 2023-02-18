@@ -22,7 +22,7 @@ I hope that by sharing my reasoning, my process, my principles, my practices and
 
 ### On individuality
 
-I recognize that I am not much like others. When I reflect upon it, I see that most people aren't like most other people.
+I recognize that I am not much like others. When I reflect upon it, I see that most people are not like most other people.
 
 Everyone seems to have different particular goals. Everyone has a different set of skills, abilities and expertise. Everyone comes from a different background and has a different collection of experiences. Everyone has different preferences and individual tastes.
 

@@ -1,6 +1,6 @@
 ## Introduction
 
-This book is a story for myself. It doesn't represent Truth in some ultimate sense. I am not certain I believe it all myself.
+This book is a story for myself. It does not represent Truth in some ultimate sense. I am not certain I believe it all myself.
 
 One task of philosophy is to answer the question: How does one live a good life? This book tries to answer this difficult question for my self. I do not aim to create a single universal philosophy. I want a grounding for the set of rituals and routines in my own life.
 
@@ -40,7 +40,7 @@ In some of the mystical ideas I saw a parallel to the process I was going throug
 
 I can only hope that my description of the coincidence of these ideas and the changes I made for my self may inspire others. 
 
-I don't expect it to solve anyone else's problems or to treat depression in general. I advise and insist that others seek qualified professional help if they suspect they are suffering from depression. I recommend that they follow whatever their chosen professional prescribes for their specific circumstances. I do not imply this book contains medical advice or even good advice for anyone other than myself.
+I do not expect it to solve anyone else's problems or to treat depression in general. I advise and insist that others seek qualified professional help if they suspect they are suffering from depression. I recommend that they follow whatever their chosen professional prescribes for their specific circumstances. I do not imply this book contains medical advice or even good advice for anyone other than myself.
 
 This particular coincidence of rising early, getting some sun and contemplating mystical ideas worked for me. If I could choose just a single virtue then I would choose to get up early and get sunlight into your the eyes. That is all that I ultimately require of myself.
 

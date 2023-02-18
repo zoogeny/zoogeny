@@ -10,7 +10,7 @@
         - all possible logical and mathematical propositions
         - all possible metrics and measures
         - all thinkable thoughts
-        - at least Borges' Library of Babel
+        - at least Borges's Library of Babel
     - Pure consciousness
 - Second emanation is the Psyche
     - Potentially the relationship between the Nous and the One
