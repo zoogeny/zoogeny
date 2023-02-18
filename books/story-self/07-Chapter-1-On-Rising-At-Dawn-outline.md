@@ -53,10 +53,6 @@
 
 ## Notes
 
-- The paragraphs are long winded and not really connected in a logical flow.
-
-- I am not making a good argument
-
-- I am not communicating the reasoning behind my actions (they seem to be arbitrary)
+- I am not making a good argument for why it is the first
 
 - Think about adding sources as footnotes (e.g. claims on cortisol hormone changes due to light intake on retinas)
