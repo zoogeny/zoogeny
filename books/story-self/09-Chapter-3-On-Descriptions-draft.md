@@ -2,7 +2,7 @@
 
 I wrote this book to remind myself the important points for building my life. I wrote this book to communicate to others what I am trying to do and why I am trying to do it.
 
-This book is not to tell others what to do. It contains a set of principles and practices that I want to live by. It contains a retelling of some ideas that encouraged me to adopt these principles and practices.
+This book is not meant to tell others what to do. It contains a set of principles and practices that I want to live by. It contains a retelling of some ideas that encouraged me to adopt these principles and practices.
 
 I am not attempting to be perfectly rational nor entirely empirical. I am not attempting any kind of science.
 
@@ -29,4 +29,3 @@ Everyone seems to have different particular goals. Everyone has a different set 
 No single program could be sufficient for all people. Not all people are able to rise at dawn. Not all people can follow my rituals.
 
 I do not try to tell anyone how to live. I do not dictate what are good principles to live by. I am trying to describe my individual reasoning for my behavior. I am sharing the results I obtain when I follow my own template.
-

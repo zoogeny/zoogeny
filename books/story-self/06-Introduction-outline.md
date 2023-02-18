@@ -12,3 +12,8 @@
     - embracing spiritual ideas despite/alongside living rationally
     - don't allow spiritual ideas to override your rational mind
     - don't allow rational ideas to override your spirit and intuition
+
+---
+
+
+Repeated: I had not answered the questions 

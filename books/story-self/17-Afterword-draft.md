@@ -2,7 +2,7 @@
 
 The following is meant to provide me a with rough guide on areas for further study. I plan to revise this book and to release new editions as I investigate these topics more deeply.
 
-Throughout the book I am relying on Neoplatonic ideas that originate with Plotinus. I am compelled to read the Enneads at some point. I would like to read some of the works of his students such as Porphyry.
+Throughout the book I am relying on Neoplatonic ideas that originate with Plotinus. I am therefore compelled to read the Enneads. I would like to read some of the works of his students such as Porphyry.
 
 No education in Western Philosophy would be complete without Plato and Aristotle. My own interests lead me to consider the Phaedo, Phaedrus, Timaeus and Parmenides of Plato. From Aristotle I would like to finish his Nicomachean Ethics.
 
@@ -18,9 +18,9 @@ Buddhism is such a deep topic with so much written that it is difficult to know 
 
 Hinduism is another deep topic with centuries of material to draw from. I need to reread the Upanishads and would like to read the Bhagavad Gita. There are also the four Vedas: the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda
 
-Confucianism is probably the largest philosophical system which which I have almost no direct knowledge. My research suggests that the main texts are the "Four books" of Great Learning, Doctrine of the Mean, Analects and Mencius. Then there are the "Five classics" of Classic of Poetry, Book of Documents, Book of Rites, I Ching, and Spring and Autumn Annals.
+Confucianism is probably the largest philosophical system for which which I have almost no direct knowledge. My research suggests that the main texts are the "Four books" of Great Learning, Doctrine of the Mean, Analects and Mencius. Then there are the "Five classics" of Classic of Poetry, Book of Documents, Book of Rites, I Ching, and Spring and Autumn Annals.
 
-I need to consider the treasures in Western philosophy. I have a strong interest in phenomenology so would like to tackle Being and Time by Martin Heidegger. Ludwig Wittgenstein is a character who greatly interests me and I feel drawn to read his Philosophical Investigations. I have had The Varieties of Religious Experience by William James on my bookshelf sitting unread for far too long. The same is true for Baruch Spinoza's Ethics.  I have a deep appreciation for the works I have read of Kierkegaard so it seems fitting to read Either/Or. I have a collected work of Nietzsche on my bookshelf and I want to read On the Genealogy of Morality. Bertrand Russel is a towering figure in modern philosophy and he wrote Mysticism and Logic and Other Essays which feels directly related to the subjects of my interest.
+I need to consider the treasures in Western philosophy. I have a strong interest in phenomenology so would like to tackle Being and Time by Martin Heidegger. Ludwig Wittgenstein is a character who greatly interests me and I feel drawn to read his Philosophical Investigations. I have had The Varieties of Religious Experience by William James on my bookshelf sitting unread for far too long. The same is true for Baruch Spinoza's Ethics. I have a deep appreciation for the works I have read of Kierkegaard so it seems fitting to read Either/Or. I have a collected work of Nietzsche on my bookshelf and I want to read On the Genealogy of Morality. Bertrand Russel is a towering figure in modern philosophy and he wrote Mysticism and Logic and Other Essays which feels directly related to the subjects of my interest. I would like to get a better understanding of the absurdism of Camus and feel his Nuptials might be a good place to look.
 
 There are many other spiritual traditions I would like to investigate. Hermeticism, Theosophy and Thelema are all interesting esoteric and occult spiritual traditions. There are many paganisms worth exploring. Zoroastrianism contributed many ideas to modern spiritual traditions. I also believe that some new thought movement ideas are worth serious attention.
 

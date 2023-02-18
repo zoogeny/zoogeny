@@ -4,7 +4,7 @@ My preference is for my philosophy to be rooted in my own experience. I experien
 
 Rising at dawn is an attempt to fully experience the day-night cycle. I experience the seasons and their equinoxes and solstices. I experience the lunar fortnight as the moon waxes and wanes. I experience the cyclical tides that result from the forces of the moon.
 
-My education on modern physics taught me that waves are a basis of our understanding of important physical processes. Electromagnetic radiation, which is responsible for light, electricity and magnetism can be described in terms of wavelengths. Sound, acoustics and resonance are understood in terms of waves. The fundamental equation that describes quantum states is an equation for a wave.
+My education on modern physics taught me that waves are a basis of our understanding of important physical processes. Electromagnetic radiation, which is responsible for light, electricity and magnetism can be described in terms of wavelengths. Sound, acoustics and resonance are understood in terms of waves. The fundamental equation that describes the evolution of quantum states is an equation for a wave.
 
 There is evidence in modern medical science of cycles within my own body. There is circadian rhythm and the melatonin cycle.
 
@@ -24,7 +24,7 @@ Frequency is an interesting property of waves. There is a relationship between t
 
 Waves that have different periods have peaks that move closer and further away from each other over time. The distance between the peaks can itself be described by a wave.
 
-Two waves whose peaks are frequently coincident can be seen as synchronized or aligned. I contemplate the degree to which I am aligned or synchronized with natural cycles. 
+Two waves whose peaks are frequently coincident can be seen as synchronized or aligned. I contemplate the degree to which I am aligned or synchronized with natural cycles.
 
 Rising at dawn is a conscious effort to align myself with the day night cycle caused by the Earth's rotational frequency. 
 
@@ -32,7 +32,7 @@ I contemplate the yearly seasonal cycles caused by the Earth's rotation around t
 
 I consider that I may be misaligned with additional cycles that would benefit my physical, mental and spiritual health. I wish to notice when I am misaligned with such cycles.
 
-I would like to know the duration of time between my becoming misaligned and noticing my misalignment. I would like the know the duration of time between noticing my misalignment and returning to alignment. I would like to know the frequency with which I become misaligned.
+I would like to know the duration of time between when I become misaligned and when I notice my misalignment. I would like the know the duration of time between when I notice that I am misaligned and when I return to alignment. I would like to know the frequency with which I become misaligned.
 
 ### Speculations
 
@@ -44,4 +44,4 @@ Social cycle theory seems to have a long history of speculation from great think
 
 Another popular modern conception is the Strauss–Howe generational theory, also known as the Fourth Turning Theory. Another is the Kondratiev wave in economics, similar to the Long Cycle Theory. Ray Dalio tackles similar topics in his work on the debt cycle.
 
-There may be cycles that may happen long outside of human record keeping. We can find some cycles in geological records but we don't have similar accurate records of aspects of society and civilization. I contemplate what kinds of cycles happen at the frequencies of 10 years, 100 years, 1000 years, 10,000 years, and beyond.
+There may be cycles that happen long outside of human record keeping. We can find some cycles in geological records but we don't have similar accurate records of aspects of society and civilization. I contemplate what kinds of cycles happen at frequencies on the order of magnitude of 10 years, 100 years, 1000 years, 10,000 years, and beyond.

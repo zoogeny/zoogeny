@@ -4,7 +4,7 @@ I think of prayer as directed contemplation. I do not think of any religious or 
 
 I use prayer as an expression of thanks and gratitude. I use prayer to set an intention towards an action I have planned to take. I use prayer to express a desire for a general outcome to a situation.
 
-As an example of thanks and gratitude, in prayers before meals I express thanks for the food. I may be thankful for people or animals in my life. I may be thankful to have completed some productive activity. I may be thankful for beautiful weather. I try to find a way to be thankful every time I pray.
+As an example of thanks and gratitude, in prayers around meals I express thanks for the food. I may be thankful for people or animals in my life. I may be thankful to have completed some productive activity. I may be thankful for beautiful weather. I try to find a way to be thankful every time I pray.
 
 As an example of setting an intention to do some action or activity, I may schedule work such as writing a chapter of a book. I will contemplate that work and set the intention to act on writing that chapter.
 
@@ -24,7 +24,7 @@ In other cases where my intention is already done I will consider looking at my 
 
 I can be guilty of waiting when I have the opportunity to do something now. I try to remember that I don't have to wait until the scheduled time of a task to do it. Instead of waiting for the future to come to me, I can actively go out to meet the future.
 
-When I am still stuck for what to work on next then it may be best to start a new ritual. I will go wash my hands, say a new prayer to set a new intention, eat a small snack and then get to work on the new intention. Prayer is a part of a reset in times of doubt.
+When I am still stuck for what to work on next then it may be best to start a new ritual. I will eat a small snack, do a bit of cleaning, say a new prayer to set a new intention, and then get to work on the new intention. Prayer is a part of a reset in times of doubt.
 
 ### When feeling unable to do anything
 
@@ -34,7 +34,7 @@ I may wish to act in some way, maybe to send some money or to give blood. But th
 
 Prayer can help me to sow the seed of intention to action in my mind. It keeps the incident fresh in my memory. I remain open to opportunities to contribute some action if such opportunity becomes available.
 
-I see this kind of prayer as a reminder of the positive outcome which is currently beyond my limited means to act. It may prompt me to prepare myself for similar tragedy. I can ensure that I have the appropriate supplies and skills to deal with such a tragedy.
+I see this kind of prayer as a reminder of the positive outcome which is currently beyond my limited means to act. It may prompt me to prepare myself for similar tragedy. I can ensure that I have the appropriate supplies and skills to deal with such a tragedy if it were to affect me or my loved ones.
 
 ### On expectation and reward
 
@@ -44,4 +44,4 @@ I try not to associate rewards with my prayers. I do not wish to feel disappoint
 
 I remain open to seeing the rewards I do receive for my actions, especially when they do not match my expectations.
 
-I recognize that my own limited viewpoint is often unable to appreciate a good unexpected reward. The rewards I do not expect can exceed my desires. I trust that I will receive rewards appropriate to my actions. I wish to be truly thankful for such rewards, especially those I do not expect.
+I recognize that my own limited viewpoint is often unable to appreciate a good unexpected reward. The rewards I do not expect can exceed my desires. I trust that I will receive rewards appropriate to my actions. I wish to be truly thankful for such rewards, especially those that I do not expect.

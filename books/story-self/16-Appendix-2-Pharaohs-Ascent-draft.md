@@ -1,12 +1,12 @@
 ## The Pharaoh's ascent at his temple
 
-This vision came years after the original vision. It came after I made the change to rise at dawn. It came after my dive into mysticism.
+This vision came years after the original vision of the Pharaoh's procession. It came after I made the change to rise at dawn. It came after my dive into mysticism.
 
 The Pharaoh arrives at the base of his temple carried upon a litter. The four men carrying the litter lower it to the ground. 
 
 The Pharaoh steps down from the litter and approaches a large stone stair case built into the side of his temple. The stairs extend up along the outside of his temple to a platform high above. 
 
-The Pharaoh will make his blessing for his temple from and alter upon this platform.
+The Pharaoh will make his blessing for his temple from an alter upon this platform.
 
 The Pharaoh slowly, rhythmically and methodically ascends the stairs as he inspects the temple. He appreciates the excellent craftsmanship. He appreciates the exquisite decorations.
 

@@ -30,7 +30,7 @@ A general mystical belief is that the world emanates from a singular unity. Each
 
 Some mystical traditions teach that there is a process by which conscious entities in the lowest emanation can travel back up through the higher levels. This transcendence continues back to the Nous and eventually to the One itself.
 
-Each spiritual tradition to believe in such a transcendent journey will have a belief on what processes are required to achieve this experience.
+Each spiritual tradition that believes in such a transcendent journey will have a belief on which processes are required to achieve this experience.
 
 Those who claim to have had transcendent experiences usually report a feeling during the experience of becoming whole and united with all existence. They often claim to experience feelings of bliss.
 
@@ -60,13 +60,13 @@ The Nous is aware of a mystery in this dilemma. The Nous emanates from the One b
 
 The Nous then contemplates the Psyche, the boundary between itself and the One. The Nous desires to dissolve the boundary between itself and the One.
 
-All universes, including our own, are created through the Nous' exhaustive search of the Psyche.
+All universes, including our own, are created through the Nous's exhaustive search of the Psyche.
 
 This is a process of separation. The Nous as individual from the One.
 
 ### The returning
 
-The Nous contemplates that within itself anything that could exist would exist. Therefore, if a process for unification between itself and the One could exist then such a process would exist within itself.
+The Nous contemplates that anything that could exist would exist within itself. Therefore, if a process for unification between itself and the One could exist then such a process would exist within itself.
 
 The Nous is searching and discovering in a manner that might be called curation or creation.
 
@@ -76,9 +76,9 @@ The conscious individuals are examining their own existence. The conscious indiv
 
 The Nous recognizes the journey of the conscious individuals. This spiritual journey of the conscious individual is analogous to the journey of the Nous to reunify itself with the One.
 
-I believe that we are are conscious individuals within a universe that has been found by the Nous. We are a reflection of the Nous separation from the One and our spiritual journey is a reflection of the Nous' spiritual journey.
+I believe that we are are conscious individuals within a universe that has been found by the Nous. We are a reflection of the Nous's separation from the One and our spiritual journey is a reflection of the Nous's spiritual journey.
 
-I do not believe that journey to complete reunification with the One has been completed in our time. I believe that journey shall be complete at some future point within this universe. 
+I do not believe that the journey to complete reunification with the One has been completed in our time. I believe that journey shall be complete at some future point within this universe. 
 
 We are one step in a long chain of time that culminates in the process by which the Nous achieves reunification with the One.
 
@@ -96,7 +96,7 @@ It is not correct to say that at the beginning of time within this universe the 
 
 The Nous and the One exist outside of time so all phases are happening simultaneously for them.
 
-The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, fall and summer. Like night, day, afternoon and evening. Instead of these happening sequentially they are happening simultaneously and eternally.
+The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, fall and summer. Like night, day, afternoon and evening. Instead of these happening sequentially they are all happening simultaneously and eternally.
 
 I believe that we are a critical component to this process. I believe that our existence is a part of this cycle.
 

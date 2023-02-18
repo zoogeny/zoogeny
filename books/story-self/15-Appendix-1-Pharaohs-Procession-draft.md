@@ -16,11 +16,11 @@ The Pharaoh steps down the third step of the dais and the priests follow behind 
 
 The Pharaoh steps down the fourth step of the dais to the ground and the generals follow behind him. The procession continues along a long hall towards a large open door. The hall is lined with the Pharaoh's personal guard and they bow low before him. His Captain of the Guard bows because he is pleased with the administration of justice the Pharaoh exercises over his lands.
 
-The Pharaoh steps through the door into the bright hot sunlight of a summer midday. In the courtyard before him sits a litter with four men kneeling beside and awaiting his arrival. 
+The Pharaoh steps through the door into the bright hot sunlight of a summer midday. In the courtyard of his palace before him sits a litter with four men kneeling beside and awaiting his arrival. 
 
 The Pharaoh ascends into the litter and sits. The litter is lifted onto the shoulders of the waiting men.
 
-The Pharaoh faces straight ahead towards a long white road before him. It begins from the Pharaoh's palace where his throne resides and continues straight to his newly constructed temple. 
+The Pharaoh faces straight ahead towards a long white road before him. It begins at the courtyard of the Pharaoh's palace and continues straight to the foot of his newly constructed temple. 
 
 There are soldiers lining both sides of the road. They face towards to road. Behind the soldier's backs are large crowds gathered on either side of the procession's path.
 

@@ -15,11 +15,11 @@
     - pattern for a wave
     - frequencies
     - coincidences
-5. Value of Love
-6. Value of Prayer
+5. Value of Prayer
     - when not sure what to do next
     - when feeling unable to do anything
     - on expectation and reward
+6. Value of Love
 7. Value of Submission
 8. On the One
     - related spiritual traditions
@@ -49,8 +49,6 @@ Copyright
 ---
 
 TODO:
-- rewrite: afterword
-- finalize: chapter order
 - outline: table of contents
 - edit: edit edit edit (all chapters numerous times)
 
@@ -87,8 +85,8 @@ Consider the order:
 09. Chapter 3 - On descriptions
 
 10. Chapter 4 - Value of cycles
-11. Chapter 5 - Value of love
-12. Chapter 6 - Value of prayer
+11. Chapter 5 - Value of prayer
+12. Chapter 6 - Value of love
 13. Chapter 7 - Value of submission
 
 14. Chapter 8 - On "The One"
