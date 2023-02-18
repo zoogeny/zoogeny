@@ -56,4 +56,8 @@
 
 ---
 
-The paragraphs of simultaneity seem out of order. The analogy to spring summer and fall feels stuck in the middle of another point and shoudle come before or after
+- The paragraphs of simultaneity seem out of order. The analogy to spring summer and fall feels stuck in the middle of another point and shoudle come before or after
+
+- The paragraph: "We are working with the Nous towards the Nous's reunification with the One. The Nous is working with us towards our reunification with the One. "
+    - seems to imply coordination. I mean to say that we are both working on this goal independently. It is a coincident of alignment that creates the appearance of us working together
+    - this ought not imply revelation, prophecy or inspiration which I might consider explicitly denying

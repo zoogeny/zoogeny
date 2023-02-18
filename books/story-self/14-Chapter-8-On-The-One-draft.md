@@ -100,6 +100,6 @@ The separation, the realization, the returning and the uniting. These are like t
 
 I believe that we are a critical component to this process. I believe that our existence is a part of this cycle.
 
-We are working with the Nous towards the Nous' reunification with the One. The Nous is working with us towards our reunification with the One. 
+We are working with the Nous towards the Nous's reunification with the One. The Nous is working with us towards our reunification with the One. 
 
 It is through the narrative of our mystical transcendence that the Nous learns the process by which it will reunify to the One.
