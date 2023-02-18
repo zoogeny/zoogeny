@@ -16,21 +16,21 @@ My rituals fit around my life, I do not fit my life around my rituals. If leadin
 
 Morning ritual at dawn is the most important ritual. Waking up at dawn provides a foundation for the entire day. Rising at dawn and getting straight out of bed is a challenge.
 
-I usually require to go to the bathroom immediately upon waking up. I then wash my hands to promote hygiene.
+I set an alarm for sunrise and get straight out of bed when it goes off. I go to the bathroom immediately upon waking up. I then wash my hands to promote hygiene.
 
-I may make myself a small breakfast, although this does not happen every day. I drink some water.
+I usually make myself a small breakfast, although this does not happen every day. I drink some water.
 
 I wash my face and clean my teeth. I apply moisturizing lotion to help maintain a healthy skin microbiome and add protection to my skin.
 
-I change into clothing appropriate for the weather. I tidy my bedroom and the kitchen.
+I change into clothing appropriate for the weather. I tidy my bedroom and tidy the kitchen.
 
-I then step outside as close to sunrise as possible. It takes approximately twenty minutes to get to this point: waking up, eating breakfast, washing my face and cleaning my teeth, getting dressed and doing some tidying.
+I then step outside to get as much sunlight into my eyes as possible. It takes approximately thirty minutes to get to this point: waking up, eating breakfast, washing my face and brushing my teeth, getting dressed and doing some tidying.
 
 I stay outside for ten minutes regardless of weather. I raise my face to the sun and feel its warmth and light. I let sunshine enter into my eyes but do not stare directly at the sun.
 
 I say a prayer for the day. I consider what I want to get done. I consider what I am thankful for.
 
-I am then ready to start my work for the day. Often the first thing I do in the morning is write in my journal.
+I am then ready to start my work for the day. I start most days taking a hike with my dog.When I return from the hike I will write in my journal.
 
 ### Afternoon ritual
 
@@ -42,23 +42,25 @@ I wash my hands and then I prepare and eat lunch. This is usually a large sized 
 
 I clean any dirty dishes, tidy the kitchen and then floss and brush my teeth. If I have extra time available I may tidy up other areas of my living and working spaces.
 
-I may then shower at this time or I may choose to wash my face. I may change into clothing more appropriate for afternoon activities.
+I take some time for relaxation, usually letting the dog out and playing fetch.
+
+I may then shower at this time. I may change into clothing more appropriate for afternoon activities.
 
 I make a silent prayer of thanks and intention. I am then ready to start my work for the afternoon.
 
 ### Evening ritual
 
-The evening ritual has a flexible start time. Some days it happens right at the end of my afternoon, roughly 6pm. Other days it might happen at 7pm or 8pm. I try to avoid eating within 2-3 hours of sleeping.
+The evening ritual has a flexible start time. Some days it happens right at the end of my afternoon, roughly 6 pm. Other days it might happen at 7pm or 8pm. I try to avoid eating within 2-3 hours of sleeping.
 
 I wash my hands and then I prepare and eat dinner. This is usually a medium sized meal but it may be large if I had a small lunch. It will contain a balanced combination of nutritious proteins, carbohydrates, fibers, and fats. 
 
-I wash dishes, tidy the kitchen and then floss and brush my teeth.
+I then wash dishes, tidy the kitchen and then floss and brush my teeth.
 
 I say a small prayer of thanks and intention. I am then ready for my late evening leisure which can include exercise, yoga, watching YouTube videos, reading or playing with my dog.
 
 ### Reasoning for rituals
 
-Rituals are not critical to success so I try to keep them lighthearted. I focus on waking up at dawn and getting outside. Rituals are a template for a perfect day but not something to obsess about.
+Rituals are not critical to success so I try to keep them lighthearted. I focus on waking up at dawn and getting outside. Rituals are a template for a perfect day but not something to obsess over.
 
 Rituals provide structure. They break the day into clear sections. They are similar to each other and keep my mind and body aligned to a consistent frequency.
 

@@ -53,3 +53,7 @@
     - all phases happening at all times
         - relation to cycles
     - the Nous sees the entire narrative of all possible existences at once
+
+---
+
+The paragraphs of simultaneity seem out of order. The analogy to spring summer and fall feels stuck in the middle of another point and shoudle come before or after

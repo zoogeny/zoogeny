@@ -6,7 +6,7 @@ I decided to rise at dawn every day for three months. I wanted to see what effec
 
 I was feeling depressed. For nearly 4 months I was sleeping in until noon or later. I would lie in bed watching YouTube videos until I felt too guilty to remain in bed. After getting up I would lie down on the couch to watch YouTube videos until it was dark outside.
 
-Some weeks I don't think I left my house. I had quit both of my contracting jobs. My plan was to start live streaming on Twitch but even though I sat at home with nothing to do all day I just wasn't doing the work.
+There were some weeks where I don't think I left my house. I had quit both of my contracting jobs and I was living off of my savings. My plan was to start live streaming on Twitch but even though I sat at home with nothing to do all day I just wasn't doing the work.
 
 I felt like I had no purpose in life. I felt that I had no energy or motivation to do anything. I was avoiding a massive list of projects I had planned to work on.
 
@@ -18,11 +18,11 @@ The depression was getting worse. Part of that was due to the restrictions on so
 
 I was trying to address the feeling of lack of purpose in life by watching videos on spirituality.
 
-I came across some videos extolling the benefits of sleep, diet and exercise for dealing with depression. They suggested that sleep was critical.
+I came across some videos extolling the benefits of sleep, diet and exercise for dealing with depression. They suggested that a healthy sleep schedule was critical.
 
-I made a resolution then to get up at dawn every day for three months. I noticed a difference in just a few days.
+I made a resolution then to get up at dawn every day for three months. I also committed to getting outside soon after waking and getting sunshine into my eyes. I noticed a difference in just a few days.
 
-The depression lifted and I began experiencing a mania. My mood was elevated, I was optimistic, I even had sweet dreams. No other way to describe it except to say I felt better. I was happier. I was seeing the events of the day in a positive light.
+My mood improved substantially. I was optimistic and I even had sweet dreams. The best way to describe it is to say I felt better. I was happier. I was seeing the events of the day in a positive light.
 
 I felt my digestion was better. I was motivated to cook healthy food.
 
@@ -30,11 +30,11 @@ I started to get things done. I started to write. This book is a reminder to mys
 
 ### On why it is the first
 
-There seems to be evidence and it seems reasonable to me that the foundation for health is in good sleep, good diet and good exercise.
+There seems to be scientific evidence and it seems reasonable to me that the foundation for health is in good sleep, good diet and good exercise.
 
-My diet was already good, consisting of a wide variety of whole foods, fiber, fruits, vegetables, and high-quality protein. 
+My diet was already good, consisting of a wide variety of whole foods, fiber, fruits, vegetables, and high-quality protein.
 
-I had tried exercises like jogging and weight training. I think I suffered from post exertion malaise which worsened the symptoms of depression. The days after heavy exercise I would lie around sore and tired and even more lethargic than usual.
+I had tried exercises like jogging and weight training. I think I suffered from post exertion malaise. The days after heavy exercise I would lie around sore and tired and even more lethargic than usual.
 
 I had always been a self-professed night-owl. I would eat a dinner at 9:30 pm. I would go to bed at midnight or later. My sleep schedule was one of the only things I had never tried to fix.
 
@@ -48,9 +48,9 @@ Every morning the sun rises. Every day my life begins anew. It is a good frequen
 
 It is easy to remember and easy to judge if I am complying with this simple maxim. I don't want to have a complicated project to keep track of. I can check in with myself daily by seeing if I am getting up on time.
 
-It is easy to make big plans when one is feeling full of energy and motivation but to fail to keep plans when one is tired and low on energy. Waking up is a small but important plan that I can reasonably expect myself to stick to.
+It is easy for me to make big plans when I am feeling full of energy and motivation but I often fail to keep those plans when I am tired and low on energy. Waking up is a small but important plan that I can reasonably expect myself to stick to.
 
-It is not easy to do. Everyone knows this. I've spent all of my life sleeping in and enjoying every moment of it. The warm, comfortable bed and the cozy feeling of giving into sleepiness. Getting up at dawn is hard enough that I don't really need another challenge alongside it.
+It is not easy to get up early in the morning. Everyone knows this. I've spent all of my life sleeping in and enjoying every moment of it. The warm, comfortable bed and the cozy feeling of giving into sleepiness. Getting up at dawn is hard enough that I don't really need another challenge alongside it.
 
 I think of it like meditation practice. Two common techniques for meditation that I have encountered are related to breath and mantras.
 
@@ -70,8 +70,8 @@ My actual daily ritual is slightly more elaborate. In a later chapter I describe
 
 In brief, I wake up at sunrise as described above. I use the bathroom and wash my hands. 
 
-I prepare and eat a small breakfast. I wash my face and clean my teeth. I put on clothes appropriate to the weather. I tidy my bedroom and tidy the kitchen.
+I prepare and eat a small breakfast. I wash my face and brush my teeth. I put on clothes appropriate to the weather. I tidy my bedroom and tidy the kitchen.
 
-I then go outside and bathe in sunlight for approximately 10 minutes. In practice, the time between my alarm going off and my face being bathed in sunlight is approximately 20 minutes.
+I then go outside and stand in sunlight for approximately 10 minutes. In practice, the time between my alarm going off and my face being bathed in sunlight is approximately 30 minutes.
 
 While I am outside I say a prayer, which includes expressions of thanks and gratitude. I set some positive intentions for the day. I am then ready to do the work that I have planned for that morning.
