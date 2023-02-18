@@ -72,3 +72,7 @@
     - clean, pray, work, eat 
     - work, clean, pray, eat 
     - eat, clean, pray, work
+
+- Should also be explicit about the pattern in the rituals and how I see them relate to the day cycle and year cycle.
+    - mention the traditional view of praying before you eat and how that was difficult to
+      fit into the pattern.
