@@ -62,17 +62,16 @@
 ---
 
 - Frequencies and coincidences needs more work.
-- Not sure how much detail to add to each of the spiritual traditions referenced in intro
-    - maybe break out spiritual traditions and cycles in physics into their own chapters?
-- Not sure how much detail to add to each of the cycles referenced in Speculations
+    - specifically the property of of coincident waves. This is a critical point
+      in understanding alignment.
+    - diagrams would be helpful here
 
 - Diagrams would be useful for the "Pattern of a wave" section
+
 - Perhaps a sentence or two about how the phase of the wave. i.e. these are the same:
     - pray, work, eat, clean 
     - clean, pray, work, eat 
     - work, clean, pray, eat 
     - eat, clean, pray, work
 
-- Should also be explicit about the pattern in the rituals and how I see them relate to the day cycle and year cycle.
-    - mention the traditional view of praying before you eat and how that was difficult to
-      fit into the pattern.
+- Should I mention the traditional view of praying before you eat and how that was difficult to fit into the pattern.
