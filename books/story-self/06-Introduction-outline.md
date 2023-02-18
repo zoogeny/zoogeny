@@ -13,7 +13,3 @@
     - do not allow spiritual ideas to override your rational mind
     - do not allow rational ideas to override your spirit and intuition
 
----
-
-
-Repeated: I had not answered the questions 
