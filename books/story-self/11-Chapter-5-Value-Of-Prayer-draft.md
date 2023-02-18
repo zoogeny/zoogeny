@@ -22,7 +22,7 @@ In some cases where my intention has been achieved I will consider if I have tim
 
 In other cases where my intention is already done I will consider looking at my future schedule. I see if I can bring intentions from the future into the present.
 
-I can be guilty of waiting when I have the opportunity to do something now. I try to remember that I don't have to wait until the scheduled time of a task to do it. Instead of waiting for the future to come to me, I can actively go out to meet the future.
+I can be guilty of waiting when I have the opportunity to do something now. I try to remember that I do not have to wait until the scheduled time of a task to do it. Instead of waiting for the future to come to me, I can actively go out to meet the future.
 
 When I am still stuck for what to work on next then it may be best to start a new ritual. I will eat a small snack, do a bit of cleaning, say a new prayer to set a new intention, and then get to work on the new intention. Prayer is a part of a reset in times of doubt.
 
@@ -38,7 +38,7 @@ I see this kind of prayer as a reminder of the positive outcome which is current
 
 ### On expectation and reward
 
-I avoid prayers for particular rewards. I don't pray for specific possessions or precise material wealth.
+I avoid prayers for particular rewards. I do not pray for specific possessions or precise material wealth.
 
 I try not to associate rewards with my prayers. I do not wish to feel disappointed in the case where a particular reward is not received for my actions.
 

@@ -41,11 +41,11 @@
 - I am not clearly explaining how dominance is related to protection.
 - I am not making a clear connection between dominance and the kind of oppression that Nietzsche was describing as the source of moral truth
 - I am not making clear the connection between Marx's Elite Theory and dominance
-    - I don't want to get too political but the relationship between the 
+    - I do not want to get too political but the relationship between the 
       proletariat and the bourgeoisie is a dominant one
 - I am not making clear that moral truth is defined through submission and not through dominance
-    - I don't explain why dominance isn't the forceful action towards moral truth
-    - I don't explain why submission is the luring action that draws out moral truth
+    - I do not explain why dominance is not the forceful action towards moral truth
+    - I do not explain why submission is the luring action that draws out moral truth
 
 - Perhaps I need to be more explicit in my references?
 
