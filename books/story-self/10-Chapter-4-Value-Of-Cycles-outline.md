@@ -67,11 +67,3 @@
     - diagrams would be helpful here
 
 - Diagrams would be useful for the "Pattern of a wave" section
-
-- Perhaps a sentence or two about how the phase of the wave. i.e. these are the same:
-    - pray, work, eat, clean 
-    - clean, pray, work, eat 
-    - work, clean, pray, eat 
-    - eat, clean, pray, work
-
-- Should I mention the traditional view of praying before you eat and how that was difficult to fit into the pattern.
