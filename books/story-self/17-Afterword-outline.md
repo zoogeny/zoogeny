@@ -44,6 +44,7 @@
         - I Ching
         - Spring and Autumn Annals
 - Buddhism
+    - Dhammapada
     - Tripitaka
         - Pali Canon
         - Sutta Pitaka
@@ -77,3 +78,4 @@
     - Theosophy
     - Thelema
 - New thought
+- Jainism
