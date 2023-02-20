@@ -27,6 +27,3 @@
   - Opposed to antinatalism or the even more severe efilism
   - To see ourselves as working with nature/universe/God towards some goal
 
----
-
-Reconsider the use of "conscious individual". It is distracting to the ideas presented
