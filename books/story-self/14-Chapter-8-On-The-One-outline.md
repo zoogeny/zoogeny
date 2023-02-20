@@ -56,8 +56,11 @@
 
 ---
 
-- The paragraphs of simultaneity seem out of order. The analogy to spring summer and fall feels stuck in the middle of another point and shoudle come before or after
-
 - The paragraph: "We are working with the Nous towards the Nous's reunification with the One. The Nous is working with us towards our reunification with the One. "
     - seems to imply coordination. I mean to say that we are both working on this goal independently. It is a coincident of alignment that creates the appearance of us working together
     - this ought not imply revelation, prophecy or inspiration which I might consider explicitly denying
+    - this is similar to the chapter on submission where I imply God, some combination of the Nous and the One are submissive to humans
+        - It is true the Nous must desire us to succeed in our own reunification with the one since it is our reunification to the One that is the Nous's reunification (as we exist within it)
+        - It is not clear in what way the Nous is working *with* us. If we are a kind of independent universe that exists on its own within the set of all universes ... it is hard to see how the Nous works with us
+        - I was considering that it may be a matter of interpretation on the part of the Nous - some kind of critical theory where the meaning of our existence isn't entirely in our own subjective consciousness but also includes the interpretation of the observer - in this case the Nous. So it is some kind of charitable interpretation we require?
+    - I will let this contradiction stand for now until I read more on mysticism, philosophy and other spiritual traditions
