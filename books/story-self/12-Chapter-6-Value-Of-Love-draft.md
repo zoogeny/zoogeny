@@ -8,7 +8,7 @@ Through an act of will the being creates change in the world. This new world sha
 
 Some sacrifice for the being is necessary for this act of love. For example, the sacrifice of their time due to a loss of opportunity for the being to work to their own self benefit.
 
-Love can be expressed in the absence of emotion. Love is the cause and the emotions are a possible symptom. Emotions help to promote a bond between beings. The presence of emotion does not imply the presence of love.
+Love can be expressed in the absence of emotion. Love is the cause and the emotions are a possible symptom. Emotions can help to promote a bond between beings. The presence of emotion does not imply the presence of love.
 
 ### Mutual Love
 
@@ -22,7 +22,7 @@ When two beings simultaneously act in a loving way as in the example of Alice an
 
 ### Alternate views of love
 
-I contemplate the relation of this definition to other definitions of love. For example, the Greek words connoting love: Agape (brotherly love), Eros (sexual passion), Philia (friendship), Storge (familial), Philautia (self), Xenia (hospitality).
+I contemplate the relation of this definition to other definitions of love. For example, the Greek words connoting love: Agape (brotherly love), Eros (sexual passion), Philia (friendship), Storge (familial), Philautia (self), and Xenia (hospitality).
 
 Self-love is an interesting case to consider. One view is to see the mind and body as individual beings that work together. Another view is to see the self as a whole singular being.
 
@@ -34,4 +34,4 @@ I contemplate love relationships in the context of my relationship to the univer
 
 I attempt to see myself in a mutual love relationship with all existence. I attempt to work with all existence for the betterment of all existence. I believe that all existence is working towards my own benefit.
 
-Like all relationships, this is an imperfect love. I avoid judging the universe and avoid judging myself. I choose to believe in this mutual love between myself and all life.
+Like all relationships this is an imperfect love. I avoid judging the universe and I avoid judging myself. I choose to believe in this mutual love between myself and all life.
