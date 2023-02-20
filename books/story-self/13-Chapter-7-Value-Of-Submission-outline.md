@@ -52,3 +52,12 @@
 - The problem is the outline. It is not correctly moving the thought from premise to conclusion.
 
 - I am not describing the submissive God as I wish to.
+
+---
+
+- The final section on God's submission to our prayers is in contradiction to the view of the Nous and the One as being outside of time.
+    - How can God listen and respond to our prayers?
+        - If we are just happenstance the narrative of the Nous's redemption
+    - The Nous would naturally choose the narrative that ends with the retelling of its own redemption
+        - perhaps there is a bias towards narratives that match our prayers?
+    - I'm not too sure these two views are reconcilable. I will let the contradiction stand for now but I will have to justify it or abolish it at some point
