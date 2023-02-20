@@ -104,6 +104,12 @@
     - A God willing to submit to humans vs. the Nous and the One
         - what does it mean for the Nous to act submissively? In the context of the search for agents that describe a narrative - how is the Nous submissive?
         - how does the existence of human's change the Nous or the One?
+    - Unreasonable effectiveness of math
+        - Yet rational ideas fall to falsifiability through experiment (Popper)
+    - God's willingness to submit in the bible:
+        - Jesus' choice to submit at the Garden of Gethsemane
+        - God's willingness to spare Sodom and Gomorrah after the pleas of Abraham
+            - "Starting at 50 people, Abraham negotiates with God to spare Sodom if 10 righteous people could be found."
 
 - On "The One"
     - Crime novel analogy: We are half way through but the ending is already written. We still feel the tension of the detective although we know the bad guy will get caught. The thrill is in seeing how the mystery unfolds.
