@@ -68,20 +68,31 @@
 
 ---
 
-- still not certain on the order of the councilors and the priests. They should come first but I do not know exactly which is first and which is second
+- I'm not sure 
+  - the set of characters is final or requires additions  
+  - the order is correct
+    - councilors or priests first?
+  - the emotions and reasons are correct
+    - I don't like that "impressed" is used more than once
+    - I originally wanted a characters that bowed because
+      - fear of repercussions from soldiers
+      - peer pressure
+      - self righteousness
+    - if the point is the Pharaoh doesn't care, should I?
+      - should I even state the reasons?
 
-- I do not like the reasons the people bow in most cases. But given that the meaning is that the Pharaoh does not care - maybe I should not care myself? Maybe I should not state their reason for bowing so authoritatively?
+| Type | Lead | Emotion | Reason |
+|---|---|---|---|
+| Councilors | Chief Councilor | impressed | well run civilization |
+| Priests | High Priest | love | held as infant and blessed him |
+| Generals | General of Armies | respect | powerful military |
+| Steps down from dais |
+| Guards | Captain of Guard | pleased | administration of justice |
+| Enters litter |
+| Architects and masons| Chief architect | impressed | majesty of temple commissioned |
+| Artisans | Chief artisan | moved | beauty of the art work |
+| Scribes | Chief scribe | honored | greatest collection of scrolls and knowledge |
+| Farmers | Chief of agriculture | impressed | many mouths fed |
+| Laborers | Administrator of the laborers | amazed | coordination of the nation |
+| Poor and disadvantaged | Old woman | knows | Pharaoh is God |
 
-- I'm not sure the set of characters is final or requires additions  
-- I am not sure the order is correct
-  - Councilors
-  - Priests
-  - Generals
-  - Guards / Soldiers 
-  --- enters litter
-  - architects / masons
-  - artisans / craftsmen
-  - scribes
-  - farmers
-  - laborers
-  - poor / disadvantaged
