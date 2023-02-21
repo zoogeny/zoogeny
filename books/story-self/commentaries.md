@@ -7,6 +7,7 @@
         - Minecraft world (built up from text, to images, to video, to 3d voxels)
         - Sorting through this massive space
     - Absurdism
+    - How old ideas filter into the collective self-conscious and re-emerge as seemingly new ideas fully formed in those influenced by the disperse ancient wisdom
 
 - Introduction
     - showing up is half the battle
