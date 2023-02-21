@@ -79,3 +79,8 @@
     - Thelema
 - New thought
 - Jainism
+
+---
+
+- Not sure how to handle the constant "I would like to read" intro to the sources.
+
