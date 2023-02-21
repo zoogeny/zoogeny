@@ -51,6 +51,8 @@
     - Mahayana Sutras
         - Ajitasena Sutra
         - Saddharma-pundarika-sutra (True Dharma White Lotus Sutra) or (Threefold Lotus Sutra)
+    - Nagarjuna
+        - Mūlamadhyamakakārikā (Root Verses on Madhyamaka, or MMK)
 - Zen
     - Lankavatara Sutra
     - Diamond Sutra
