@@ -4,9 +4,9 @@ The vision begins with the Pharaoh sitting tall upon his throne.
 
 The Pharaoh is God in the form of man. He rules over a large kingdom on Earth with millions of subjects.
 
-The Pharaoh is wearing his most exquisite ceremonial garb and regalia. Today is the ceremonial opening of a grand temple built in his honor. The Pharaoh will visit, inspect and bless the completed temple.
+The Pharaoh is wearing his most exquisite ceremonial garb and regalia. This day is the ceremonial opening of a grand temple that was built in his honor. The Pharaoh will visit, inspect, and bless the completed temple.
 
-The Pharaoh stands up tall from his throne. He begins the procession by walking forward with his back straight, his head high and his eyes facing straight ahead. His pace is slow, rhythmic and methodical.
+The Pharaoh stands up tall from his throne. He begins the procession by walking forward with his back straight, his head high, and his eyes facing straight ahead. His pace is slow, rhythmic, and methodical.
 
 The Pharaoh steps down the first step of the dais upon which his throne sits. He passes his councilors and they bow low before him. They are dressed in their finest clothes. His Chief Councilor bows because he admires the well run civilization that prospers under the Pharaoh's leadership.
 
@@ -16,7 +16,7 @@ The Pharaoh steps down the third step of the dais and the priests follow behind 
 
 The Pharaoh steps down the fourth step of the dais to the ground and the generals follow behind him. The procession continues along a long hall towards a large open door. The hall is lined with the Pharaoh's personal guard and they bow low before him. His Captain of the Guard bows because he is pleased with the administration of justice the Pharaoh exercises over his lands.
 
-The Pharaoh steps through the door into the bright hot sunlight of a summer midday. In the courtyard of his palace before him sits a litter with four men kneeling beside and awaiting his arrival. 
+The Pharaoh steps through the door into the bright sunlight of a hot summer midday. In the courtyard of his palace before him sits a litter with four men kneeling beside and awaiting his arrival. 
 
 The Pharaoh ascends into the litter and sits. The litter is lifted onto the shoulders of the waiting men.
 
@@ -24,7 +24,7 @@ The Pharaoh faces straight ahead towards a long white road before him. It begins
 
 There are soldiers lining both sides of the road. They face towards to road. Behind the soldier's backs are large crowds gathered on either side of the procession's path.
 
-The procession continues at the same slow, rhythmic and methodical pace. The councilors, priests, generals and guards follow on foot behind the Pharaoh's litter.
+The procession continues at the same slow, rhythmic, and methodical pace. The councilors, priests, generals, and guards follow on foot behind the Pharaoh's litter.
 
 Each section of crowd alongside the road has been reserved for a particular class of people.
 
@@ -38,6 +38,6 @@ The Pharaoh passes the fourth section of farmers who grew the food that fed the 
 
 The Pharaoh passes the fifth section of laborers whose blood and sweat has built his temple. They bow low before him. The administrator of the laborers bows because he is amazed that so many individuals were organized in the singular goal of building such a monument.
 
-The Pharaoh passes the sixth section of poor and the most disadvantaged of his subjects. They bow low before him. These people share the privilege of standing at the foot of his temple and will have the best view of his blessing. A poor old woman falls to her knees and bows low before the Pharaoh. She bows because she knows that the Pharaoh is truly God.
+The Pharaoh passes the sixth section of poor and the most disadvantaged of his subjects. They bow low before him. These people share the privilege of standing at the foot of his temple and they will have the best view of his blessing. A poor old woman falls to her knees and bows low before the Pharaoh. She bows because she knows that the Pharaoh is truly God.
 
 The key to unlock this story's meaning is that the Pharaoh does not wonder about the reason each person has for bowing. He is content that they are bowing but he does not question nor consider why they do so.
