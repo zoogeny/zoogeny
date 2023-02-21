@@ -12,9 +12,9 @@ I have tried many approaches to liberate myself from this state of misery. I hav
 
 I was in the midst of a severe downturn in my mood before I came across the recommendation to focus on my sleep routine. The melancholy and pensive nature I have always suffered had intensified.
 
-I had believed myself to be a night owl and I would usually go to bed after midnight. During this downturn in mood it was common for me to go to sleep at 2 am or later. I would sleep in until late into the morning or afternoon. I had a bad habit of staying in bed after I woke. I would lie in bed to watch YouTube videos or endlessly scroll on social media apps.
+I had believed myself to be a night owl and I normally went to bed after midnight. During this downturn in mood it was common for me to go to sleep at 2 am or later. I slept in until late into the morning or afternoon. I had a bad habit of staying in bed after I woke. I lay in bed to watch YouTube videos or endlessly scroll on social media apps.
 
-I had no energy, no motivation, and no appetite. I felt unhealthy, my body started to suffer from this lethargy and my muscles were atrophying. I had quit my jobs and my savings were depleting. I was aware of a quiet anxiousness in the background of my mind. I was wasting my life but I felt comfortable in my bed and the videos were entertaining. There was a serious crash ahead of me unless I could make a change.
+I had no energy, no motivation, and no appetite. I felt unhealthy, my body started to suffer from this lethargy and my muscles were atrophying. I had quit my jobs and my savings were depleting. I was aware of a quiet anxiousness in the background of my mind. I was wasting my life but I felt comfortable in my bed and the videos were entertaining. There was a serious crash ahead of me unless I made a change.
 
 I was beset with questions. What change should I make? How does one live a good life? What is the purpose of life? These questions left me feeling unable to act. With no purpose, I had no clear plan.
 
@@ -34,13 +34,13 @@ I chose to write this book to remind myself that getting up at dawn was the chan
 
 I saw a parallel to the process I was going through in some of the mystical ideas I was encountering. I considered questions related to spirituality and God in a newly constructive mindset. I felt inspired by this new beneficial change to my routines and I was motivated by this new optimism.
 
-It may be that the benefits I experienced due to the changes to my routines and the ideas of spirituality are merely coincident and not strictly related. It is not surprising that I would come across these ideas around the same time because the communities that surround spirituality, health, and lifestyle overlap.
+It is possible that the benefits I experienced due to the changes to my routines and the ideas of spirituality are merely coincident and not strictly related. It is not surprising that I came across these ideas around the same time because the communities that surround spirituality, health, and lifestyle overlap.
 
 I do not expect that these ideas or practices will solve anyone else's problems. I do not claim that they will treat depression or any other mental health issues. I advise and insist that others seek qualified professional help if they suspect they are suffering from depression. I recommend that they follow whatever their chosen medical professional prescribes for their specific circumstances. I do not imply that this book contains medical advice or even good advice for anyone other than myself.
 
 I hope that my description of the coincidence of these ideas and the changes I made for my self will inspire others.
 
-This particular coincidence of rising early, getting some sun, and contemplating mystical ideas worked for me. If I could choose a single virtue from that list then I would choose to get up early and to get sunlight into my eyes. This one change is all that I ultimately require of myself.
+This particular coincidence of waking at sunrise, getting outside to get sunlight into my eyes, and contemplating mystical ideas worked for me. I believe that waking at sunrise and getting sunlight into the eyes is the essential change.
 
 A common proverb is: "showing up is half the battle". I am making a choice to prioritize showing up for life every morning. The mystical and spiritual philosophy is a way to apply reason to that practice.
 
