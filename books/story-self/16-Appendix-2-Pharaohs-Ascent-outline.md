@@ -20,8 +20,3 @@
 - He sees that every person is bowing towards him
 - He falls to his knees and bows low to the crowd
     - This was not part of the planned activities for the blessing
-
----
-
-"He remembers the ceremony that his priests have rehearsed in preparation for this moment." -- Is this sentence needed? It foreshadows that he will not follow the rehearsed ceremony but I am not certain it is needed.
-
