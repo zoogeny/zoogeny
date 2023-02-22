@@ -4,51 +4,51 @@ I decided to rise at dawn every day for three months. I wanted to see what effec
 
 ### Why rise at dawn?
 
-I was feeling depressed. For nearly 4 months I was sleeping in until noon or later. I would lie in bed watching YouTube videos or scrolling on social media until I felt too guilty to remain in bed. After getting up I would lie down on the couch to watch more YouTube videos until it was dark outside.
+I was feeling depressed. For nearly 4 months I slept in each day until noon or later. I would lie in bed watching YouTube videos or scrolling on social media until I felt too guilty to remain in bed. After I got up I would lie down on the couch to watch more YouTube videos until it was dark outside.
 
-There were some weeks where I do not think I left my house. I had quit both of my contracting jobs and I was living off of my savings. My plan was to start live streaming on Twitch but even though I sat at home with nothing to do all day I was not doing any work towards that goal.
+For some weeks I did not leave my house. I had quit both of my contracting jobs and I was living off of my savings. My plan was to start live streaming on Twitch. I was not working towards that goal even though I spent all day at home with nothing to do.
 
-I felt like I had no purpose in life. I felt that I had no energy or motivation to do anything. I was avoiding a massive list of projects I had planned to work on.
+I felt like I had no purpose in life. I felt that I had no energy nor motivation to do anything. I was avoiding a massive list of projects that I had planned to work on.
 
-Earlier in life I had experienced anxiety. In times of high stress I had panic attacks. A doctor had given me a clear bill of physical health. He told me that if there is no problem with my body then I should consider a problem with my mental health. He recommended that I see a psychiatrist.
+I had experiences of anxiety earlier in my life. I had panic attacks in times of high stress. A doctor had given me a clear bill of physical health. He told me that if there is no problem with my body then I must consider a problem with my mental health. He recommended that I see a psychiatrist.
 
 I decided to move from the big city to a rural area. I decreased my stress load by choosing my work more carefully. I volunteered in my community. I kept a healthy diet. I took up exercise. None of this brought me out of the depression I was experiencing.
 
-The depression was getting worse. Part of that was due to the restrictions on social activity during a pandemic. Part of it was working from home remotely.
+The depression was getting worse. I suspect that part of that was due to the restrictions on social activity during a pandemic. Another cause could be the change to working from home remotely.
 
-I was trying to address a feeling of a lack of purpose in life by watching videos on spirituality. I came across some videos extolling the benefits of sleep, diet and exercise for dealing with depression. These videos suggested that a consistent sleep schedule was a critical component to maintaining mental health.
+I tried to address a feeling of a lack of purpose in life by watching videos on spirituality. I watched videos extolling the benefits of sleep, diet and exercise for improving mental health. These videos indicated that a consistent sleep schedule was an essential component to improving mental health.
 
-I made a resolution then to get up at dawn every day for three months. I also committed to getting outside soon after waking and getting sunshine into my eyes. I noticed a difference in just a few days.
+I found within these videos on sleep and mental health the specific recommendation to get five to ten minutes of sunlight onto the retinas of the eyes within one hour of waking. I found similar recommendations to rise early in the morning. These recommendations were supported with scientific evidence that showed a benefit to both physical and mental health.
 
-My mood improved substantially. I was optimistic and I even had sweet dreams. The best way to describe it is to say I felt better. I was happier. I was seeing the events of the day in a positive light.
+I made a resolution then to get up at dawn every day for three months. I also committed to getting outside soon after waking and getting sunshine into my eyes for ten minutes. 
 
-I felt my digestion was better. I was motivated to cook healthy food.
+ My mood improved substantially within just a few days after starting this new routine. I was optimistic and I even had sweet dreams. I was motivated to cook healthy food and I felt my digestion was better. The best way to describe it is to say that I felt better. I was happier. I was seeing the events of the day in a positive light.
 
 I started to get things done. I started to write. This book is a reminder to myself of where I want to be mentally and physically.
 
-### On why it is the first
+### On why it is the primary
 
-There seems to be scientific evidence and it seems reasonable to me that the foundation for health is in good sleep, good diet, and good exercise.
+There is scientific evidence that the foundation for good health begins with good sleep, good diet, and good exercise. These claims seems reasonable to me.
 
-My diet was already good. It consisted of a wide variety of whole foods, fiber, fruits, vegetables, and high-quality protein.
+My diet was already good, consisting of a wide variety of whole foods, fiber, fruits, vegetables, and high-quality protein. I did not believe that further improvements to my diet were necessary to promote physical and mental health.
 
-I had tried exercises like jogging and weight training. I think I suffered from post exertion malaise. The days after heavy exercise I would lie around sore and tired and even more lethargic than usual.
+I had tried exercises like jogging and weight training. I did not experience improvements to my physical or mental health from these experiments with increased exercise. I believe I suffered from post exertion malaise. The days after heavy exercise I would lie around sore and tired. I was even more lethargic and unmotivated than usual.
 
-I had always been a self-professed night-owl. I would eat a dinner at 9:30 pm. I would go to bed at midnight or later. My sleep schedule was one of the only things I had never tried to fix.
+My sleep schedule was one of the only things I had never attempted to improve. I had always believed myself to be a night-owl. I ate a dinner at 9:30 pm. I went to bed at midnight or later. 
 
-I found some advice on waking up at dawn and then immediately going outside to get some sun. There is some scientific evidence that sunlight falling on the retinas triggers a host of biological events associated with circadian rhythms. There is some scientific evidence that managing circadian rhythm is a major part of physical and mental health.
+There is scientific evidence that sunlight falling on the retinas triggers a host of biological events associated with circadian rhythms. There is scientific evidence that managing circadian rhythm is an essential part of maintaining physical and mental health.
 
-I was also reading a lot about mysticism and other spiritual philosophies. Being awake is a primary aspect of conscious experience.
+I also read a lot about mysticism and other spiritual philosophies. Being awake is a primary aspect of conscious experience. Every morning the sun rises. Every day my life begins anew. The daily cycle is a good frequency to check on my self. I measure my daily activities with respect to my waking time.
 
-Every morning the sun rises. Every day my life begins anew. It is a good frequency to check on my self. I can measure my daily activities with respect to my waking time.
+I now believe that sleep is the primary aspect of good mental and physical health. When I improved my sleep schedule then my diet and my exercise improved. When I improved my sleep schedule my mental health and mood improved. It fits in with both scientific and spiritual knowledge.
 
 ### On why it is the only
 
-It is easy to remember and easy to judge if I am complying with this simple maxim. I do not want a complicated project to keep track of. I can check in with myself daily by seeing if I am getting up on time.
+A commitment to rising at dawn is memorable and verifiable. I want to avoid routines that are difficult to remember and complicated to keep track of. I check daily if I am getting up on time and quickly going outside into the sun.
 
-It is easy for me to make big plans when I am feeling full of energy and motivation but I often fail to keep those plans when I am tired and low on energy. Waking up is a small but important plan that I can reasonably expect myself to stick to.
+To wake up early is a small but important plan that I can reasonably expect myself to accomplish every day. Big plans are easy to make when I am full of energy and motivation. Those same big plans are likely to fail when I am tired and lazy. 
 
-It is not easy to get up early in the morning. I've spent all of my life sleeping in and enjoying every moment of it. The warm comfortable bed and the cozy feeling of giving into sleepiness. Getting up at dawn is hard enough that I do not really need another challenge alongside it.
+To get up early in the morning is not easy. I enjoy sleeping in, I love my warm comfortable bed, and I surrender to laziness. To get up at dawn is difficult enough that it is unnecessary to have other challenges alongside it.
 
 I think of it like meditation practice. Two common techniques for meditation that I have encountered are related to breath and mantras.
 
@@ -56,20 +56,10 @@ In the case of breath, one focuses their conscious awareness entirely on their b
 
 In the case of a mantra, one focuses their conscious awareness on the recitation of the mantra. One aims to notice when their mind has wandered from the mantra. One then gently returns their awareness back to the mantra.
 
-So it is with rising at dawn. When I notice that my life is wandering into a feeling of purposelessness, I then gently return my waking time back to dawn.
-
-It is like meditation practice for active life.
+So it is with rising at dawn. When I notice that my life is wandering into a feeling of purposelessness, I then gently return my waking time back to dawn. It is the place I return to. It is like meditation practice for active life.
 
 ### The Basic Ritual
 
 The most basic ritual is to set an alarm for the time of sunrise. When the alarm goes off I get out of bed with no delay and I go outside. I stand in the morning light for 10 minutes letting the sunlight bathe my eyes and skin.
 
 My actual daily ritual is slightly more elaborate. In a later chapter I describe how I extend this ritual throughout the day.
-
-In brief, I wake up at sunrise as described above. I use the bathroom and wash my hands. 
-
-I prepare and eat a small breakfast. I wash my face and brush my teeth. I put on clothes appropriate to the weather. I tidy my bedroom and tidy the kitchen.
-
-I then go outside and stand in sunlight for approximately 10 minutes. In practice, the time between my alarm going off and my face being bathed in sunlight is approximately 30 minutes.
-
-While I am outside I say a prayer which includes expressions of thanks and gratitude. I set some positive intentions for the day. I am then ready to do the work that I have planned for that morning.
