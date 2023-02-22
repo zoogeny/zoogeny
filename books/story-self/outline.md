@@ -1,6 +1,6 @@
 
 1. On Rising at Dawn
-    - on why it is the first
+    - on why it is the primary
     - on why it is the only
     - basic ritual
 2. On Daily Rituals

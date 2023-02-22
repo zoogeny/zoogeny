@@ -15,7 +15,7 @@
     - better digestion
     - productivity
 
-## On why it is the first
+## On why it is the primary
 
 - Basics of life are sleep, diet and exercise
     - sleep hygiene regulates circadian rhythm
@@ -53,6 +53,6 @@
 
 ## Notes
 
-- I am not making a good argument for why it is the first
+- Think about adding sources as footnotes (e.g. claims on cortisol hormone changes due to light intake on retinas, evidence of sleep as a primary factor in mental health)
 
-- Think about adding sources as footnotes (e.g. claims on cortisol hormone changes due to light intake on retinas)
+- Not sure I need to keep the comparison to meditation -- that might be better in a commentary?
