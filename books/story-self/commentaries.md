@@ -30,6 +30,9 @@
     - Liberalism
     - Objectivism
     - Multiculturalism
+    - A vision of schools that are repositories of descriptions
+        - teachers who are forced to teach subjects they themselves despise
+        - a record of how successful people became successful rather than how some administrator believes a student should study to reach the same level of success
 
 - Value of cycles
     - Cycles can be viewed as beginning and ending on any of the four phases
