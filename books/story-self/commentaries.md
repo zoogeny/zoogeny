@@ -73,6 +73,12 @@
             - e.g. should prayer precede eating?
     - Relative duration of each section of the cycle
         - e.g. a short prayer, long work, medium eat, short clean
+    - Possible addition to app to calculate:
+        - period between misalignment and becoming aware of misalignment
+        - period between awareness of misalignment and starting to realign
+        - period starting realignment and completing realignment
+        - frequency of misalignment
+
 
 - Value of love
     - Greek words for love
