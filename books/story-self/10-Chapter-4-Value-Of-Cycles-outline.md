@@ -43,6 +43,9 @@
 - Spectral analysis
     - Fourier transforms
 - Synchronization
+
+### Relation to Rituals
+
 - Aligning to frequencies
     - time to notice unaligned
     - time to realign once noticed
@@ -67,3 +70,5 @@
     - diagrams would be helpful here
 
 - Diagrams would be useful for the "Pattern of a wave" section
+
+- My definitions of synchronized and aligned should be the same as suitable existing mathematical as on as those terms aren't too obscure. My quick searching was unable to find any existing clear definitions of what I am trying to communicate.
