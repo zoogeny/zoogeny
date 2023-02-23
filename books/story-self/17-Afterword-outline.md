@@ -75,6 +75,10 @@
     - Kierkegaard - Fear and Loathing, Either/Or
     - Nietzsche - Genealogy of Morals
     - Camus - Nuptials
+- Continental Philosophy
+    - Foucault - Discipline and Punish
+    - Deleuze - Anti-Oedipus
+    - Derrida - Of Grammatology
 - Esotericism / Occultism
     - Hermeticism
     - Theosophy
