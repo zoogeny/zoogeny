@@ -76,6 +76,7 @@
 
 - Value of love
     - Greek words for love
+        - show how these can be expressed using my own definition
     - The external goal
     - The need for sacrifice
     - Connection to emotion
@@ -84,6 +85,13 @@
     - Mind / body dualism
     - Our relationship to our universe
         - To the Nous and to the One
+    - Our relationships to 
+        - human life
+        - mammal life
+        - all life on earth (bugs? bacteria?)
+        - life that benefits me vs. life that preys on me?
+        - life in the galaxy / universe
+        - life in all possible universes
 
 - Value of prayer
     - Thoughts and prayers around tragic events

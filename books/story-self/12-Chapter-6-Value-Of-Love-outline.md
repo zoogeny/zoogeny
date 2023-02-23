@@ -27,3 +27,12 @@
   - Opposed to antinatalism or the even more severe efilism
   - To see ourselves as working with nature/universe/God towards some goal
 
+---
+
+- The alternate views section requires a log of work. I'm not convinced it even needs to be there unless I go into more detail.
+  - I should probably give examples of how each type of love in the Greek context can be understood as two entities working towards a shared external goal.
+
+- Loving life needs to be filled out.
+  - I'm mixing up "all existence" and "all life"
+  - How does this related to the Nous and the One? Is "all existence" a synonym for the Nous or the One? Am I talking about all life on earth? All life in this universe? All life in all possible universes?
+
