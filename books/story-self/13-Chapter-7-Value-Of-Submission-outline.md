@@ -36,7 +36,6 @@
 
 ---
 
-- Wow - the draft turned out pretty bad. 
 - I am not clearly explaining how virtue is created by submission. 
 - I am not clearly explaining how dominance is related to protection.
 - I am not making a clear connection between dominance and the kind of oppression that Nietzsche was describing as the source of moral truth
