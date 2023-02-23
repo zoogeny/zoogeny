@@ -18,6 +18,7 @@
     - Consider the large number of individuals that get up before dawn as a regular part of their lives (e.g. blue collar workers)
     - scientific evidence that getting sunlight into the eyes is beneficial
     - meditation practice with breath work and mantras
+    - I first tried to move from the suburbs to the cities. Then bigger cities. When that didn't work I moved to a rural area. The environment didn't make a difference to my sense of purposelessness
 
 - On daily rituals
     - Why I chose the order for the ritual cycle
