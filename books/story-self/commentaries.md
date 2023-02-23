@@ -123,6 +123,8 @@
         - Jesus' choice to submit at the Garden of Gethsemane
         - God's willingness to spare Sodom and Gomorrah after the pleas of Abraham
             - "Starting at 50 people, Abraham negotiates with God to spare Sodom if 10 righteous people could be found."
+    - Consider post modern ideas like Foucault
+        - he wrote a lot about power and domination - I have to contend with that
 
 - On "The One"
     - Crime novel analogy: We are half way through but the ending is already written. We still feel the tension of the detective although we know the bad guy will get caught. The thrill is in seeing how the mystery unfolds.

@@ -75,6 +75,14 @@ TODO:
 
 - Standardize the capitalization of headers within all chapters
 
+- Bad chapters needing rewrites:
+    - Value of Cycles
+        - depends how far I get on the frequency coincidence part but it needs much clarification
+    - Value of Love
+        - The definition is alright but I need to do real work to compare it to other conceptions of love from other spiritualists and philosophers
+    - Value of Submission
+        - Not clearly expressing an argument here.
+
 ---
 
 Consider the order:
