@@ -14,7 +14,7 @@ I keep the prayers concise. An example of a prayer: "I am thankful that there is
 
 When I pray in this manner I provide myself with an objective and a small plan on how I will spend the next few hours.
 
-### When not sure what to do next
+### When Not Sure What to Do Next
 
 When I feel unsure about what I should be working on then I will reflect on the intentions I set during my last prayer.
 
@@ -24,7 +24,7 @@ I will check my future schedule to see if I can bring intentions from the future
 
 If I am still unsure of what to work on next then I will start a new ritual. I will eat a small snack, do a bit of cleaning, say a new prayer to set a new intention, and then get to work on the new intention. Prayer acts as part of a reset that I use in times of doubt.
 
-### When feeling unable to do anything
+### When Feeling Unable to Do Anything
 
 When one hears of tragedy and catastrophe, oftentimes there is nothing that can be done. For example, a natural disaster in some remote area of the world. I may wish to act, for example to send some money or to donate blood, but these may not be possible to act upon immediately or appropriately.
 
@@ -32,7 +32,7 @@ Prayer helps to sow the seed of intention to action in my mind. Prayer keeps the
 
 Prayer prompts me to prepare myself for similar tragedy. I can ensure that I have the appropriate supplies and skills to deal with such a tragedy if it were to affect me or my loved ones.
 
-### On expectation and reward
+### On Expectation and Reward
 
 I trust that I will receive rewards appropriate to my actions. 
 

@@ -16,7 +16,7 @@ Consider two conscious beings Alice and Bob. Alice is working with Bob towards t
 
 Mutual love exists when two beings simultaneously act in a loving way as in the example of Alice and Bob. This is a reciprocal love between the two conscious beings.
 
-### Alternate views of love
+### Alternate Views of Love
 
 I contemplate the relation of this definition to other definitions of love. For example, the Greek words connoting love: Agape (brotherly love), Eros (sexual passion), Philia (friendship), Storge (familial), Philautia (self), and Xenia (hospitality).
 
