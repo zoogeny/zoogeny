@@ -34,7 +34,7 @@ Abrahamic religions often permit mystical ideas. Islam has Sufism and mystics li
 
 Philosophy has writers like Spinoza with his pantheistic view of a God of nature.
 
-### The separation
+### The Separation
 
 The Nous is self-aware, conscious, and contains all possible thoughts. One such thought is the question: "What is outside of the set of all possible thoughts?" or "What is outside the Nous?" 
 
@@ -46,7 +46,7 @@ The Nous is aware of a mystery in these dilemmas. The Nous emanates from the One
 
 The Nous then contemplates the Psyche, the boundary between itself and the One. The Nous desires to dissolve the boundary between itself and the One. All universes, including our own, are created through the Nous's exhaustive search of the Psyche in search of a means to dissolve the Psyche. This is a process of separation. The Nous as individual from the One.
 
-### The returning
+### The Returning
 
 The Nous contemplates that everything that could exist will exist within itself. Therefore, if a process for unification between itself and the One could exist then such a process will exist within itself. If a process to dissolve the Psyche exists then such a process will exist within the Psyche. The Nous is searching and discovering aspects within itself in a manner that might be called curation or creation. 
 
@@ -66,7 +66,7 @@ The separation of the Nous from the One and the reunification of the Nous to the
 
 The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, fall and summer. Like night, day, afternoon and evening. Instead of these happening sequentially they are all happening simultaneously and eternally.
 
-### Our purpose
+### Our Purpose
 
 I believe that the conscious beings within this universe are a critical component to the process of reunifying the Nous to the One. I believe that our existence is a necessary part of this cycle.
 

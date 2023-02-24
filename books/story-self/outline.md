@@ -50,7 +50,16 @@ Copyright
 
 TODO:
 - outline: table of contents
-- edit: edit edit edit (all chapters numerous times)
+- Final edit pass
+    - Awkward sentences
+    - Obvious grammar mistakes
+- Proofreading
+    - Spelling and grammar (to the best of my ability)
+    - Check spelling of names
+- Prepare book cover
+- Prepare epub using Pandoc
+- Prepare Kindle using Kindle Create
+- Publish to Amazon
 
 - publish eBook version of the book
     - investigate Kindle Direct Publishing (KDP): https://kdp.amazon.com/en_US
@@ -72,8 +81,6 @@ TODO:
 - Maybe find somewhere to describe the absurdity of our relationship with the Nous. Perhaps in the On the One chapter I could explicitly deny revelation and inspiration and comment on the fact that our being aligned with the Nous is a coincidence (one that it specifically sought out) and not a coordination. However, since revelation is not a tenable thing then this relationship is an absurdity.
 
 - Worth mentioning that nothing other than my mood changed. It was not like I won the lottery or suddenly became super popular with women. I still have bills to pay and all of the problems I had before the mood change.
-
-- Standardize the capitalization of headers within all chapters
 
 - Bad chapters needing rewrites:
     - Value of Cycles

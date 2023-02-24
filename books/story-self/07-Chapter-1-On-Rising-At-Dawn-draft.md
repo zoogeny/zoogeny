@@ -2,7 +2,7 @@
 
 I decided to rise at dawn every day for three months. I wanted to see what effect this would have on my physical health, my mental health, and my mood.
 
-### Why rise at dawn?
+### Why Rise at Dawn
 
 I was feeling depressed. For nearly 4 months I slept in each day until noon or later. I would lie in bed watching YouTube videos or scrolling on social media until I felt too guilty to remain in bed. After I got up I would lie down on the couch to watch more YouTube videos until it was dark outside.
 
@@ -26,7 +26,7 @@ I made a resolution then to get up at dawn every day for three months. I also co
 
 I started to get things done. I started to write. This book is a reminder to myself of where I want to be mentally and physically.
 
-### On why it is the primary
+### Why It Is the Primary
 
 There is scientific evidence that the foundation for good health begins with good sleep, good diet, and good exercise. These claims seems reasonable to me.
 
@@ -42,7 +42,7 @@ I also read a lot about mysticism and other spiritual philosophies. Being awake 
 
 I now believe that sleep is the primary aspect of good mental and physical health. When I improved my sleep schedule then my diet and my exercise improved. When I improved my sleep schedule my mental health and mood improved. It fits in with both scientific and spiritual knowledge.
 
-### On why it is the only
+### Why It Is the Only
 
 A commitment to rising at dawn is memorable and verifiable. I want to avoid routines that are difficult to remember and complicated to keep track of. I check daily if I am getting up on time and quickly going outside into the sun.
 

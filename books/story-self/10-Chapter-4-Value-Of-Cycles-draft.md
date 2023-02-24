@@ -10,7 +10,7 @@ Cycles manifest within my own body in the circadian rhythm and the melatonin cyc
 
 Cycles appear in many spiritual traditions. In Hinduism and Buddhism there is Samsara, Kalachakra and the Wheel of Time. Roman Stoicism references the cyclic nature of existence. Greek Pythagoreanism described the universe as the music of celestial spheres. Eternal Return is a philosophical concept both ancient and modern. There is the even more ancient symbol of the Ouroboros which is thought to represent the cycle of life, death and rebirth. Modern new-thought spiritualists use words like "vibration" and "resonance" to describe aspects of their beliefs.
 
-### Pattern of a wave
+### Pattern of a Wave
 
 The wave is made up of 4 sections. The first section begins at the lowest point of the wave and it gradually rising to a midpoint. The second section continues from the midpoint to the highest point. The third section continues from the highest point then falls to the midpoint. The fourth section continues from that midpoint then falls to the lowest point.
 

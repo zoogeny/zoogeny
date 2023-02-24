@@ -10,7 +10,7 @@ I am applying reason to my experience. I am contemplating knowledge I have found
 
 I hope that sharing descriptions of my reasoning, my process, my principles, my practices, and my results will help others to find their own way.
 
-### On why not prescriptions
+### Why Not Prescriptions
 
 I have no secret knowledge. Everything that I know is available to anyone with access to the Internet. I have used Wikipedia, YouTube, Google, blogs and I have read a few books on philosophy and spirituality.
 
@@ -20,7 +20,7 @@ I have not studied these topics at a university. I have not apprenticed under a 
 
 For these reasons and more, I cannot give advice or prescriptions to others.
 
-### On individuality
+### On Individuality
 
 I am not much like others. I see that most people are not like most other people.
 
