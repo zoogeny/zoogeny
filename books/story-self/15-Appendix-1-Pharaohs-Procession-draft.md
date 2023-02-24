@@ -6,13 +6,13 @@ The Pharaoh is wearing his most exquisite ceremonial garb and regalia. This day 
 
 The Pharaoh stands up tall from his throne. He begins the procession by walking forward with his back straight, his head high, and his eyes facing straight ahead. His pace is slow, rhythmic, and methodical.
 
-The Pharaoh steps down the first step of the dais upon which his throne sits. He passes his councilors and they bow low before him. They are dressed in their finest clothes. His Chief Councilor bows because he admires the well run civilization that prospers under the Pharaoh's leadership.
+The Pharaoh steps down the first step of the dais upon which his throne sits. He passes his councilors and they bow low before him. They are dressed in their finest clothes. His Chief Councilor bows because he is proud of the well run civilization that prospers under the Pharaoh's leadership.
 
 The Pharaoh steps down the second step of the dais and the councilors follow behind him. He passes his priests and they bow low before him. They are dressed in their finest robes. His High Priest bows because he loves the Pharaoh and because he held him as an infant when he blessed the Pharaoh's birth.
 
 The Pharaoh steps down the third step of the dais and the priests follow behind him. He passes his generals and they bow low before him. They are dressed in their finest uniforms. His General of Armies bows because he respects the powerful military commanded by the Pharaoh.
 
-The Pharaoh steps down the fourth step of the dais to the ground and the generals follow behind him. The procession continues along a long hall towards a large open door. The hall is lined with the Pharaoh's personal guard and they bow low before him. His Captain of the Guard bows because he is pleased with the administration of justice the Pharaoh exercises over his lands.
+The Pharaoh steps down the fourth step of the dais to the ground and the generals follow behind him. The procession continues along a long hall towards a large open door. The hall is lined with the Pharaoh's personal guard and they bow low before him. His Captain of the Guard bows because he is thankful for the wise administration of justice the Pharaoh exercises over his lands.
 
 The Pharaoh steps through the door into the bright sunlight of a hot summer midday. In the courtyard of his palace before him sits a litter with four men kneeling beside and awaiting his arrival.
 
@@ -26,7 +26,7 @@ The procession continues at the same slow, rhythmic, and methodical pace. The co
 
 Each section of crowd alongside the road has been reserved for a particular class of people.
 
-The Pharaoh passes the first section of architects and masons who designed the massive stones used to build his temple. They bow low before him. The chief architect bows because he is impressed with the majesty of the grand temple the Pharaoh commissioned.
+The Pharaoh passes the first section of architects and masons who designed the massive stones used to build his temple. They bow low before him. The chief architect bows because he is awed by the majesty of the grand temple the Pharaoh commissioned.
 
 The Pharaoh passes the second section of artisans who crafted the statues and reliefs of his temple. They bow low before him. The chief artisan bows because he is moved by the beauty of the art for which the Pharaoh has been patron.
 
