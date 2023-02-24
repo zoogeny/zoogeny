@@ -5,6 +5,8 @@
     - pure being
     - source from which all else emanates (overflows)
     - completely ineffable
+### On the Emanations of the One
+
 - First emanation is the Nous
     - All possible descriptions including 
         - all possible logical and mathematical propositions
@@ -64,3 +66,8 @@
         - It is not clear in what way the Nous is working *with* us. If we are a kind of independent universe that exists on its own within the set of all universes ... it is hard to see how the Nous works with us
         - I was considering that it may be a matter of interpretation on the part of the Nous - some kind of critical theory where the meaning of our existence isn't entirely in our own subjective consciousness but also includes the interpretation of the observer - in this case the Nous. So it is some kind of charitable interpretation we require?
     - I will let this contradiction stand for now until I read more on mysticism, philosophy and other spiritual traditions
+
+- The final: "It is through the narrative of our mystical transcendence that the Nous learns the process by which it will reunify to the One." is not precisely what I believe
+    - It may be the case that there are multiple universes that narrate the reunification of the Nous and the One. It may be the case that while the narrative of those universes is comprehensible in some fashion to the Nous that there remains some element of mystery
+    - Our universe may be some attempt at a minimal test case. We are a single planet with a single set of conscious beings. We have the technology to inspect our consciousness from a physical perspective. We have the mysticism to attempt transcendence from an experiential perspective.
+    - We may live on the cusp of transcendence and non-transcendence for the purposes of the Nous getting a deeper understanding of the minimal set of necessary conditions for transcendence back to the One.
