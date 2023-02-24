@@ -2,28 +2,112 @@
 
 The following is meant to provide me a with rough guide on areas for further study. I plan to revise this book and to release new editions as I investigate these topics more deeply.
 
-Throughout the book I am relying on Neoplatonic ideas and terminology that originate with Plotinus. His collected work, the Enneads, was compiled by his student Porphyry. I would like to read a broad selection from this collected works. I would like to read some of the works of his students such as Porphyry and Proclus.
+### Neoplatonism
 
-No education in Western Philosophy would be complete without the inclusion of Plato and Aristotle. From Plato I would like to read Phaedo, Phaedrus, Timaeus and Parmenides of Plato. From Aristotle I would like to read his Nicomachean Ethics.
+- Plotinus: a broad selection of The Enneads
+- Porphyry: selected works
+- Proclus: selected works
 
-I frequently come across the claim that modern Western thought is a synthesis of "Athens and Jerusalem". I would like to read The five books of Moses, known as the Pentateuch in Christianity and the Torah in Judaism. I would like to read some selection of the prophets in the Nevi'im and some writings from the Ketuvim. I would like to read Maimonides, specifically his Mishneh Torah and The Guide for the Perplexed. I would like to read selections of the Mishna and Gemara of the Talmud. From the mystical Judaism and Kabbala I would like to read The Zohar and The Sefer Yetzirah.
+### Greek Philosophers
 
-From Christian theology there is much to explore but I would focus first on the four canonical Gospels. A selection of the books from the New Testament would follow. Of the great Christian minds I would consider Thomas Aquinas important as he attempted a similar combination of Aristotle and Christianity that Maimonides had attempted with Judaism. I would like to read The confessions of St. Augustine. From the mystical side I would like to read a selection of writings from Meister Eckhart. From more contemporary writers I would like to read Mere Christianity by C.S. Lewis and The Kingdom of God Is Within You by Leo Tolstoy.
+- Plato: Phaedo, Phaedrus, Timaeus and Parmenides
+- Aristotle: Nicomachean Ethics
 
-I have long loved the ideas of Taoism and have read some popular modern interpretations. I would like to read the original Tao Te Ching followed by the Zhuangzi attributed to Zhuang Zhou.
+### Jewish Theology and Mysticism
 
-The blend of Taoism and Buddhism in Zen feels strongly aligned to my own thoughts. It is difficult for me to decide upon a representative selection of Zen texts since they seem to range through Buddhist classics. Some selections I identified during a brief investigation include several Buddhist sutras such as the Lankavatara Sutra, the Diamond Sutra, the Vimalakirti Sutra, the Avatamsaka Sutra, the Buddhavatamsaka Sutra, and the Platform Sutra. I am enjoy Zen koans and so I would like to read the collections Gateless Gate and Blue Cliff Record. Other titles that I would like to read are the Kana Shōbōgenzō by Eihei Dōgen, the sayings of Linji Yixuan, and The Four Texts of the Zen Sect known as the Zenshū Shiburoku.
+- The five books of Moses, known as the Pentateuch in Christianity and the Torah in Judaism. 
+- Selected works of the prophets in the Nevi'im 
+- Selected works from the Ketuvim.
+- Maimonides: Mishneh Torah, The Guide for the Perplexed. 
+- Selection from the Mishna and Gemara of the Talmud. 
+- The Zohar 
+- The Sefer Yetzirah
 
-Buddhism is such a deep topic with so much written that it is difficult to know even where to start. I would like to read the sayings of Buddha in the Dhammapada. There appear to be two Tripitaka in the Pali Canon and the Sutta Pitaka. There is also important Mahayana Sutras I would like to read including the Ajitasena Sutra and the Saddharma-pundarika-sutra (True Dharma White Lotus Sutra) or (Threefold Lotus Sutra). The thinker Nagarjuna is considered by some to be one of the greatest philosophers of Buddhism and I would like to read his Mūlamadhyamakakārikā (Root Verses on Madhyamaka, or MMK).
+### Christian Theology and Mysticism
 
-Hinduism is another deep topic with centuries of material to draw from. I need to reread the Upanishads and would like to read the Bhagavad Gita. There are also the four Vedas: the Rigveda, the Yajurveda, the Samaveda, and the Atharvaveda
+- The four canonical gospels: Matthew, Mark, Luke, and John
+- Selected works from the New Testament would follow
+- St. Augustine: The Confessions
+- Thomas Aquinas: selections from Summa Theologiae
+- Meister Eckhart: selected works
+- C.S. Lewis: Mere Christianity
+- Leo Tolstoy: The Kingdom of God Is Within You
 
-Confucianism is probably the largest philosophical system for which which I have almost no direct knowledge. My research suggests that the main texts are the "Four books" of Great Learning, Doctrine of the Mean, Analects and Mencius. Then there are the "Five classics" of Classic of Poetry, Book of Documents, Book of Rites, I Ching, and Spring and Autumn Annals.
+### Taoism
 
-I need to consider the treasures in Western philosophy. I have a strong interest in phenomenology so would like to read Being and Time by Martin Heidegger. Ludwig Wittgenstein is a character who greatly interests me and I would like to read his Philosophical Investigations. I have had The Varieties of Religious Experience by William James on my bookshelf sitting unread for far too long. The same is true for Baruch Spinoza's Ethics. I have a deep appreciation for the works I have read of Kierkegaard so I would like to read Either/Or. I have a collected work of Nietzsche on my bookshelf and I would like to read On the Genealogy of Morality. Bertrand Russell is a towering figure in modern philosophy and I would like to read his book Mysticism and Logic and Other Essays. I would like to get a better understanding of the absurdism of Camus and I would like to read Nuptials.
+- Laozi: Tao Te Ching
+- Zhuang Zhou: Zhuangzi
 
-The continental philosophers and post modern tradition tackles many of these ideas. Foucault wrote on topics of power and domination in Discipline and Punish. Deleuze wrote on the topic of capitalism in Anti-Oedipus. Derrida tackled the dominance of particular narratives in Western histories in Of Grammatology.
+### Zen Buddhism
 
-There are many other spiritual traditions I would like to investigate. Hermeticism, Theosophy and Thelema are all interesting esoteric and occult spiritual traditions. There are many paganisms worth exploring. Zoroastrianism contributed many ideas to modern spiritual traditions. I also believe that some New Thought movement ideas are worth serious attention. There are some interesting ideas in the ancient religion of Jainism.
+- Lankavatara Sutra
+- Diamond Sutra
+- Vimalakirti Sutra
+- Avatamsaka Sutra
+- Buddhavatamsaka Sutra
+- Platform Sutra
+- Gateless Gate (koans)
+- Blue Cliff Record (koans)
+- Eihei Dōgen: Kana Shōbōgenzō
+- Linji Yixuan: selected sayings
+- Zenshū Shiburoku (The Four Texts of the Zen Sect)
+
+### Buddhism
+
+- Dhammapada: selected sayings of the Buddha
+- Pali Canon / Sutta Pitaka: selected works from the Tripitaka
+- Ajitasena Sutra
+- Saddharma-pundarika-sutra (True Dharma White Lotus Sutra) or (Threefold Lotus Sutra)
+- Nagarjuna: Mūlamadhyamakakārikā (Root Verses on Madhyamaka, or MMK).
+
+### Hinduism
+
+- Upanishads: selected works
+- Bhagavad Gita: selected words
+- Vedas:
+    - The Rigveda
+    - The Yajurveda 
+    - The Samaveda
+    - The Atharvaveda
+
+### Confucianism
+
+- Four books
+    - Great Learning
+    - Doctrine of the Mean
+    - Analects
+    - Mencius
+- Five classics 
+    - Classic of Poetry
+    - Book of Documents
+    - Book of Rites
+    - I Ching
+    - Spring and Autumn Annals
+
+### Western Philosophy
+
+- Martin Heidegger: Being and Time
+- Ludwig Wittgenstein: Philosophical Investigations
+- William James: The Varieties of Religious Experience
+- Baruch Spinoza: Ethics
+- Søren Kierkegaard: Either/Or
+- Friedrich Nietzsche: Genealogy of Morality
+- Bertrand Russell: Mysticism and Logic and Other Essays. 
+- Albert Camus: Nuptials.
+
+### Continental Philosophy
+
+- Michel Foucault: Discipline and Punish
+- Gilles Deleuze: Anti-Oedipus
+- Jacques Derrida: Of Grammatology
+
+### Miscellaneous
+
+- Hermeticism: The Hernmetica
+- Theosophy: selected works
+- Thelema: selected works
+- Zoroastrianism: selected works
+- New Thought: selected works
+- Jainism: selected works
 
 This is more content than I can reasonably get through but I believe it sketches out a general direction for further study on these topics. I know I am missing entire universes of thought and I hope to become aware of them so I can attempt to incorporate them into my own thinking.
