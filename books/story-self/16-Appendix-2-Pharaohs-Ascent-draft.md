@@ -1,14 +1,12 @@
 ## The Pharaoh's ascent at his temple
 
-This vision came to me years after the original vision of the Pharaoh's procession. It came after I made the change to rise at dawn. It came after my dive into mysticism.
+The Pharaoh arrives at the base of his temple carried upon a litter. The four men carrying the litter lower it to the ground.
 
-The Pharaoh arrives at the base of his temple carried upon a litter. The four men carrying the litter lower it to the ground. 
-
-The Pharaoh steps down from the litter and approaches a large stone stair case built into the side of his temple. The stairs extend up along the outside of his temple to a platform high above. 
+The Pharaoh descends from the litter and approaches a large stone stair case built into the side of his temple. The stairs extend up along the outside of his temple to a platform high above. 
 
 The Pharaoh will make his blessing for his temple from an alter upon this platform.
 
-The Pharaoh slowly, rhythmically, and methodically ascends the stairs as he inspects the temple. He appreciates the excellent craftsmanship. He appreciates the exquisite decorations.
+The Pharaoh slowly, rhythmically, and methodically ascends the stairs as he inspects the temple. He appreciates the excellent craftsmanship. He appreciates the exquisite decorations. He appreciates the thoughtful inscriptions.
 
 The Pharaoh contemplates that the temple is exactly as he envisioned it. He is neither pleased nor displeased. He is neither satisfied nor dissatisfied. He has become accustomed to his high standards being met.
 
@@ -18,4 +16,4 @@ The Pharaoh turns to face the crowd from this great height. He can see the compl
 
 The Pharaoh falls to his knees and bows low to the crowd below. His councilors, priests, generals, and all his subjects are astonished. This act was not planned as part of the ceremony.
 
-In the same way that the Pharaoh does not wonder why his subjects bow to him, so we do not know why the Pharaoh chose to bow that day.
+In the same way that the Pharaoh does not wonder why his subjects bow to him, so it is that we do not know why the Pharaoh chose to bow that day.

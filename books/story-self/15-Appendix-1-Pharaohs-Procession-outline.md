@@ -83,13 +83,13 @@
 
 | Type | Lead | Emotion | Reason |
 |---|---|---|---|
-| Councilors | Chief Councilor | impressed | well run civilization |
+| Councilors | Chief Councilor | proud | well run civilization |
 | Priests | High Priest | love | held as infant and blessed him |
 | Generals | General of Armies | respect | powerful military |
 | Steps down from dais |
-| Guards | Captain of Guard | pleased | administration of justice |
+| Guards | Captain of Guard | thankful | wise administration of justice |
 | Enters litter |
-| Architects and masons| Chief architect | impressed | majesty of temple commissioned |
+| Architects and masons| Chief architect | awed | majesty of temple commissioned |
 | Artisans | Chief artisan | moved | beauty of the art work |
 | Scribes | Chief scribe | honored | greatest collection of scrolls and knowledge |
 | Farmers | Chief of agriculture | impressed | many mouths fed |
