@@ -2,11 +2,11 @@
 
 ### Definition of Love
 
-The act of love begins when two or more conscious beings work together to attain a goal. For this to be an act of love the goal must not benefit at least one of the beings. The being who acts with love is the being who chooses to work towards the attainment of the goal but gains no self benefit from the attainment of the goal.
+The act of love begins when two or more conscious beings work together to attain a goal. For this to be an act of love the goal must not benefit at least one of the beings. The being who acts with love is the being who chooses to work with another towards the attainment of a goal but gains no self benefit from the attainment of the goal.
 
-Some sacrifice for the being is necessary for this to be an act of love. For example, the being sacrifices their time because they lose an opportunity to work to their own self benefit.
+Some sacrifice for the being is necessary for this to be an act of love. For example, the being sacrifices their time because they lose an opportunity to use that time to work towards their own self benefit.
 
-Love can be expressed in the absence of emotion. Love is the cause and the emotions are a possible symptom. Emotions can help to promote a bond between beings. The presence of emotion does not imply the presence of love.
+Love can be expressed in the absence of emotion. Love is the cause and the emotions are a possible symptom. Emotions can help to promote a bond between beings. Emotion can prompt a being to act selflessly towards a goal in an act of love. However, the presence of emotion does not necessarily imply the presence of love.
 
 ### Mutual Love
 
@@ -20,7 +20,7 @@ Mutual love exists when two beings simultaneously act in a loving way as in the 
 
 I contemplate the relation of this definition to other definitions of love. For example, the Greek words connoting love: Agape (brotherly love), Eros (sexual passion), Philia (friendship), Storge (familial), Philautia (self), and Xenia (hospitality).
 
-Self-love is an interesting case to consider. One view is to see the mind and body as individual beings that work together. Another view is to see the self as a whole singular being. I think both views are valid and I try to think of them simultaneously. I contemplate that a musical chord can be seen as a singular thing although it is comprised of individual notes.
+The love of oneself is an interesting case to consider. One view is to see the mind and body as individual beings that work together. Another view is to see the self as a whole singular being. I think both views are valid and I try to think of them simultaneously. I contemplate that a musical chord can be seen as a singular thing although it is comprised of individual notes.
 
 ### Loving life
 

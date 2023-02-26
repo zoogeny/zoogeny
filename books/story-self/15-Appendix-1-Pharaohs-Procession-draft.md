@@ -2,7 +2,7 @@
 
 The Pharaoh is sitting tall upon his throne. The Pharaoh is God in the form of man. He rules over a large kingdom on Earth with millions of subjects.
 
-The Pharaoh is wearing his most exquisite ceremonial garb and regalia. This day is the occasion of the ceremonial opening of a grand temple that was built in his honor. The Pharaoh will visit, inspect, and bless the completed temple.
+The Pharaoh is wearing his most exquisite regalia. This day is the occasion of the ceremonial opening of a grand temple that was built in his honor. The Pharaoh will visit, inspect, and bless the completed temple.
 
 The Pharaoh stands up tall from his throne. He begins the procession by walking forward with his back straight, his head high, and his eyes facing straight ahead. His pace is slow, rhythmic, and methodical.
 

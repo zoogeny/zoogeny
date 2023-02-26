@@ -1,5 +1,5 @@
 ## Dedication
 
-To my mother, Judith
+To my mother Judith
 
 You taught me many beautiful ideas including "better late than never"

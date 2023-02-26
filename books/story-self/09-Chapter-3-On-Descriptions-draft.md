@@ -1,6 +1,6 @@
 ## On Descriptions
 
-I wrote this book to describe to others what I am trying to do and why I am trying to do it. I wrote this book to remind myself of the important ideas for living my life. 
+I wrote this book to describe to others what I am trying to do and why I am trying to do it. I wrote this book to remind myself of the important ideas for living my life.
 
 This book is not meant to tell others what to do. It contains a set of principles and practices that I want to live by. It contains a retelling of some of the ideas that motivated me to adopt these principles and practices.
 
@@ -26,6 +26,6 @@ I am not much like others. I see that most people are not like most other people
 
 Everyone has different particular goals. Everyone has a different set of skills, abilities, and expertise. Everyone comes from a different background and has a different collection of experiences. Everyone has different preferences and individual tastes.
 
-No single program could be sufficient for all people. Not all people are able to rise at dawn. Not all people are able to follow my rituals. Some people may already be rising at dawn everyday and getting plenty of sun yet they may feel depressed, unfulfilled or that their life has no purpose.
+No single program could be sufficient for all people. Not all people are able to rise at dawn. Not all people are able to follow my rituals. Some people may already be rising at dawn every day and getting plenty of sun yet they may feel depressed, unfulfilled or that their life has no purpose.
 
-I will not tell anyone else how to live. I will not dictate what are good principles to live by. I attempt to describe my reasoning for my behavior. I share the results that I obtain when I follow my own template.
+I will not tell anyone else how to live. I will not dictate what are good principles to live by. I will attempt to describe my reasoning for my behavior. I will share the results that I obtain when I follow my own template.

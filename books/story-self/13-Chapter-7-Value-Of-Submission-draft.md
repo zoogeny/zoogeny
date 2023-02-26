@@ -6,7 +6,7 @@ Submission is wrongly associated with weakness or victimhood. Dominance is wrong
 
 Nature is totally dominant over conscious beings. Everything is bound by the immutable laws of physics including the second law of thermodynamics and the effects of gravity. The free will of conscious beings, if it exists at all, is subject to the limits imposed by natural laws.
 
-Nature can also exert tremendous power over the affairs of conscious beings in the form of tornados, hurricanes, floods, earthquakes, lighting, and wildfires. No living entity within the universe could claim to be entirely free from the dominance of nature when they are compared to the power and intensity of events such as supernovas.
+Nature exerts tremendous power over the affairs of conscious beings in the form of tornados, hurricanes, floods, earthquakes, lighting, and wildfires. No living entity within the universe is entirely free from the dominance of nature considering the power and intensity of events such as supernovas.
 
 Logic and mathematics dominate the intellect. The process of science dominates our rational minds through empiricism.
 

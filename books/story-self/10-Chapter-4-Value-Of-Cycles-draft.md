@@ -1,6 +1,6 @@
 ## Value of Cycles
 
-My philosophy will have roots in my own experience and I experience cyclic patterns in nature. I experience the cycle of seasons with their equinoxes and solstices. I experience the cycle of the lunar fortnight as the moon waxes and wanes. I experience the cycles of the tides that result from the forces of the moon.
+My philosophy must have have roots in my own experience and I experience cyclic patterns in nature. I experience the cycle of seasons with their equinoxes and solstices. I experience the cycle of the lunar fortnight as the moon waxes and wanes. I experience the cycles of the tides that result from the forces of the moon.
 
 Rising at dawn is an attempt to align my life to the cycle of day and night.
 
@@ -8,13 +8,13 @@ Waves act as a basis for understanding important physical processes. Electromagn
 
 Cycles manifest within my own body in the circadian rhythm and the melatonin cycle. The heart beats with a rhythm. There are detectable beta waves generated in the brain.
 
-Cycles appear in many spiritual traditions. In Hinduism and Buddhism there is Samsara, Kalachakra and the Wheel of Time. Roman Stoicism references the cyclic nature of existence. Greek Pythagoreanism described the universe as the music of celestial spheres. Eternal Return is a philosophical concept both ancient and modern. There is the even more ancient symbol of the Ouroboros which is thought to represent the cycle of life, death and rebirth. Modern new-thought spiritualists use words like "vibration" and "resonance" to describe aspects of their beliefs.
+Cycles appear in many spiritual traditions. In Hinduism and Buddhism there is Samsara, Kalachakra and the Wheel of Time. Roman Stoicism references the cyclic nature of existence. Greek Pythagoreanism described the universe as the music of celestial spheres. Eternal Return is a philosophical concept both ancient and modern. There is the ancient symbol of the Ouroboros which is thought to represent the cycle of life, death and rebirth. Modern new-thought spiritualists use words like "vibration" and "resonance" to describe aspects of their beliefs.
 
 ### Pattern of a Wave
 
 The wave is made up of 4 sections. The first section begins at the lowest point of the wave and it gradually rising to a midpoint. The second section continues from the midpoint to the highest point. The third section continues from the highest point then falls to the midpoint. The fourth section continues from that midpoint then falls to the lowest point.
 
-These sections roughly matches my conception of morning, afternoon, evening, night. Of spring, summer, fall, and winter. Of child, adolescent, adult, and elderly. Of eat, clean, pray, work.
+These sections roughly matches my conception of morning, afternoon, evening, night. Of spring, summer, fall, and winter. Of child, adolescent, adult, and elderly. Of pray, work, eat, clean.
 
 This same pattern across my day, my year, my life, and my rituals.
 
@@ -22,11 +22,11 @@ The order of the sections is of no importance. Spring, summer, fall, and winter 
 
 ### Frequencies and Coincidences
 
-Frequency is a defining characteristic of a wave or a cycle. It describes how often a particular event happens within a specific amount of time. For example, the frequency of days within one year is 365. This is because in one year the day cycle repeats 365 times.
+Frequency is a defining characteristic of a wave or a cycle. It describes how often a particular event happens within a specific amount of time. For example, the frequency of the day within one year is 365. This is because in one year the day cycle repeats 365 times.
 
 Period is another measure of a wave or a cycle. It describes the duration between events in some unit of time. For example, the period of a day expressed in hours is 24. This is because a new day cycle begins after 24 hours has passed.
 
-We can think of an event in terms of waves as a fixed point on the wave. For example, we could choose the maximal or minimal point within a cycle. In the case of a day we might choose the 0:00 hour (i.e. 12 am). Every 24 hours we return to the 0:00 hour (i.e. 12 am). The time 0:00 (i.e. 12 am) repeats 365 times each year. It is useful to define the event correlating to the maximal point within a cycle as the cycles peak.
+We can think of an event in terms of waves as a fixed point on the wave. For example, we could choose the maximal or minimal point within a cycle. In the case of a day we might choose the 0:00 hour (i.e. 12 am). Every 24 hours we return to the 0:00 hour (i.e. 12 am). The time 0:00 (i.e. 12 am) repeats 365 times each year. It is useful to define the event correlating to the maximal point within a cycle as the peak.
 
 Synchronized cycles have peaks with the same period. The distance between the peaks of synchronized cycles remains at some constant value. Aligned cycles are synchronized cycles where the peaks of the cycles happen simultaneously. The distance between the peaks of aligned cycles is constantly zero.
 

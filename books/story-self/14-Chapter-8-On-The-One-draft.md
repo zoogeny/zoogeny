@@ -24,11 +24,11 @@ These terms come from Plotinus and his systemic interpretation of Plato's philos
 
 A general mystical belief is that the world emanates from a singular unity. Each mystical system has a different number of levels of emanation. A common theme is that nature and humans are low on the chain of emanation.
 
-Some mystical traditions teach that there is a process by which conscious beings in the lower emanation can travel back up through to the higher levels of emanation. This process of transcendence continues back to the Nous and eventually to the One itself. Most spiritual tradition that believe in such a transcendent journey have a dogma on which rituals, behaviors, and beliefs are required to achieve this experience.
+Some mystical traditions teach that there is a process by which conscious beings in the lower emanation can travel back up through to the higher levels of emanation. This process of transcendence continues back to the Nous and eventually to the One itself. Most spiritual traditions that believe in such a transcendent journey have a dogma on which rituals, behaviors, and beliefs are required to achieve this experience.
 
 Those who claim to have had transcendent experiences usually report a feeling during the experience of becoming whole and united with all existence. They often claim to experience feelings of bliss.
 
-Taoism is one spiritual tradition where the description of the Tao matches many of the descriptions of the One. Buddhism and Zen use similar mystical ideas to describe the enlightenment of the Buddha and the path of the bodhisattva. Hindu spiritualists explore similar ideas in the Upanishads. They share the idea of a singular spiritual source from which all emanates.
+Taoism is one spiritual tradition where the description of the Tao matches many of the descriptions of the One. Buddhism and Zen use similar mystical ideas to describe the enlightenment of the Buddha and the path of the bodhisattva. Hindu spiritualists explore similar ideas in the Upanishads and explicitly in Advaita Vedanta. They share the idea of a singular spiritual source from which all emanates.
 
 Abrahamic religions often permit mystical ideas. Islam has Sufism and mystics like Ibn 'Arabi. Judaism has Kabbalah and Hasidism. Christianity has roots in Gnosticism and mystics like Meister Eckhart.
 
@@ -40,11 +40,11 @@ The Nous is self-aware, conscious, and contains all possible thoughts. One such 
 
 By seeing the One as something that can be known or experienced, the Nous becomes a subject and the One appears as an object. Yet the Nous exists within the One, emanates from the One.
 
-The Nous contemplates how it could know something that cannot be expressed within the set of all possible thoughts. The Nous could attempt to list all possible definable things. But that list is inexhaustible. The Nous could attempt to list all of the things that are not the One. But that list is inexhaustible.
+The Nous contemplates how it could know something that cannot be expressed within the set of all possible thoughts. The Nous could attempt to list all possible definable things but that list is inexhaustible. The Nous could attempt to list all of the things that are not the One but that list is inexhaustible.
 
 The Nous is aware of a mystery in these dilemmas. The Nous emanates from the One but the One seems to be unknowable. The Nous appears to be denied the ability to truly know itself as it cannot know the source from which it emanated.
 
-The Nous then contemplates the Psyche, the boundary between itself and the One. The Nous desires to dissolve the boundary between itself and the One. All universes, including our own, are created through the Nous's exhaustive search of the Psyche in search of a means to dissolve the Psyche. This is a process of separation. The Nous as individual from the One.
+The Nous then contemplates the Psyche, the boundary between itself and the One. The Nous desires to dissolve the boundary between itself and the One. All universes, including our own, are created through the Nous's exhaustive search of the Psyche to find a means to dissolve the Psyche. This is a process of separation. The Nous as individual from the One.
 
 ### The Returning
 
@@ -54,7 +54,7 @@ The Nous finds conscious beings within itself. These conscious beings exist with
 
 I believe that we are are conscious beings within a universe that has been found by the Nous. We are a reflection of the Nous's separation from the One and our spiritual journey is a reflection of the Nous's own spiritual journey.
 
-I do not believe that the journey of complete reunification with the One has been completed in our time. I believe that journey shall be completed at some future point within this universe. We are one step in a long chain of time that culminates in the process by which the Nous achieves reunification with the One.
+I do not believe that the journey of complete reunification with the One has been achieved in our time. I believe that journey shall be completed at some future point within this universe. We are one step in a long chain of time that culminates in the process by which the Nous achieves reunification with the One.
 
 ### Simultaneity
 

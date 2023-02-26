@@ -64,11 +64,26 @@
 
 ---
 
-- Frequencies and coincidences needs more work.
-    - specifically the property of of coincident waves. This is a critical point
-      in understanding alignment.
-    - diagrams would be helpful here
-
 - Diagrams would be useful for the "Pattern of a wave" section
+    - How spring, summer, fall and winter match the sections of the wave. Also with labels for morning, afternoon, evening, night. And labels for pray, work, eat, clean
+
+- Diagrams for frequencies and coincidences
+    - Frequency vs. period
+    - Synchronization
+    - Alignment
+    - Non-synchronized waves and how their peaks move closer together
+    - Non-synchronized waves that have peaks that coincide
+
+- Diagrams for relation to rituals
+    - periods for misalignment & recognition of misalignment
+    - period between noticing and beginning to realign
+    - period between begin to realign and complete realign
+    - frequency of misalignment
 
 - My definitions of synchronized and aligned should be the same as suitable existing mathematical as on as those terms aren't too obscure. My quick searching was unable to find any existing clear definitions of what I am trying to communicate.
+
+- Some more information on how these sections of wave are related might be interesting.
+    - How spring is like morning is like praying is like childhood
+    - How summer is like afternoon is like working is like adolescence
+    - How fall is like evening is like eating is like adulthood
+    - How winter is like night is like cleaning is like elderly
