@@ -6,7 +6,7 @@ I have no personal connection to the people mentioned here. They have not endors
 
 Dr. Andrew Huberman provided the original idea to rise at dawn and get sun as soon as possible. He claimed that if one gets 5 to 10 minutes of sunlight onto their retinas within one hour of waking then one will gain a significant benefit to their health. Dr. Huberman claims this procedure is backed by scientific evidence. It seems to me to be both reasonable and safe to attempt. For me, the positive effects came within days of adopting the practice and that experience led me to write this book. Dr. Huberman's podcast is available at https://www.youtube.com/@hubermanlab and his website can be found at https://hubermanlab.com/
 
-Filip Holm from Let's Talk Religion at https://www.youtube.com/@LetsTalkReligion stands out for covering a wide range of spiritual topics with a specialty in Islamic mysticism. He also offers significant material on other mystical and spiritual traditions including Philosophy, Mysticism, Gnosticism, Christianity, Buddhism and Hindu Vedanta.
+Filip Holm from Let's Talk Religion at https://www.youtube.com/@LetsTalkReligion stands out for covering a wide range of spiritual topics with a specialty in Islamic mysticism. He also covers other religious and spiritual traditions including Philosophy, Mysticism, Gnosticism, Christianity, Buddhism and Hindu Vedanta.
 
 "The Library of Babel" by Jorge Luis Borges contains profound ideas that inspire my imagination. The Argentinian writer is a master of the short story and he weaves spiritual ideas into his prose with effortless beauty.
 

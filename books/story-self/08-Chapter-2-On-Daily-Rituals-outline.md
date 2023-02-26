@@ -59,3 +59,10 @@
 
 - Weekly review
 - Monthly financial budget
+
+---
+
+- I should clarify why I call these rituals and not routines
+    - routine is a fixed set of steps
+    - ritual is a ceremony that has a deeper purpose
+

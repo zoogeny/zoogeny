@@ -44,7 +44,7 @@ I make a silent prayer of thanks and intention. I am then ready to start my work
 
 ### Evening Ritual
 
-The evening ritual has a flexible start time. Some days it happens at 6pm while other days it happens at 7pm or 8pm. I try to avoid eating within 2-3 hours of sleeping. I always feed my dog at 6pm.
+The evening ritual has a flexible start time. Some days it happens at 6pm while other days it happens at 7pm or 8pm. I try to avoid eating within 2-3 hours of sleeping and I always feed my dog at 6pm.
 
 I wash my hands and then I prepare and eat dinner. This is usually a medium sized meal but it may be larger if I had a small lunch. It will contain a balanced combination of nutritious proteins, carbohydrates, fibers, and fats. 
 
@@ -54,13 +54,21 @@ I say a small prayer of thanks and intention. I am then ready for my late evenin
 
 ### Reasoning for Rituals
 
-Rituals are not critical to success so I try to keep them lighthearted. I focus on waking up at dawn and getting outside as soon as possible. The remaining rituals are a template for a perfect day but not something that I obsess over.
+I focus on waking up at dawn and getting outside to get sun into my eyes as soon as possible. The remaining daily rituals are a template for a perfect day but not something that I obsess over.
 
 Rituals provide my life with structure. They break the day into clear sections. They are similar to each other and keep my mind and body aligned to a consistent frequency. I use the rituals as milestones throughout the day. They give me multiple opportunities to adjust my day, alter my schedule or set a new intention.
 
 My rituals align with my meals. They incorporate a set of good hygiene habits including washing myself and keeping my house and work areas clean.
 
-I eat a meal, clean up, say a prayer, and then get to work. I repeat this three times a day. 
+Rituals are not simply routines. I treat them solemnly and ceremoniously and I keep in mind their purpose. I don't just run through them like I am following a habitual process. I take the time to consider each step of the ritual and its significance.
+
+### Steps of the ritual
+
+There are four basic steps to the rituals I keep during the day: eat, clean, pray, work.
+
+Eating is a reminder that diet is a significant factor in my energy levels during the day and my overall health. Cleaning promotes hygiene and decreases the likelihood of illness and infections. Praying reminds me to take time to feel gratitude and to plan my time with conscious effort. Working is the process of getting the tasks I have planned to completion.
+
+I prepare and eat a meal, clean up, say a prayer, and then get to work. I repeat this three times a day.
 
 ### Future Rituals
 

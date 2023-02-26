@@ -4,13 +4,13 @@ I decided to rise at dawn every day for three months. I wanted to see what effec
 
 ### Why Rise at Dawn
 
-I was feeling depressed. For nearly 4 months I slept in each day until noon or later. I would lie in bed watching YouTube videos or scrolling on social media until I felt too guilty to remain in bed. After I got up I would lie down on the couch to watch more YouTube videos until it was dark outside.
+I was feeling depressed and I was sleeping in each day until noon or later. I would lie in bed watching YouTube videos or scrolling on social media until I felt too guilty to remain in bed. After I got up I would lie down on the couch to watch more YouTube videos until it was dark outside.
 
-For some weeks I did not leave my house. I had quit both of my contracting jobs and I was living off of my savings. My plan was to start live streaming on Twitch. I was not working towards that goal even though I spent all day at home with nothing to do.
+For some weeks I did not leave my house. I had quit both of my contracting jobs and I was living off of my savings. My plan was to start live streaming on Twitch and to build a software business related to Internet media. I was not working towards that goal even though I spent all day at home with nothing to do.
 
 I felt like I had no purpose in life. I felt that I had no energy nor motivation to do anything. I was avoiding a massive list of projects that I had planned to work on.
 
-I had experiences of anxiety earlier in my life. I had panic attacks in times of high stress. A doctor had given me a clear bill of physical health. He told me that if there is no problem with my body then I must consider a problem with my mental health. He recommended that I see a psychiatrist.
+I had experiences of anxiety earlier in my life. I had a few panic attacks in times of high stress. A doctor had given me a clear bill of physical health. He told me that if there is no problem with my body then I must consider a problem with my mental health. He recommended that I see a psychiatrist.
 
 I decided to move from the big city to a rural area. I decreased my stress load by choosing my work more carefully. I volunteered in my community. I kept a healthy diet. I took up exercise. None of this brought me out of the depression I was experiencing.
 
@@ -22,7 +22,7 @@ I found within these videos on sleep and mental health the specific recommendati
 
 I made a resolution then to get up at dawn every day for three months. I also committed to getting outside soon after waking and getting sunshine into my eyes for ten minutes. 
 
- My mood improved substantially within just a few days after starting this new routine. I was optimistic and I even had sweet dreams. I was motivated to cook healthy food and I felt my digestion was better. The best way to describe it is to say that I felt better. I was happier. I was seeing the events of the day in a positive light.
+My mood improved substantially within just a few days after starting this new routine. I was optimistic and I even had sweet dreams. I was motivated to cook healthy food and I felt my digestion was better. The best way to describe it is to say that I felt better. I was happier. I was seeing the events of the day in a positive light.
 
 I started to get things done. I started to write. This book is a reminder to myself of where I want to be mentally and physically.
 
@@ -34,13 +34,13 @@ My diet was already good, consisting of a wide variety of whole foods, fiber, fr
 
 I had tried exercises like jogging and weight training. I did not experience improvements to my physical or mental health from these experiments with increased exercise. I believe I suffered from post exertion malaise. The days after heavy exercise I would lie around sore and tired. I was even more lethargic and unmotivated than usual.
 
-My sleep schedule was one of the only things I had never attempted to improve. I had always believed myself to be a night-owl. I ate a dinner at 9:30 pm. I went to bed at midnight or later. 
+My sleep schedule was one of the only things I had never attempted to improve. I had always believed myself to be a night-owl. I ate a dinner at 9:30 pm. I went to bed at midnight or later.
 
 There is scientific evidence that sunlight falling on the retinas triggers a host of biological events associated with circadian rhythms. There is scientific evidence that managing circadian rhythm is an essential part of maintaining physical and mental health.
 
 I also read a lot about mysticism and other spiritual philosophies. Being awake is a primary aspect of conscious experience. Every morning the sun rises. Every day my life begins anew. The daily cycle is a good frequency to check on my self. I measure my daily activities with respect to my waking time.
 
-I now believe that sleep is the primary aspect of good mental and physical health. When I improved my sleep schedule then my diet and my exercise improved. When I improved my sleep schedule my mental health and mood improved. It fits in with both scientific and spiritual knowledge.
+I now believe that sleep is the primary aspect of good mental and physical health. When I improved my sleep schedule then my diet and my exercise improved. When I improved my sleep schedule my mental health and mood improved. It fits in with scientific evidence, spiritual knowledge and my own experience.
 
 ### Why It Is the Only
 

@@ -2,7 +2,7 @@
 
 Prayer is an expression of thanks and gratitude. Prayer sets an intention towards an action that I have planned to take. Prayer helps to express a desire for a positive outcome to a situation or circumstance.
 
-Prayer is not related to any particular religious or spiritual tradition. Prayer is not directed towards a specific god, spiritual entity, or saint.
+Prayer is not related to any particular religious or spiritual tradition. Prayer is not a plea nor a request for needs to be fulfilled. Prayer is not worship nor is it directed towards a specific god, spiritual entity, or saint.
 
 As an example of thanks and gratitude, in prayers around meals I express thanks for the food I eat. I am thankful for the people and animals in my life. I may be thankful to have completed some productive activity or planned task. I may be thankful for beautiful weather. I find a way to be thankful every time I pray.
 
