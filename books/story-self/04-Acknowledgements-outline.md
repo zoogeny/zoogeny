@@ -9,10 +9,6 @@
     - https://www.youtube.com/@hubermanlab
     - https://hubermanlab.com/
 
-- Zevi Slavin from Seekers of Unity
-    - For educational content on spirituality including Kabbala and Judaism
-    - https://www.youtube.com/@seekersofunity
-
 - Filip Holm from Let's Talk Religion
     - For educational content on spirituality including Sufism and Islam
     - https://www.youtube.com/@LetsTalkReligion

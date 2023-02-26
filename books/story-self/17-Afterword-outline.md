@@ -31,7 +31,9 @@
 - Hinduism
     - Upanishads
     - The Bhagavad Gita
+    - Brahma Sutras
     - The four Vedas (the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda)
+    - Shankara: selected commentaries
 - Confucianism
     - Four books
         - Great Learning
