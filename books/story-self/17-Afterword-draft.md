@@ -64,11 +64,13 @@ The following is meant to provide me a with rough guide on areas for further stu
 
 - Upanishads: selected works
 - Bhagavad Gita: selected words
+- Brahma Sutras
 - Vedas:
     - The Rigveda
     - The Yajurveda 
     - The Samaveda
     - The Atharvaveda
+- Shankara: selected commentaries
 
 ### Confucianism
 
