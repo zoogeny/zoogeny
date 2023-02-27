@@ -1,19 +1,19 @@
-## Afterword
+# Afterword {epub:type=afterword}
 
 The following is meant to provide me a with rough guide on areas for further study. I plan to revise this book and to release new editions as I investigate these topics more deeply.
 
-### Neoplatonism
+## Neoplatonism
 
 - Plotinus: a broad selection of The Enneads.
 - Porphyry: selected works.
 - Proclus: selected works.
 
-### Greek Philosophers
+## Greek Philosophers
 
 - Plato: Phaedo, Phaedrus, Timaeus and Parmenides.
 - Aristotle: Nicomachean Ethics.
 
-### Jewish Theology and Mysticism
+## Jewish Theology and Mysticism
 
 - The five books of Moses, known as the Pentateuch in Christianity and the Torah in Judaism. 
 - Selected works of the prophets in the Nevi'im.
@@ -23,7 +23,7 @@ The following is meant to provide me a with rough guide on areas for further stu
 - The Zohar.
 - Sefer Yetzirah.
 
-### Christian Theology and Mysticism
+## Christian Theology and Mysticism
 
 - The four canonical gospels: Matthew, Mark, Luke, and John.
 - Selected works from the New Testament.
@@ -33,12 +33,12 @@ The following is meant to provide me a with rough guide on areas for further stu
 - C.S. Lewis: Mere Christianity.
 - Leo Tolstoy: The Kingdom of God Is Within You.
 
-### Taoism
+## Taoism
 
 - Laozi: Tao Te Ching.
 - Zhuang Zhou: Zhuangzi.
 
-### Zen Buddhism
+## Zen Buddhism
 
 - Lankavatara Sutra.
 - Diamond Sutra.
@@ -52,15 +52,15 @@ The following is meant to provide me a with rough guide on areas for further stu
 - Linji Yixuan: selected sayings.
 - Zenshū Shiburoku (The Four Texts of the Zen Sect).
 
-### Buddhism
+## Buddhism
 
 - Dhammapada: selected sayings of the Buddha.
 - Tripitaka: selected works.
 - Ajitasena Sutra.
-- Saddharma-pundarika-sutra (True Dharma White .Lotus Sutra) or (Threefold Lotus Sutra)
+- Saddharma-pundarika-sutra (True Dharma White Lotus Sutra) or (Threefold Lotus Sutra)
 - Nagarjuna: Mūlamadhyamakakārikā (Root Verses on Madhyamaka, or MMK).
 
-### Hinduism
+## Hinduism
 
 - Upanishads: selected works.
 - Bhagavad Gita: selected works.
@@ -72,7 +72,7 @@ The following is meant to provide me a with rough guide on areas for further stu
     - The Atharvaveda.
 - Shankara: selected commentaries.
 
-### Confucianism
+## Confucianism
 
 - Four books
     - Great Learning.
@@ -86,7 +86,7 @@ The following is meant to provide me a with rough guide on areas for further stu
     - I Ching.
     - Spring and Autumn Annals.
 
-### Western Philosophy
+## Western Philosophy
 
 - Martin Heidegger: Being and Time.
 - Ludwig Wittgenstein: Philosophical Investigations.
@@ -97,13 +97,13 @@ The following is meant to provide me a with rough guide on areas for further stu
 - Bertrand Russell: Mysticism and Logic and Other Essays.
 - Albert Camus: Nuptials.
 
-### Continental Philosophy
+## Continental Philosophy
 
 - Michel Foucault: Discipline and Punish.
 - Gilles Deleuze: Anti-Oedipus.
 - Jacques Derrida: Of Grammatology.
 
-### Miscellaneous
+## Miscellaneous
 
 - Hermeticism: The Hermetica.
 - Theosophy: selected works.

@@ -1,4 +1,4 @@
-## On the One
+# Chapter 8 - On the One
 
 The One is indescribable, ineffable, and inexpressible. The following are some of the poetic ways I have heard others attempt to convey some sense of the One.
 
@@ -6,7 +6,7 @@ The One is singular essence. The One is pure being. The One is the source from w
 
 The One is the only thing that exists. Everything merely appears to exist in the One. Everything appears to exist because of the One. Everything is some manifestation of some part of the One.
 
-### On the Emanations of the One
+## On the Emanations of the One
 
 The One is like an inexhaustible fountain which overflows.
 
@@ -18,7 +18,7 @@ The Nous is self-aware. The Nous is the highest and purest consciousness. The No
 
 The Psyche is the boundary between the One and the Nous. It is neither the One nor the Nous. It is the difference between the One and the Nous The Psyche is the second emanation from the One.
 
-### Related Spiritual Traditions
+## Related Spiritual Traditions
 
 These terms come from Plotinus and his systemic interpretation of Plato's philosophy that we now call Neoplatonism. I have altered their meaning somewhat to match my own interpretation.
 
@@ -34,7 +34,7 @@ Abrahamic religions often permit mystical ideas. Islam has Sufism and mystics li
 
 Philosophy has writers like Spinoza with his pantheistic view of a God of nature.
 
-### The Separation
+## The Separation
 
 The Nous is self-aware, conscious, and contains all possible thoughts. One such thought is the question: "What is outside of the set of all possible thoughts?" or "What is outside the Nous?" 
 
@@ -46,7 +46,7 @@ The Nous is aware of a mystery in these dilemmas. The Nous emanates from the One
 
 The Nous then contemplates the Psyche, the boundary between itself and the One. The Nous desires to dissolve the boundary between itself and the One. All universes, including our own, are created through the Nous's exhaustive search of the Psyche to find a means to dissolve the Psyche. This is a process of separation. The Nous as individual from the One.
 
-### The Returning
+## The Returning
 
 The Nous contemplates that everything that could exist will exist within itself. Therefore, if a process for unification between itself and the One could exist then such a process will exist within itself. If a process to dissolve the Psyche exists then such a process will exist within the Psyche. The Nous is searching and discovering aspects within itself in a manner that might be called curation or creation. 
 
@@ -56,7 +56,7 @@ I believe that we are are conscious beings within a universe that has been found
 
 I do not believe that the journey of complete reunification with the One has been achieved in our time. I believe that journey shall be completed at some future point within this universe. We are one step in a long chain of time that culminates in the process by which the Nous achieves reunification with the One.
 
-### Simultaneity
+## Simultaneity
 
 This process only appears to happen in time. We have the perspective of beings existing within this universe.
 
@@ -66,7 +66,7 @@ The separation of the Nous from the One and the reunification of the Nous to the
 
 The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, fall and summer. Like night, day, afternoon and evening. Instead of these happening sequentially they are all happening simultaneously and eternally.
 
-### Our Purpose
+## Our Purpose
 
 I believe that the conscious beings within this universe are a critical component to the process of reunifying the Nous to the One. I believe that our existence is a necessary part of this cycle.
 

@@ -1,4 +1,4 @@
-## The Pharaoh's Procession to His Temple
+# Appendix 1 - The Pharaoh's Procession to His Temple
 
 The Pharaoh is sitting tall upon his throne. The Pharaoh is God in the form of man. He rules over a large kingdom on Earth with millions of subjects.
 

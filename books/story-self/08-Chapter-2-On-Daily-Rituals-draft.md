@@ -1,4 +1,4 @@
-## On Daily Rituals
+# Chapter 2 - On Daily Rituals
 
 Rituals are reminders that act as milestones for the day, week, month, or year. They help me to notice when I am keeping to my own standards. 
 
@@ -8,7 +8,7 @@ I do a minimal set of ritual activities if I am unable to complete a full ritual
 
 I keep an open mind to changes in my schedule. I prioritize my commitments to my family, to my friends, to my work, and to my community. My rituals fit around my life, I do not fit my life around my rituals. If leading a good life conflicts with a ritual then I will choose to lead the good life rather than force myself to complete a ritual.
 
-### Morning Ritual
+## Morning Ritual
 
 The morning ritual at dawn is the most important ritual of the day. Waking up at dawn provides a foundation for the rest of the day. Rising at dawn and getting straight out of bed is a challenge.
 
@@ -28,7 +28,7 @@ I start most days taking a hike in nature with my dog. When I return from the hi
 
 I am then ready to start my work for the morning.
 
-### Afternoon Ritual
+## Afternoon Ritual
 
 The afternoon ritual has a flexible start time. It is not as essential as the morning ritual so I am less strict in attempting to complete it perfectly. I will start the ritual early or late depending on my schedule for the morning and afternoon.
 
@@ -42,7 +42,7 @@ I may then shower. I may change into clothing more appropriate for afternoon act
 
 I make a silent prayer of thanks and intention. I am then ready to start my work for the afternoon.
 
-### Evening Ritual
+## Evening Ritual
 
 The evening ritual has a flexible start time. Some days it happens at 6pm while other days it happens at 7pm or 8pm. I try to avoid eating within 2-3 hours of sleeping and I always feed my dog at 6pm.
 
@@ -52,7 +52,7 @@ I then wash dishes, tidy the kitchen, and then floss and brush my teeth.
 
 I say a small prayer of thanks and intention. I am then ready for my late evening leisure which will be some combination of exercise, yoga, watching YouTube videos, reading, or training and playing with my dog.
 
-### Reasoning for Rituals
+## Reasoning for Rituals
 
 I focus on waking up at dawn and getting outside to get sun into my eyes as soon as possible. The remaining daily rituals are a template for a perfect day but not something that I obsess over.
 
@@ -62,7 +62,7 @@ My rituals align with my meals. They incorporate a set of good hygiene habits in
 
 Rituals are not simply routines. I treat them solemnly and ceremoniously and I keep in mind their purpose. I don't just run through them like I am following a habitual process. I take the time to consider each step of the ritual and its significance.
 
-### Steps of the ritual
+## Steps of the ritual
 
 There are four basic steps to the rituals I keep during the day: eat, clean, pray, work.
 
@@ -70,7 +70,7 @@ Eating is a reminder that diet is a significant factor in my energy levels durin
 
 I prepare and eat a meal, clean up, say a prayer, and then get to work. I repeat this three times a day.
 
-### Future Rituals
+## Future Rituals
 
 I will add new rituals at new frequencies as I learn more. These are my daily rituals but I could also have weekly and monthly rituals. For example, I have a monthly habit to review my finances. This could be transformed into a ritual.
 
