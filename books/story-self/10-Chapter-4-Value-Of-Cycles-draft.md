@@ -1,4 +1,4 @@
-## Value of Cycles
+# Chapter 4 - Value of Cycles
 
 My philosophy must have have roots in my own experience and I experience cyclic patterns in nature. I experience the cycle of seasons with their equinoxes and solstices. I experience the cycle of the lunar fortnight as the moon waxes and wanes. I experience the cycles of the tides that result from the forces of the moon.
 
@@ -10,7 +10,7 @@ Cycles manifest within my own body in the circadian rhythm and the melatonin cyc
 
 Cycles appear in many spiritual traditions. In Hinduism and Buddhism there is Samsara, Kalachakra and the Wheel of Time. Roman Stoicism references the cyclic nature of existence. Greek Pythagoreanism described the universe as the music of celestial spheres. Eternal Return is a philosophical concept both ancient and modern. There is the ancient symbol of the Ouroboros which is thought to represent the cycle of life, death and rebirth. Modern new-thought spiritualists use words like "vibration" and "resonance" to describe aspects of their beliefs.
 
-### Pattern of a Wave
+## Pattern of a Wave
 
 The wave is made up of 4 sections. The first section begins at the lowest point of the wave and it gradually rising to a midpoint. The second section continues from the midpoint to the highest point. The third section continues from the highest point then falls to the midpoint. The fourth section continues from that midpoint then falls to the lowest point.
 
@@ -20,7 +20,7 @@ This same pattern across my day, my year, my life, and my rituals.
 
 The order of the sections is of no importance. Spring, summer, fall, and winter is no different to fall, winter, spring, summer. Eat, clean, pray, work is no different to pray, work, eat, clean. Since these cycles repeat indefinitely there is no beginning section and there is no final section.
 
-### Frequencies and Coincidences
+## Frequencies and Coincidences
 
 Frequency is a defining characteristic of a wave or a cycle. It describes how often a particular event happens within a specific amount of time. For example, the frequency of the day within one year is 365. This is because in one year the day cycle repeats 365 times.
 
@@ -34,7 +34,7 @@ Cycles that are neither aligned nor synchronized have peaks that move closer and
 
 Some cycles that are neither aligned nor synchronized will exhibit the property that on some occasions the distance between their peaks becomes zero. In this case, the peaks of the cycle are coincident. This occasional alignment of peaks will have its own frequency.
 
-### Relation to Rituals
+## Relation to Rituals
 
 Rising at dawn is a conscious effort to align myself with the day night cycle caused by the Earth's rotational frequency.
 
@@ -44,7 +44,7 @@ I consider that I am misaligned with additional cycles that would benefit my phy
 
 I would like to know the period between when I become misaligned and when I become aware of my misalignment. I would like to know the period between when I become aware of my misalignment and when I start to realign. I would like to know the period between when I start to realign and when I am completely realigned. I would like to know the frequency with which I become misaligned.
 
-### Speculations
+## Speculations
 
 These speculations serve as objects for contemplation and fountains for creativity.
 I hold these ideas lightly with the goal that they serve as guides and not as rules. 

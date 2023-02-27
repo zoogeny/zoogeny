@@ -1,4 +1,4 @@
-## The Pharaoh's Ascent at His Temple
+# Appendix 2 - The Pharaoh's Ascent at His Temple
 
 The Pharaoh arrives at the base of his temple carried upon a litter. The four men carrying the litter lower it to the ground.
 

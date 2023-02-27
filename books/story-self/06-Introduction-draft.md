@@ -1,4 +1,4 @@
-## Introduction
+# Introduction {epub:type=preface}
 
 This book is a story for my self. It does not represent Truth in an ultimate sense. I am uncertain if I believe it all myself.
 

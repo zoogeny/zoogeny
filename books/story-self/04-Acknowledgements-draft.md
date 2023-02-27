@@ -1,4 +1,4 @@
-## Acknowledgements
+# Acknowledgements {epub:type=acknowledgments}
 
 These acknowledgements are not endorsements. I want to credit a few of the people who were at the top of my mind while I wrote this book. I do not always accurately remember or interpret the ideas of the people mentioned. All of the ideas expressed in this book are my own, including my interpretation of the material listed here.
 

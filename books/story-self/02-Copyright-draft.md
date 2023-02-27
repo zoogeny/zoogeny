@@ -1,3 +1,5 @@
+# Copyright {epub:type=copyright-page}
+
 Copyright © 2023 by James Fassett
 
 All rights reserved. No part of this book may be reproduced or distributed in any printed or electronic form without permission.

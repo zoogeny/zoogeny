@@ -1,4 +1,4 @@
-## Dedication
+# Dedication {epub:type=dedication}
 
 To my mother Judith
 
