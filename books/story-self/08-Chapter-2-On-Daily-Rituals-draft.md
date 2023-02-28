@@ -64,9 +64,9 @@ Rituals are not simply routines. I treat them solemnly and ceremoniously and I k
 
 ## Steps of the ritual
 
-There are four basic steps to the rituals I keep during the day: eat, clean, pray, work.
+There are four basic steps to the rituals I keep during the day: eat, clean, pray, and work.
 
-Eating is a reminder that diet is a significant factor in my energy levels during the day and my overall health. Cleaning promotes hygiene and decreases the likelihood of illness and infections. Praying reminds me to take time to feel gratitude and to plan my time with conscious effort. Working is the process of getting the tasks I have planned to completion.
+Eating is a reminder that diet is a significant factor in my overall health and my energy levels during the day. Cleaning promotes hygiene and declutters my environments. Praying reminds me to feel gratitude and to plan my time with conscious effort. Working is the process of completing the tasks that I have planned.
 
 I prepare and eat a meal, clean up, say a prayer, and then get to work. I repeat this three times a day.
 

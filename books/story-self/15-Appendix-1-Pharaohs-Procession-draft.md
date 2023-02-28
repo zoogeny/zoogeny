@@ -12,7 +12,7 @@ The Pharaoh steps down the second step of the dais and the councilors follow beh
 
 The Pharaoh steps down the third step of the dais and the priests follow behind him. He passes his generals and they bow low before him. They are dressed in their finest uniforms. His General of Armies bows because he respects the powerful military commanded by the Pharaoh.
 
-The Pharaoh steps down the fourth step of the dais to the ground and the generals follow behind him. The procession continues along a long hall towards a large open door. The hall is lined with the Pharaoh's personal guard and they bow low before him. His Captain of the Guard bows because he is thankful for the wise administration of justice the Pharaoh exercises over his lands.
+The Pharaoh steps down the fourth step of the dais to the ground and the generals follow behind him. The procession continues down a long hall towards a large open door. The hall is lined with the Pharaoh's personal guard and they bow low before him. His Captain of the Guard bows because he is thankful for the wise administration of justice the Pharaoh exercises over his lands.
 
 The Pharaoh steps through the door into the bright sunlight of a hot summer midday. In the courtyard of his palace before him sits a litter with four men kneeling beside and awaiting his arrival.
 
@@ -28,7 +28,7 @@ Each section of crowd alongside the road has been reserved for a particular clas
 
 The Pharaoh passes the first section of architects and masons who designed the massive stones used to build his temple. They bow low before him. The chief architect bows because he is awed by the majesty of the grand temple the Pharaoh commissioned.
 
-The Pharaoh passes the second section of artisans who crafted the statues and reliefs of his temple. They bow low before him. The chief artisan bows because he is moved by the beauty of the art for which the Pharaoh has been patron.
+The Pharaoh passes the second section of artisans who crafted the statues and reliefs of his temple. They bow low before him. The chief artisan bows because he is moved by the beauty of the art patronized by the Pharaoh.
 
 The Pharaoh passes the third section of scribes who recorded the history of the Pharaoh in hieroglyphs on the walls of his temple. They bow low before him. The chief scribe bows because he is honored with the greatest collections of scrolls and knowledge in the world.
 

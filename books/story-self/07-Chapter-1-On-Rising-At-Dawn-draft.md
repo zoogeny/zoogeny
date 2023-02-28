@@ -12,7 +12,7 @@ I felt like I had no purpose in life. I felt that I had no energy nor motivation
 
 I had experiences of anxiety earlier in my life. I had a few panic attacks in times of high stress. A doctor had given me a clear bill of physical health. He told me that if there is no problem with my body then I must consider a problem with my mental health. He recommended that I see a psychiatrist.
 
-I decided to move from the big city to a rural area. I decreased my stress load by choosing my work more carefully. I volunteered in my community. I kept a healthy diet. I took up exercise. None of this brought me out of the depression I was experiencing.
+I decided to move from the big city to a rural area. I decreased my stress load by choosing work more carefully. I volunteered in my community. I kept a healthy diet. I took up exercise. None of this brought me out of the depression I was experiencing.
 
 The depression was getting worse. I suspect that part of that was due to the restrictions on social activity during a pandemic. Another cause could be the change to working from home remotely.
 
@@ -40,7 +40,7 @@ There is scientific evidence that sunlight falling on the retinas triggers a hos
 
 I also read a lot about mysticism and other spiritual philosophies. Being awake is a primary aspect of conscious experience. Every morning the sun rises. Every day my life begins anew. The daily cycle is a good frequency to check on my self. I measure my daily activities with respect to my waking time.
 
-I now believe that sleep is the primary aspect of good mental and physical health. When I improved my sleep schedule then my diet and my exercise improved. When I improved my sleep schedule my mental health and mood improved. It fits in with scientific evidence, spiritual knowledge and my own experience.
+I now believe that sleep is the primary aspect of good mental and physical health. When I improved my sleep schedule then my diet, my exercise, my mental health and my mood improved. It fits in with scientific evidence, spiritual knowledge and my own experience.
 
 ## Why It Is the Only
 

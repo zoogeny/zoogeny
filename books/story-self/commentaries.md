@@ -78,6 +78,9 @@
         - period between awareness of misalignment and starting to realign
         - period starting realignment and completing realignment
         - frequency of misalignment
+    - What is the earth's rotational frequency with respect to the sun?
+        - frequency is related to some other, larger containing cycle
+        - what larger containing cycle do we consider for the orbit of the earth around the sun?
 
 
 - Value of love
@@ -98,6 +101,8 @@
         - life that benefits me vs. life that preys on me?
         - life in the galaxy / universe
         - life in all possible universes
+    - Relationship of mind and body as compared to a musical chord
+        - plus spirit for a triad
 
 - Value of prayer
     - Thoughts and prayers around tragic events

@@ -26,7 +26,7 @@ Love is the submission of a conscious being to the needs of another individual.
 
 We may choose to submit to another for protection. For example, one may choose to submit to the ruling of a judge because of one's belief that the judge will offer protection for one's rights. The judge offers protection to the plaintiff in exchange for the plaintiff's willingness to submit to the judge's ruling.
 
-I have chosen to submit myself to rising at dawn. My submission is an affirmation of my belief in the virtue of aligning myself with natural cycles. I follow natures lead instead of asserting my own dominance.
+I have chosen to submit myself to rising at dawn. My submission is an affirmation of my belief in the virtue of aligning myself with natural cycles.
 
 A view of God that I contemplate is a God that is willing to submit to humans. I think of the story of Jesus where God chose to suffer and to die for humans. I think of Abraham pleading with God to spare Sodom if God can find just ten righteous men.
 
