@@ -36,8 +36,8 @@ Prayer prompts me to prepare myself for similar tragedy. I can ensure that I hav
 
 I trust that I will receive rewards appropriate to my actions. 
 
-I seek to recognize the rewards I receive for my actions most especially when they do not match my expectations. My limited viewpoint is often unable to appreciate a good unexpected reward. The rewards I do not expect are capable of exceeding my desires.
+I seek to recognize the rewards that I receive for my actions most especially when they do not match my expectations. My limited viewpoint is often unable to appreciate a good unexpected reward until I have the good fortune of receiving it. The rewards that I do not expect often exceed my desires.
 
-I avoid prayers for specific rewards. I do not pray for particular possessions or material wealth. I aim to avoid feelings of disappointment when I fail to receive an expected reward.
+I avoid prayers for particular rewards. I do not pray for specific possessions or material wealth. I aim to avoid feelings of disappointment when I fail to receive an expected reward.
 
 I wish to be truly thankful for all rewards but I am especially thankful for those reward that I do not expect.

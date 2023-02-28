@@ -52,7 +52,7 @@ The Nous contemplates that everything that could exist will exist within itself.
 
 The Nous finds conscious beings within itself. These conscious beings exist within the universes the Nous creates as it contemplates the Psyche. The conscious beings are examining their own existence. The conscious beings are examining their own consciousness. The conscious beings are seeking to unify themselves with their own idea of the One. The Nous recognizes the journey of the conscious beings. This spiritual journey of the conscious beings is analogous to the journey of the Nous to reunify itself with the One.
 
-I believe that we are are conscious beings within a universe that has been found by the Nous. We are a reflection of the Nous's separation from the One and our spiritual journey is a reflection of the Nous's own spiritual journey.
+I believe that we are conscious beings within a universe that has been found by the Nous. We are a reflection of the Nous's separation from the One and our spiritual journey is a reflection of the Nous's own spiritual journey.
 
 I do not believe that the journey of complete reunification with the One has been achieved in our time. I believe that journey shall be completed at some future point within this universe. We are one step in a long chain of time that culminates in the process by which the Nous achieves reunification with the One.
 

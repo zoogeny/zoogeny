@@ -28,7 +28,9 @@ Period is another measure of a wave or a cycle. It describes the duration betwee
 
 An event, in terms of a cycle or wave, is a fixed point on the cycle or wave. For example, we could choose the maximal or minimal point. The peak of a cycle or wave is its maximal point.
 
-Synchronized cycles have peaks with the same period. The distance between the peaks of synchronized cycles remains at some constant value. Aligned cycles are synchronized cycles where the peaks of the cycles happen simultaneously. The distance between the peaks of aligned cycles is constantly zero.
+Synchronized cycles have peaks with the same period. The distance between the peaks of synchronized cycles remains at some constant value.
+
+Aligned cycles are synchronized cycles where the peaks of the cycles happen simultaneously. The distance between the peaks of aligned cycles is constantly zero.
 
 Cycles that are neither aligned nor synchronized have peaks that move closer and further away from each other over time. The distance between such peaks can be described by a wave.
 
@@ -36,9 +38,9 @@ Some cycles that are neither aligned nor synchronized will exhibit the property 
 
 ## Relation to Rituals
 
-Rising at dawn is a conscious effort to align myself with the day night cycle caused by the Earth's rotational frequency.
+Rising at dawn is a conscious effort to align myself with the day night cycle caused by the Earth's rotational period.
 
-I contemplate the yearly seasonal cycles caused by the Earth's rotation around the sun. I will explore how I can align myself to this longer cycle.
+I contemplate the yearly seasonal cycles caused by the Earth's orbital period around the sun. I will explore how I can align myself to this longer cycle.
 
 I consider that I am misaligned with additional cycles that would benefit my physical, mental and spiritual health. I wish to become aware of such cycles and I wish to notice when I am misaligned with those cycles.
 
@@ -49,7 +51,7 @@ I would like to know the period between when I become misaligned and when I beco
 These speculations serve as objects for contemplation and fountains for creativity.
 I hold these ideas lightly with the goal that they serve as guides and not as rules. 
 
-I wonder if astrology came from ancient peoples recognizing cycles of human behavior. Perhaps they saw the cyclic movement of the planets and accidentally related those cycles to analogous cycles in civilizations. For example, the cyclic movement of Mars in the sky accidentally related to the cyclic habit of war-like behavior in civilizations.
+I wonder if astrology came from ancient peoples recognizing cycles of human behavior. Perhaps they saw the cyclic movement of the planets in the skies and accidentally related those cycles to analogous cycles in civilizations. For example, the cyclic movement of Mars in the sky accidentally related to the cyclic habit of war-like behavior in civilizations. I wonder if they noticed the coincidence of frequencies. For example, the frequency of coincidence of Mars and Venus in the sky and the frequency of coincidence of love and war in civilization.
 
 Social cycle theory seems to have a long history of speculation from great thinkers including Plato, Aristotle and Cicero. It continues to be revived by modern thinkers while never really finding acceptance in the scientific academy.
 
