@@ -64,7 +64,7 @@ The Nous experiences the entirety of our existence as a singular object. Our pas
 
 The separation of the Nous from the One and the reunification of the Nous to the One happen outside of time. It is not correct to say that at the beginning of time within this universe the Nous was separate from the One. It is not correct to say that when this universe ends then the Nous will be reunited with the One. The Nous and the One exist outside of time so all phases are happening simultaneously for them.
 
-The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, fall and summer. Like night, day, afternoon and evening. Instead of these happening sequentially they are all happening simultaneously and eternally.
+The separation, the realization, the returning and the uniting. These are like the cycles of winter, spring, autumn and summer. Like night, day, afternoon and evening. Instead of these happening sequentially they are all happening simultaneously and eternally.
 
 ## Our Purpose
 

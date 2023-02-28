@@ -1,8 +1,8 @@
 # Chapter 6 - Value of Love
 
-The act of love begins when two or more conscious beings work together to attain a goal. For this to be an act of love the goal must not benefit at least one of the beings. The being who acts with love is the being who chooses to work with another towards the attainment of a goal but gains no self benefit from the attainment of the goal.
+The act of love begins when two or more conscious beings work together to attain a goal. For this to be an act of love the goal must not benefit at least one of the beings. The being who acts with love is the being who chooses to work with another towards the attainment of a goal but gains no self benefit from the attainment of that goal.
 
-Some sacrifice for the being is necessary for this to be an act of love. For example, the being sacrifices their time because they lose an opportunity to use that time to work towards their own self benefit.
+Some sacrifice is necessary for this to be an act of love. For example, the being sacrifices their time because they lose an opportunity to use that time to work towards their own self benefit.
 
 Love can be expressed in the absence of emotion. Love is the cause and the emotions are a possible symptom. Emotions can help to promote a bond between beings. Emotion can prompt a being to act selflessly towards a goal in an act of love. However, the presence of emotion does not necessarily imply the presence of love.
 
