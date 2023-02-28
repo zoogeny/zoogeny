@@ -38,4 +38,4 @@ The Pharaoh passes the fifth section of laborers whose blood and sweat has built
 
 The Pharaoh passes the sixth section of poor and the most disadvantaged of his subjects. They bow low before him. These people share the privilege of standing at the foot of his temple and they will have the best view of his blessing. A poor old woman falls to her knees and bows low before the Pharaoh. She bows because she knows that the Pharaoh is truly God.
 
-The key to unlock this story's meaning is that the Pharaoh does not wonder about the reason each person has for bowing. He is content that they are bowing but he does not question nor consider why they do so. 
+The Pharaoh does not think about the reasons for why his subjects bow to him. He is content that they are bowing. He does not question nor consider why they bow because their reasons for bowing do not matter to him.
