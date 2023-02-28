@@ -22,7 +22,7 @@ I will consider if I have time for some "extra" to go above and beyond my origin
 
 I will check my future schedule to see if I can bring intentions from the future into the present. I avoid waiting when I have the opportunity to start some future task in the present.
 
-If I am still unsure of what to work on next then I will start a new ritual. I will eat a small snack, do a bit of cleaning, say a new prayer to set a new intention, and then get to work on the new intention. Prayer acts as part of a reset that I use in times of doubt.
+If I am still unsure of what to work on next then I will start a new ritual. I will eat a small snack, do a bit of cleaning, and say a new prayer to set a new intention. I will then get to work on that new intention. Prayer acts as part of a reset that I use in times of doubt.
 
 ## When Feeling Unable to Do Anything
 
@@ -38,6 +38,6 @@ I trust that I will receive rewards appropriate to my actions.
 
 I seek to recognize the rewards I receive for my actions most especially when they do not match my expectations. My limited viewpoint is often unable to appreciate a good unexpected reward. The rewards I do not expect are capable of exceeding my desires.
 
-I avoid prayers for particular rewards. I do not pray for particular possessions or material wealth. I aim to avoid feelings of disappointment when I fail to receive an expected reward.
+I avoid prayers for specific rewards. I do not pray for particular possessions or material wealth. I aim to avoid feelings of disappointment when I fail to receive an expected reward.
 
 I wish to be truly thankful for all rewards but I am especially thankful for those reward that I do not expect.

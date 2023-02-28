@@ -65,7 +65,7 @@
 ---
 
 - Diagrams would be useful for the "Pattern of a wave" section
-    - How spring, summer, fall and winter match the sections of the wave. Also with labels for morning, afternoon, evening, night. And labels for pray, work, eat, clean
+    - How spring, summer, autumn and winter match the sections of the wave. Also with labels for morning, afternoon, evening, night. And labels for pray, work, eat, clean
 
 - Diagrams for frequencies and coincidences
     - Frequency vs. period
@@ -85,5 +85,5 @@
 - Some more information on how these sections of wave are related might be interesting.
     - How spring is like morning is like praying is like childhood
     - How summer is like afternoon is like working is like adolescence
-    - How fall is like evening is like eating is like adulthood
+    - How autumn is like evening is like eating is like adulthood
     - How winter is like night is like cleaning is like elderly

@@ -12,21 +12,21 @@ Cycles appear in many spiritual traditions. In Hinduism and Buddhism there is Sa
 
 ## Pattern of a Wave
 
-The wave is made up of 4 sections. The first section begins at the lowest point of the wave and it gradually rising to a midpoint. The second section continues from the midpoint to the highest point. The third section continues from the highest point then falls to the midpoint. The fourth section continues from that midpoint then falls to the lowest point.
+The wave is made up of 4 sections. The first section begins at the lowest point of the wave and it gradually rises to a midpoint. The second section continues to rise from the midpoint until it reaches to the highest point. The third section continues from the highest point and falls to the midpoint. The fourth section continues to fall from that midpoint until it reaches to the lowest point.
 
-These sections roughly matches my conception of morning, afternoon, evening, night. Of spring, summer, fall, and winter. Of child, adolescent, adult, and elderly. Of pray, work, eat, clean.
+These sections roughly matches my conception of morning, afternoon, evening, night. Of spring, summer, autumn, and winter. Of child, adolescent, adult, and elderly. Of pray, work, eat, and clean.
 
 This same pattern across my day, my year, my life, and my rituals.
 
-The order of the sections is of no importance. Spring, summer, fall, and winter is no different to fall, winter, spring, summer. Eat, clean, pray, work is no different to pray, work, eat, clean. Since these cycles repeat indefinitely there is no beginning section and there is no final section.
+The order of the sections is of no importance. Spring, summer, autumn, and winter is not different from autumn, winter, spring, and summer. Eat, clean, pray, and work is not different from pray, work, eat, and clean. Since these cycles repeat indefinitely there is no beginning section and there is no final section.
 
 ## Frequencies and Coincidences
 
 Frequency is a defining characteristic of a wave or a cycle. It describes how often a particular event happens within a specific amount of time. For example, the frequency of the day within one year is 365. This is because in one year the day cycle repeats 365 times.
 
-Period is another measure of a wave or a cycle. It describes the duration between events in some unit of time. For example, the period of a day expressed in hours is 24. This is because a new day cycle begins after 24 hours has passed.
+Period is another measure of a wave or a cycle. It describes the duration between events in some unit of time. For example, the period of a day expressed in hours is 24. This is because a new day cycle begins after 24 hours have passed.
 
-We can think of an event in terms of waves as a fixed point on the wave. For example, we could choose the maximal or minimal point within a cycle. In the case of a day we might choose the 0:00 hour (i.e. 12 am). Every 24 hours we return to the 0:00 hour (i.e. 12 am). The time 0:00 (i.e. 12 am) repeats 365 times each year. It is useful to define the event correlating to the maximal point within a cycle as the peak.
+An event, in terms of a cycle or wave, is a fixed point on the cycle or wave. For example, we could choose the maximal or minimal point. The peak of a cycle or wave is its maximal point.
 
 Synchronized cycles have peaks with the same period. The distance between the peaks of synchronized cycles remains at some constant value. Aligned cycles are synchronized cycles where the peaks of the cycles happen simultaneously. The distance between the peaks of aligned cycles is constantly zero.
 

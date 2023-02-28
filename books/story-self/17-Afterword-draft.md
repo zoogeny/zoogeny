@@ -112,4 +112,4 @@ The following is meant to provide me a with rough guide on areas for further stu
 - New Thought: selected works.
 - Jainism: selected works.
 
-This is more content than I can reasonably get through in a lifetime but I believe it sketches out a general direction for further study on these topics. I know I am missing entire universes of thought and I hope to become aware of them so I can attempt to incorporate them into my own thinking.
+This is more content than I can reasonably get through in a lifetime but I believe it sketches out a general direction for further study on these topics. I know I am missing entire universes of thought and I hope to become aware of them so that I can attempt to incorporate them into my own thinking.

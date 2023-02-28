@@ -8,9 +8,9 @@ The Pharaoh slowly, rhythmically, and methodically ascends the stairs as he insp
 
 The Pharaoh contemplates that the temple is exactly as he envisioned it. He is neither pleased nor displeased. He is neither satisfied nor dissatisfied. He has become accustomed to his high standards being met.
 
-The Pharaoh completes the ascent to the platform and stands before the alter where his blessing will take place. He prepares for the ceremony that his priests have planned in preparation for this moment.
+The Pharaoh completes the ascent to the platform and stands before the alter where his blessing will take place. He prepares for the ceremony that his priests have for the blessing.
 
-The Pharaoh turns to face the crowd from this great height. He can see the complete extent of the white road, from the base of the temple to the courtyard of his palace. He sees in one view the whole crowd before him, millions of his subjects all bowing low towards him.
+The Pharaoh turns to face the crowd. His vantage on the platform allows him to see the complete extent of the white road from the base of the temple to the courtyard of his palace. He sees in one view the whole crowd before him, millions of his subjects all bowing low towards him.
 
 The Pharaoh falls to his knees and bows low to the crowd below. His councilors, priests, generals, and all his subjects are astonished. This act was not planned as part of the ceremony.
 
