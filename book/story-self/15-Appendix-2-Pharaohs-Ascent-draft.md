@@ -14,4 +14,4 @@ The Pharaoh turns to face the crowd. His vantage on the platform allows him to s
 
 The Pharaoh falls to his knees and bows low to the crowd below. His councilors, priests, generals, and all his subjects are astonished. This act was not planned as part of the ceremony.
 
-In the same way that the Pharaoh does not wonder why his subjects bow to him, so it is that we do not know why the Pharaoh chose to bow to his subjects that day.
+We do not know why the Pharaoh chose to bow to his subjects that day.
