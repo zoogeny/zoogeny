@@ -16,7 +16,7 @@ The Nous contains all possible descriptions, all possible logical and mathematic
 
 The Nous is self-aware. The Nous is the highest and purest consciousness. The Nous compares itself to the One. The Nous is all descriptions, the One is indescribable. 
 
-The Psyche is the boundary between the One and the Nous. It is neither the One nor the Nous. It is the difference between the One and the Nous The Psyche is the second emanation from the One.
+The Psyche is the boundary between the One and the Nous. It is neither the One nor the Nous. It is the difference between the One and the Nous. The Psyche is the second emanation from the One.
 
 ## Related Spiritual Traditions
 
