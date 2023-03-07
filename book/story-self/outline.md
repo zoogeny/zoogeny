@@ -78,18 +78,6 @@ TODO:
 
 - Remember to defend. It is through defending others that you establish authority and invite others to submit to virtue.
 
-- Maybe find somewhere to describe the absurdity of our relationship with the Nous. Perhaps in the On the One chapter I could explicitly deny revelation and inspiration and comment on the fact that our being aligned with the Nous is a coincidence (one that it specifically sought out) and not a coordination. However, since revelation is not a tenable thing then this relationship is an absurdity.
-
-- Worth mentioning that nothing other than my mood changed. It was not like I won the lottery or suddenly became super popular with women. I still have bills to pay and all of the problems I had before the mood change.
-
-- Bad chapters needing rewrites:
-    - Value of Cycles
-        - depends how far I get on the frequency coincidence part but it needs much clarification
-    - Value of Love
-        - The definition is alright but I need to do real work to compare it to other conceptions of love from other spiritualists and philosophers
-    - Value of Submission
-        - Not clearly expressing an argument here.
-
 ---
 
 Consider the order:
@@ -97,22 +85,22 @@ Consider the order:
 01. Title page
 02. Copyright
 03. Dedication
-04. Acknowledgements
-05. Table of contents
-06. Introduction
+04. Table of contents
+05. Introduction
 
-07. Chapter 1 - On rising at dawn
-08. Chapter 2 - On daily rituals
-09. Chapter 3 - On descriptions
+06. Chapter 1 - On rising at dawn
+07. Chapter 2 - On daily rituals
+08. Chapter 3 - On descriptions
 
-10. Chapter 4 - Value of cycles
-11. Chapter 5 - Value of prayer
-12. Chapter 6 - Value of love
-13. Chapter 7 - Value of submission
+9. Chapter 4 - Value of cycles
+10. Chapter 5 - Value of prayer
+11. Chapter 6 - Value of love
+12. Chapter 7 - Value of submission
 
-14. Chapter 8 - On "The One"
+13. Chapter 8 - On "The One"
 
-15. Appendix 1 - Pharaohs Procession
-16. Appendix 2 - Pharaohs Ascent
+14. Appendix 1 - Pharaohs Procession
+15. Appendix 2 - Pharaohs Ascent
 
+16. Acknowledgements
 17. Afterword
