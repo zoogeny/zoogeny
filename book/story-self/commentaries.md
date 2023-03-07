@@ -103,6 +103,9 @@
         - life in all possible universes
     - Relationship of mind and body as compared to a musical chord
         - plus spirit for a triad
+    - Avoid "nothing is love"
+        - An altruistic trap. Don't work too hard finding ways that you benefit from the positive things you do. e.g. the benefit of social reputation for doing good deeds does not disqualify one from an act of love
+            - This must be within reason, e.g. if the sole purpose is for self-promotion
 
 - Value of prayer
     - Thoughts and prayers around tragic events
@@ -161,6 +164,21 @@
     - Mystical experiences and transcendence
     - Processes happening outside of time
         - In what way is the Nous both separate and united with the One?
+    - Ineffable
+        - Shanon: Information Theory
+        - Gödel: Incompleteness
+        - Turing: Halting problem
+        - Kolmogorov: Algorithmic Complexity
+        - Wolfram: Irreducible complexity
+        - Kant: Phenomenology
+        - Descartes: Dualism
+        - Consider Wittgenstein limits of language
+        - Claude Shanon on information theory
+    - Gnosticism
+        - reject the idea of transcendence beyond God
+    - Revelation and inspiration
+        - reject the possibility of prophets, idols and dogma in general
+        - reject devotional worship
 
 - Pharaohs Procession
 

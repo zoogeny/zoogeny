@@ -26,7 +26,8 @@ The current structure is:
 TODO:
 
 - build scripts, docker files and servers for the apps
-- build scripts for the books
+- build program to convert markdown into ePub
+    - the output of Kindle Create is not very good
 - combined clients for web and mobile
     - consider a component framework to make life easier
         - or build your own - let's try to keep dependencies to a minimum
