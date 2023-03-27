@@ -81,6 +81,9 @@
     - What is the earth's rotational frequency with respect to the sun?
         - frequency is related to some other, larger containing cycle
         - what larger containing cycle do we consider for the orbit of the earth around the sun?
+    - The creation of new religions / spiritual traditions
+        - One river dries up, another river springs up. 
+        - The water still flows from the mountain to the sea.
 
 
 - Value of love
