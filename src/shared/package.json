@@ -1,0 +1,13 @@
+{
+  "name": "zoogeny-shared",
+  "version": "0.1.0",
+  "description": "Shared resources across projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Fassett",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^5.57.0"
+  }
+}
