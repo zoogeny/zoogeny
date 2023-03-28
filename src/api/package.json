@@ -1,0 +1,37 @@
+{
+  "name": "zoogeny-api",
+  "version": "0.1.0",
+  "description": "An api server for the Zoogeny application",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "lint": "npx eslint . && npx prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoogeny/zoogeny.git#master"
+  },
+  "author": "James Fassett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoogeny/zoogeny/issues"
+  },
+  "homepage": "https://github.com/zoogeny/zoogeny/tree/master#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "18.14.6",
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "@typescript-eslint/parser": "^5.57.0",
+    "eslint": "^8.36.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
