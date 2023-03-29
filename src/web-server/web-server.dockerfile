@@ -5,7 +5,11 @@ FROM node:alpine as build
 WORKDIR /home/node/app
 
 # * copie files from the host to the container
-COPY . .
+COPY ./web-server ./web-server
+COPY ./shared ./shared
+
+# * switch to the app directory
+WORKDIR /home/node/app/web-server
 
 # * installs the dependencies
 RUN npm install
@@ -17,9 +21,9 @@ FROM node:alpine
 
 WORKDIR /home/node/app
 
-COPY --from=build --chown=node:node /home/node/app/dist dist
-COPY --from=build --chown=node:node /home/node/app/node_modules node_modules
-COPY --from=build --chown=node:node /home/node/app/package.json package.json
+COPY --from=build --chown=node:node /home/node/app/web-server/dist dist
+COPY --from=build --chown=node:node /home/node/app/web-server/node_modules node_modules
+COPY --from=build --chown=node:node /home/node/app/web-server/package.json package.json
 
 # * sets the environment variable to production
 ENV NODE_ENV=production
