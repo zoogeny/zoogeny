@@ -3,92 +3,92 @@
 - Areas for further study to provide material for future revisions to the book
 
 - Neoplatonism
-    - Enneads and other works by Plotinus
-    - A selection of neoplatonic work from other prominent philosophers and students of Plotinus
+  - Enneads and other works by Plotinus
+  - A selection of neoplatonic work from other prominent philosophers and students of Plotinus
 - Plato
-    - Phaedo
-    - Phaedrus
-    - Timaeus
-    - Parmenides
+  - Phaedo
+  - Phaedrus
+  - Timaeus
+  - Parmenides
 - Aristotle
-    - Nicomachean ethics
+  - Nicomachean ethics
+  - On the Soul
 - Kabbalah (Jewish mysticism)
-    - The Zohar
-    - The Sefer Yetzirah the book of creation
+  - The Zohar
+  - The Sefer Yetzirah the book of creation
 - Jewish Theology
-    - The 5 book of Moses (Torah, pentatuech)
-    - Selections of the prophets (Nevi'im), Writings (Ketuvim) and 
-    - Maimonides Guide for the Perplexed and Mishneh Torah
-    - Talmud (Mishna and Gemara)
+  - The 5 book of Moses (Torah, pentatuech)
+  - Selections of the prophets (Nevi'im), Writings (Ketuvim) and
+  - Maimonides Guide for the Perplexed and Mishneh Torah
+  - Talmud (Mishna and Gemara)
 - Christian Theology
-    - New testament
-        - Special attention to Gospels
-    - Thomas Aquinas
-    - St. Augustine
+  - New testament
+    - Special attention to Gospels
+  - Thomas Aquinas
+  - St. Augustine
 - Taoism
-    - Tao Te Ching
-    - Zhuangzi
+  - Tao Te Ching
+  - Zhuangzi
 - Hinduism
-    - Upanishads
-    - The Bhagavad Gita
-    - Brahma Sutras
-    - The four Vedas (the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda)
-    - Shankara: selected commentaries
+  - Upanishads
+  - The Bhagavad Gita
+  - Brahma Sutras
+  - The four Vedas (the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda)
+  - Shankara: selected commentaries
 - Confucianism
-    - Four books
-        - Great Learning
-        - Doctrine of the Mean
-        - Analects, Mencius
-    - Five classics
-        - Classic of Poetry
-        - Book of Documents
-        - Book of Rites
-        - I Ching
-        - Spring and Autumn Annals
+  - Four books
+    - Great Learning
+    - Doctrine of the Mean
+    - Analects, Mencius
+  - Five classics
+    - Classic of Poetry
+    - Book of Documents
+    - Book of Rites
+    - I Ching
+    - Spring and Autumn Annals
 - Buddhism
-    - Dhammapada
-    - Tripitaka
-        - Pali Canon
-        - Sutta Pitaka
-    - Mahayana Sutras
-        - Ajitasena Sutra
-        - Saddharma-pundarika-sutra (True Dharma White Lotus Sutra) or (Threefold Lotus Sutra)
-    - Nagarjuna
-        - Mūlamadhyamakakārikā (Root Verses on Madhyamaka, or MMK)
+  - Dhammapada
+  - Tripitaka
+    - Pali Canon
+    - Sutta Pitaka
+  - Mahayana Sutras
+    - Ajitasena Sutra
+    - Saddharma-pundarika-sutra (True Dharma White Lotus Sutra) or (Threefold Lotus Sutra)
+  - Nagarjuna
+    - Mūlamadhyamakakārikā (Root Verses on Madhyamaka, or MMK)
 - Zen
-    - Lankavatara Sutra
-    - Diamond Sutra
-    - Vimalakirti Sutra
-    - Avatamsaka Sutra
-    - Buddhavatamsaka Sutra
-    - Platform Sutra
-    - Koans
-        - Gateless Gate
-        - Blue Cliff Record
-    - Linji yulu
-    - Dōgen's Shōbōgenzō
-    - Zenshū Shiburoku
+  - Lankavatara Sutra
+  - Diamond Sutra
+  - Vimalakirti Sutra
+  - Avatamsaka Sutra
+  - Buddhavatamsaka Sutra
+  - Platform Sutra
+  - Koans
+    - Gateless Gate
+    - Blue Cliff Record
+  - Linji yulu
+  - Dōgen's Shōbōgenzō
+  - Zenshū Shiburoku
 - Western Philosophy
-    - Martin Heidegger - Being and Time
-    - Wittgenstein - Philosophical Investigations
-    - William James - The varieties of Religious Experience
-    - Richard Rorty - Contingency, Irony and Solidarity
-    - Spinoza - Ethics
-    - Kierkegaard - Fear and Loathing, Either/Or
-    - Nietzsche - Genealogy of Morals
-    - Camus - Nuptials
+  - Martin Heidegger - Being and Time
+  - Wittgenstein - Philosophical Investigations
+  - William James - The varieties of Religious Experience
+  - Richard Rorty - Contingency, Irony and Solidarity
+  - Spinoza - Ethics
+  - Kierkegaard - Fear and Loathing, Either/Or
+  - Nietzsche - Genealogy of Morals
+  - Camus - Nuptials
 - Continental Philosophy
-    - Foucault - Discipline and Punish
-    - Deleuze - Anti-Oedipus
-    - Derrida - Of Grammatology
+  - Foucault - Discipline and Punish
+  - Deleuze - Anti-Oedipus
+  - Derrida - Of Grammatology
 - Esotericism / Occultism
-    - Hermeticism
-    - Theosophy
-    - Thelema
+  - Hermeticism
+  - Theosophy
+  - Thelema
 - New thought
 - Jainism
 
 ---
 
 - Not sure how to handle the constant "I would like to read" intro to the sources.
-
