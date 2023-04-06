@@ -85,8 +85,8 @@ export class ZoogenyStack extends Stack {
       this,
       `${SERVICE_ID_PREFIX}${serviceName}Task`,
       {
-        cpu: 512,
-        memoryLimitMiB: 1024,
+        cpu: 256,
+        memoryLimitMiB: 512,
       }
     );
 
