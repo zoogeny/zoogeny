@@ -1,11 +1,15 @@
 import express from "express";
+import path from "path";
 import responseTime from "response-time";
+import favicon from "serve-favicon";
 
 import { applyProblemDetails } from "./apiError";
 import { getActivityByOffsetAndLimit, getAllActivities, initDb } from "./dal";
 import { getOptionalNumberParam, validateIso8601DateTime } from "./validator";
 
 const app = express();
+
+app.use(favicon(path.join(__dirname, "../../shared/favicon", "favicon.ico")));
 
 if (process.env.NODE_ENV !== "production") {
   app.use(responseTime());
