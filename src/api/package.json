@@ -7,6 +7,7 @@
     "test": "test",
     "build": "tsc",
     "start": "node dist/index.js",
+    "dev": "nodemon --exec ts-node src/index.ts",
     "lint": "npx eslint . && npx prettier --check ."
   },
   "repository": {
@@ -20,17 +21,22 @@
   },
   "homepage": "https://github.com/zoogeny/zoogeny/tree/master#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "better-sqlite3": "^8.3.0",
+    "express": "^4.18.2",
+    "response-time": "^2.3.2"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "@types/better-sqlite3": "^7.6.4",
     "@types/express": "^4.17.17",
     "@types/node": "18.14.6",
+    "@types/response-time": "^2.3.5",
     "@typescript-eslint/eslint-plugin": "^5.57.0",
     "@typescript-eslint/parser": "^5.57.0",
     "eslint": "^8.36.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.22",
     "prettier": "^2.8.7",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2"
