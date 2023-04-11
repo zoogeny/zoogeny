@@ -34,12 +34,12 @@
     - Maybe GraphQL one day on /graphql endpoint ?
 
   - MVP urls for schedule app (/schedule/v1/ is the implied prefix):
-    - GET ./events?start={unixdatetimestamp}&end={unixdatetimestamp}
-      - error on invalide start or end (or combination)
+    - GET ./activities/{iso8601-start}/{iso8601-end}/
+      - error on invalid start or end (or combination)
       - paged by default
-        - optional {offset}={integer offset} (default 0)
-        - optional {limit}={limit} (default XXX)
-    - POST ./events
+        - optional query param {offset}={integer offset} (default 0)
+        - optional query param {limit}={integer limit} (default 100)
+    - POST ./activities
       - JSON body with details of event to create
     - PUT & DELETE with event-id? for update and delete?
 
@@ -63,5 +63,11 @@
   - not sure of credible alternatives
 
 - Consider ChatGPT integration sooner than later
+
   - Consider how to deal with validation for this case
     - e.g. on-behalf-of kind of situations
+
+- NOTE on nomenclature:
+  - event: something that happened
+  - activity: consumes both duration and resources
+  - That suggests that I should use the term "activity" for my schedule database and not event

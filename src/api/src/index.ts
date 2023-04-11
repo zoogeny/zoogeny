@@ -1,7 +1,9 @@
 import express from "express";
 import responseTime from "response-time";
 
-import { getAllActivities, initDb } from "./dal";
+import { applyProblemDetails } from "./apiError";
+import { getActivityByOffsetAndLimit, getAllActivities, initDb } from "./dal";
+import { getOptionalNumberParam, validateIso8601DateTime } from "./validator";
 
 const app = express();
 
@@ -20,6 +22,33 @@ app.get("/init-db", (req, res) => {
 
 app.get("/activities", (req, res) => {
   const activities = getAllActivities();
+  res.send(activities);
+});
+
+app.get("/activities/:startAt/:endAt", (req, res) => {
+  const { startAt, endAt } = req.params;
+  const offset = getOptionalNumberParam(req.query, "offset");
+  const limit = getOptionalNumberParam(req.query, "limit");
+
+  if (
+    (offset !== undefined && offset < 0) ||
+    (limit !== undefined && limit < 0)
+  ) {
+    return applyProblemDetails(res, "invalid-pagination");
+  }
+
+  const startAtDate = validateIso8601DateTime(startAt);
+  const endAtDate = validateIso8601DateTime(endAt);
+
+  if (!startAtDate || !endAtDate) {
+    return applyProblemDetails(res, "invalid-date-format");
+  }
+
+  if (startAtDate >= endAtDate) {
+    return applyProblemDetails(res, "invalid-date-range");
+  }
+
+  const activities = getActivityByOffsetAndLimit(startAt, endAt, offset, limit);
   res.send(activities);
 });
 

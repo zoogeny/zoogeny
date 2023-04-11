@@ -19,6 +19,16 @@ const createActivitySQL = `CREATE TABLE IF NOT EXISTS "activities" (
 
 const getAllActivitiesSQL = `SELECT * FROM activities`;
 
+const getActivityByOffsetAndLimitSQL = `SELECT * FROM activities 
+  WHERE activity_id NOT IN (SELECT activity_id FROM activities
+    WHERE start_at >= :startAt AND end_at <= :endAt
+    ORDER BY start_at DESC LIMIT :offset)
+  AND start_at >= :startAt AND end_at <= :endAt
+  ORDER BY start_at DESC LIMIT :limit`;
+
+const countActivitiesBetweenDatesSQL = `SELECT COUNT(*) FROM activities
+  WHERE start_at >= :startAt AND end_at <= :endAt`;
+
 const readWriteDb = () => {
   const db = new BetterSqlite3("./test.sqlite", {
     fileMustExist: true,
@@ -55,4 +65,28 @@ export const getAllActivities = () => {
   const activities = db.prepare(getAllActivitiesSQL).all();
   db.close();
   return activities;
+};
+
+export const getActivityByOffsetAndLimit = (
+  startAt: string,
+  endAt: string,
+  offset = 0,
+  limit = 100
+) => {
+  const db = readOnlyDb();
+  const activities = db.prepare(getActivityByOffsetAndLimitSQL).all({
+    startAt,
+    endAt,
+    offset,
+    limit,
+  });
+  const totalActivities = db
+    .prepare(countActivitiesBetweenDatesSQL)
+    .pluck()
+    .get({
+      startAt,
+      endAt,
+    });
+  db.close();
+  return { activities, totalActivities, offset, limit, startAt, endAt };
 };
