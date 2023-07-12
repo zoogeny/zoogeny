@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36.000004mm"
+   height="36.000004mm"
+   viewBox="0 0 36.000004 36.000004"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.338598,-63.869745)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.97802;stroke-dasharray:none;stroke-opacity:1"
+       id="path167-95"
+       cy="-81.869743"
+       cx="73.3386"
+       transform="scale(1,-1)"
+       rx="16.51099"
+       ry="16.510988"
+       inkscape:export-filename="zoogeny-logo-white-bg.svg"
+       inkscape:export-xdpi="361.24619"
+       inkscape:export-ydpi="361.24619" />
+    <g
+       aria-label="ZG
+NY"
+       id="text5385"
+       style="font-weight:900;font-size:12.3235px;line-height:0.9;font-family:Arial;-inkscape-font-specification:'Arial Heavy';letter-spacing:0px;word-spacing:0px;stroke:#ffffff;stroke-width:0.679248">
+      <path
+         d="m 64.507801,71.988678 h 7.714222 v 1.763079 l -4.946248,5.162872 h 5.126768 v 1.89546 H 64.032432 V 78.98082 l 4.892092,-5.108717 h -4.416723 z"
+         style="stroke:#000000"
+         id="path6357" />
+      <path
+         d="m 78.064854,77.614885 v -1.835287 h 4.212134 v 3.760834 q -1.209484,0.824374 -2.142171,1.125241 -0.926669,0.294849 -2.202344,0.294849 -1.570524,0 -2.563384,-0.535542 -0.986843,-0.535543 -1.534421,-1.594594 -0.54156,-1.05905 -0.54156,-2.431003 0,-1.44416 0.595716,-2.509228 0.595716,-1.071085 1.745027,-1.62468 0.896583,-0.427231 2.412951,-0.427231 1.462212,0 2.184292,0.264763 0.728098,0.264763 1.203467,0.824375 0.481387,0.553595 0.72208,1.408056 l -2.629575,0.469352 q -0.162468,-0.499439 -0.553595,-0.764201 -0.385109,-0.264763 -0.986842,-0.264763 -0.896583,0 -1.432126,0.625803 -0.529525,0.619785 -0.529525,1.967668 0,1.432125 0.535543,2.045893 0.54156,0.613768 1.504333,0.613768 0.457317,0 0.872513,-0.132381 0.415197,-0.132381 0.950739,-0.4513 v -0.830392 z"
+         style="stroke:#000000"
+         id="path6359" />
+      <path
+         d="m 64.748495,83.079827 h 2.545332 l 3.321568,4.880058 v -4.880058 h 2.569402 v 8.821412 h -2.569402 l -3.303516,-4.843954 v 4.843954 h -2.563384 z"
+         style="stroke:#000000"
+         id="path6361" />
+      <path
+         d="m 74.105449,83.079827 h 3.026719 l 1.781131,2.97858 1.781131,-2.97858 h 3.008666 l -3.42988,5.126769 v 3.694643 h -2.731869 v -3.694643 z"
+         style="stroke:#000000"
+         id="path6363" />
+    </g>
+  </g>
+</svg>
