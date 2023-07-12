@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getPostList } from "../dal";
+import { getPostList } from "../../dal";
 
 export default function Blog() {
   const posts = getPostList();
